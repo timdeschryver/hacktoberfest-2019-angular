@@ -38,7 +38,6 @@ jobs:
         with:
           name: hacktoberfest-2019-angular
           path: build
-      - run: cat build
       - name: Deploy GitHub Pages
         uses: peaceiris/actions-gh-pages@v2.4.0
         env:
