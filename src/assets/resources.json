@@ -1,4 +1,19 @@
 {
   "$schema": "./resources-schema.json",
-  "resources": []
+  "resources": [
+    {
+      "title": "Push-based Architectures with RxJS",
+      "description": "Most developers learn to program, code, and build software architectures using traditional Pull-based approaches. In the world of web applications and asynchronous, rich user experiences this approach is flawed, rampant with myriad problems, and is fundamentally wrong.",
+      "author": {
+        "name": "Thomas Burleson",
+        "profile": "https://twitter.com/thomasburleson"
+      },
+      "url": "https://medium.com/@thomasburlesonIA/push-based-architectures-with-rxjs-81b327d7c32d",
+      "category": "article",
+      "contributor": {
+        "name": "Tim Deschryver",
+        "profile": "https://twitter.com/@tim_deschryver"
+      }
+    }
+  ]
 }
