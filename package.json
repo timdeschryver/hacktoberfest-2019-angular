@@ -11,7 +11,7 @@
     "compile:server": "webpack --config webpack.server.config.js --progress --colors",
     "serve:ssr": "node dist/server",
     "build:ssr": "npm run build:client-and-server-bundles && npm run compile:server",
-    "build:client-and-server-bundles": "ng build --prod && ng run hacktoberfest2019-angular-resources:server:production --bundleDependencies all",
+    "build:client-and-server-bundles": "ng build --prod --base-href /hacktoberfest-2019-angular/ && ng run hacktoberfest2019-angular-resources:server:production --bundleDependencies all",
     "dev": "npm run build:ssr && npm run serve:ssr"
   },
   "private": true,
