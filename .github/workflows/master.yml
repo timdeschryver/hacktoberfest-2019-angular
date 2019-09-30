@@ -1,0 +1,50 @@
+name: Master
+
+on:
+  push:
+    branches:
+      - master
+      
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [10.x]
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: npm install and build
+      run: |
+        npm ci
+        npm run build:ssr
+      env:
+        CI: true
+    - uses: actions/upload-artifact@v1.0.0
+      with:
+        name: hacktoberfest-2019-angular
+        path: dist/browser
+          
+  publish:
+    needs: [build]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/download-artifact@v1.0.0
+        with:
+          name: hacktoberfest-2019-angular
+          path: build
+      - run: cat build
+      - name: Deploy GitHub Pages
+        uses: peaceiris/actions-gh-pages@v2.4.0
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BASE_BRANCH: master
+          BRANCH: gh-pages
+          FOLDER: build
+
+      

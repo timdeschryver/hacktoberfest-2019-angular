@@ -43,11 +43,11 @@ export class ResourcesService {
 
     this.query$
       .subscribe(query => {
-        this.router.navigate([], {
+        this.router.navigate([], query ? {
           queryParams: {
             query
           },
-        });
+        } : {});
       });
   }
 
