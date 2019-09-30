@@ -1,1 +1,241 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+@import '~@angular/material/theming';
+
+@include mat-core();
+
+$md-hacktoberfest: (
+    50 : #e3e5e9,
+    100 : #b9bdc8,
+    200 : #8a91a3,
+    300 : #5b657e,
+    400 : #384463,
+    500 : #152347,
+    600: #1d2c4e,
+    700 : #0f1a37,
+    800 : #0c152f,
+    900 : #060c20,
+    A100 : #5e77ff,
+    A200 : #2b4cff,
+    A400 : #0027f7,
+    A700 : #0023dd,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #ffffff,
+        400 : #ffffff,
+        500 : #ffffff,
+        600 : #ffffff,
+        700 : #ffffff,
+        800 : #ffffff,
+        900 : #ffffff,
+        A100 : #ffffff,
+        A200 : #ffffff,
+        A400 : #ffffff,
+        A700 : #ffffff,
+    )
+);
+
+$md-hacktoberfest-accent: (
+    50 : #f4e4f8,
+    100 : #e3bcee,
+    200 : #d08fe3,
+    300 : #bd62d7,
+    400 : #af40cf,
+    500 : #a11ec6,
+    600 : #991ac0,
+    700 : #8f16b9,
+    800 : #8512b1,
+    900 : #740aa4,
+    A100 : #efd1ff,
+    A200 : #dd9eff,
+    A400 : #cc6bff,
+    A700 : #c351ff,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #000000,
+        400 : #ffffff,
+        500 : #ffffff,
+        600 : #ffffff,
+        700 : #ffffff,
+        800 : #ffffff,
+        900 : #ffffff,
+        A100 : #000000,
+        A200 : #000000,
+        A400 : #000000,
+        A700 : #000000,
+    )
+);
+
+
+$primary: mat-palette($md-hacktoberfest);
+$accent: mat-palette($md-hacktoberfest-accent);
+$theme: mat-dark-theme($primary, $accent);
+
+@include angular-material-theme($theme);
+
+@mixin hacktoberfest-theme($theme) {
+  $primary: map-get($theme, primary);
+  $accent: map-get($theme, accent);
+
+  .hacktoberfest {
+    * {
+      font-family: 'Space Mono', monospace !important;
+    }
+
+    mat-grid-tile {
+      min-width: 360px;
+    }
+
+    mat-grid-tile {
+      animation: enter var(--duration) cubic-bezier(.5, 0, .2, 1) backwards;
+      transition: all 0.3s ease;
+
+      &.placeholder {
+        border: 2px dashed mat-color($accent, 500);
+
+        mat-card {
+          mat-card-header {
+            justify-content: center;
+            margin: 60px;
+            margin-bottom: 15px;
+          }
+
+          mat-card-content {
+            text-align: center;
+          }
+        }
+      }
+
+      &:hover {
+        transform: translateY(-0.25em) scale(1.04, 1.04);
+        box-shadow: 0.3em 0.5em 0.5em -0.4em mat-color($accent, 500);
+      }
+    }
+
+    mat-card {
+      background-color: mat-color($primary, 600);
+      width: 100%;
+      height: 100%;
+      display:flex;
+      flex-direction: column;
+
+      mat-card-header {
+        display: flex;
+        flex-direction: row;
+        flex-shrink: 0;
+      }
+
+      mat-card-content {
+        flex-grow: 1;
+        overflow: hidden;
+        color: #99a1b3;
+
+        > p {
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 5;
+          overflow: hidden;
+        }
+      }
+
+      .mat-card-actions:last-child {
+        margin-bottom: 12px;
+        a {
+          line-height: 36px;
+        }
+      }
+    }
+
+    mat-sidenav-container {
+      background-color: mat-color($primary, 500);
+    }
+
+    .mat-form-field.mat-focused {
+      .mat-form-field-label {
+        color: mat-color($accent, 500);
+      }
+
+      .mat-form-field-ripple {
+        background-color: mat-color($accent, 500);
+      }
+    }
+
+    .mat-card-header-text {
+      margin: 0;
+      margin-top: 12px;
+    }
+
+    mat-sidenav-content {
+      padding: 0rem 7rem;
+    }
+
+    mat-toolbar {
+      h1 {
+        font-size: 1.2rem;
+        color: #fff922;
+      }
+
+      .social {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: flex-end;
+
+        a {
+          display: flex;
+          align-items: center;
+        }
+
+        a:hover {
+          opacity: 0.8;
+        }
+      }
+    }
+
+    .mat-accent:hover {
+      color:#fafafa;
+    }
+
+    a {
+      color: mat-color($accent, 500);
+      text-decoration: none;
+      white-space: nowrap;
+      text-align: center;
+    }
+
+    a:hover{
+      color: mat-color($accent, 700);
+    }
+
+    footer {
+      border-top: 1px solid #fff922;
+      padding: .7em 0;
+    }
+  }
+}
+
+@include hacktoberfest-theme($theme);
+
+
+html, body {
+  height: 100%;
+  background: #152347;
+}
+
+body {
+  margin: 0;
+  font-family: 'Space Mono', monospace;
+}
+
+footer {
+  text-align: center;
+}
+
+.pull-right {
+  float: right;
+}

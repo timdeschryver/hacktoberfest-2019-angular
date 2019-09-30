@@ -1,0 +1,41 @@
+{
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "resources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": { "type": "string" },
+          "description": { "type": "string" },
+          "author": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "profile": { "type": "string" }
+            },
+            "required": ["name"],
+            "additionalProperties": false
+          },
+          "image": { "type": "string" },
+          "url": { "type": "string" },
+          "category": { "enum": [ "library", "article", "talk" ] },
+          "contributor": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "profile": { "type": "string" }
+            },
+            "required": ["name"],
+            "additionalProperties": false
+          }
+        },
+        "required": ["title", "description", "author", "url", "category", "contributor"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
