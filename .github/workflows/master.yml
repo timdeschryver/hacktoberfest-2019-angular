@@ -41,9 +41,8 @@ jobs:
       - name: Deploy GitHub Pages
         uses: peaceiris/actions-gh-pages@v2.4.0
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BASE_BRANCH: master
-          BRANCH: gh-pages
-          FOLDER: build
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: ./build
 
       
