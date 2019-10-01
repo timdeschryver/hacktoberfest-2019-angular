@@ -28,6 +28,20 @@
         "name": "Santosh Yadav",
         "profile": "https://twitter.com/Santosh19742211"
       }
+    },
+    {
+      "title": "Learn to combine RxJs sequences with super intuitive interactive diagrams",
+      "description": "Sequence composition is a technique that enables you to create complex queries across multiple data sources by combing relevant streams into one. RxJs provides a variety of operators that can help you do that and in this article you will be able to look at the most commonly used.",
+      "author": {
+        "name": "Max Koretskyi aka Wizard",
+        "profile": "https://blog.angularindepth.com/@maxim.koretskyi"
+      },
+      "url": "https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511",
+      "category": "article",
+      "contributor": {
+        "name": "Charles Robertson",
+        "profile": "http://www.mushroom-man.com"
+      }
     }
   ]
 }
