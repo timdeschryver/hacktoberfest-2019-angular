@@ -15,7 +15,7 @@
         "profile": "https://twitter.com/@tim_deschryver"
       }
     },
-      {
+    {
       "title": "These 5 articles will make you an Angular Change Detection expert",
       "description": "Change detection is really important in Angular and If you want to know everything about it, go through these 5 articles from Max.",
       "author": {
@@ -47,14 +47,27 @@
       "title": "Create reactive forms like a Pro",
       "description": "Learn how to create custom and maintanable form controls for production.",
       "author": {
-          "name": "Tim Deschryver",
-          "profile": "https://blog.angularindepth.com/@timdeschryver"
+        "name": "Tim Deschryver",
+        "profile": "https://blog.angularindepth.com/@timdeschryver"
       },
       "url": "https://blog.angularindepth.com/working-with-angular-forms-in-an-enterprise-environment-8279df4ae6fd",
       "category": "article",
       "contributor": {
-          "name": "Francesco Leardini",
-          "profile": "https://dev.to/paco_ita"
+        "name": "Francesco Leardini",
+        "profile": "https://dev.to/paco_ita"
+      }
+    },
+    {
+      "title": "What GroupsBy in Vegas",
+      "description": "Learn about the groupby RxJS operator and how it can help creating complex and reactive user interfaces",
+      "author": {
+        "name": "Mike Ryan & Sam Julien"
+      },
+      "url": "https://www.youtube.com/watch?v=hsr4ArAsOL4",
+      "category": "talk",
+      "contributor": {
+        "name": "Sebastian Vates",
+        "profile": "https://twitter.com/svates"
       }
     },
     {
