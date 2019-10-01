@@ -56,6 +56,20 @@
           "name": "Francesco Leardini",
           "profile": "https://dev.to/paco_ita"
       }
+    },
+    {
+      "title": "The Complete Guide to Angular Performance Tuning",
+      "description": "Best practices to achieve better performance in your Angular app.",
+      "author": {
+          "name": "Christian Lüdemann",
+          "profile": "https://twitter.com/chrislydemann"
+      },
+      "url": "https://christianlydemann.com/the-complete-guide-to-angular-performance-tuning/",
+      "category": "article",
+      "contributor": {
+          "name": "Wisner Júnior",
+          "profile": "https://twitter.com/wisner_jr"
+      }
     }
   ]
 }
