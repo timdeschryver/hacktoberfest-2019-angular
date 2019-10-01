@@ -27,7 +27,7 @@ A resource has to look a certain way, here below you can find an example:
     "profile": "A link to the author's bio - this is optional"
   },
   "url": "The url to the resource",
-  "category": "The category of the resource this can be one of the following, library, article, or talk",
+  "category": "The category of the resource this can be one of the following, library, article, talk, or recording",
   "contributor": {
     "name": "Your name",
     "profile": "A link to your bio - this is optional"
