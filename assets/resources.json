@@ -14,6 +14,20 @@
         "name": "Tim Deschryver",
         "profile": "https://twitter.com/@tim_deschryver"
       }
+    },
+      {
+      "title": "These 5 articles will make you an Angular Change Detection expert",
+      "description": "Change detection is really important in Angular and If you want to know everything about it, go through these 5 articles from Max.",
+      "author": {
+        "name": "Max Koretskyi aka Wizard",
+        "profile": "https://twitter.com/maxkorerskyi"
+      },
+      "url": "https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930",
+      "category": "article",
+      "contributor": {
+        "name": "Santosh Yadav",
+        "profile": "https://twitter.com/Santosh19742211"
+      }
     }
   ]
 }
