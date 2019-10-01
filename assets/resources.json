@@ -167,6 +167,20 @@
         "name": "Mariana Zangrossi",
         "profile": "https://github.com/marianazangrossi"
       }
+    },
+    {
+      "title": "Creating a Front-End for Your User Profile Store with Angular and TypeScript",
+      "description": "Learn to create a client front-end written in Angular with TypeScript, that communicates with each of the API endpoints.",
+      "author": {
+        "name": "Nic Raboy",
+        "profile": "https://blog.couchbase.com/author/nic-raboy-2/"
+      },
+      "url": "https://blog.couchbase.com/creating-front-end-user-profile-store-angular-typescript/",
+      "category": "article",
+      "contributor": {
+        "name": "Sakshi Chandel",
+        "profile": "https://github.com/SAKSHI-CHANDEL"
+      }
     }
   ]
 }
