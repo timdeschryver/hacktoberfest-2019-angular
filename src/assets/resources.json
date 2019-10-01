@@ -125,6 +125,20 @@
         "name": "Gérôme Grignon",
         "profile": "https://twitter.com/GeromeGrignon"
       }
+    },
+    {
+      "title": "",
+      "description": "Funny article about some useful rxjs best practices",
+      "author": {
+        "name": "Nik Poltoratsky",
+        "profile": "https://twitter.com/NikPoltoratsky"
+      },
+      "url": "https://dev.to/nikpoltoratsky/don-t-follow-rxjs-best-practices-4893",
+      "category": "article",
+      "contributor": {
+        "name": "Mauro Garcia",
+        "profile": "https://twitter.com/maurogarcia_19"
+      }
     }
   ]
 }
