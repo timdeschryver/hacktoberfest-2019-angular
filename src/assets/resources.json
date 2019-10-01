@@ -139,6 +139,20 @@
         "name": "Mauro Garcia",
         "profile": "https://twitter.com/maurogarcia_19"
       }
+    },
+    {
+      "title": "Angular Folder Structure",
+      "description": "How to build a good folder structure on Angular",
+      "author": {
+        "name": "Tom Cowley",
+        "profile": "https://medium.com/@motcowley"
+      },
+      "url": "https://medium.com/@motcowley/angular-folder-structure-d1809be95542",
+      "category": "article",
+      "contributor": {
+        "name": "Mariana Zangrossi",
+        "profile": "https://github.com/marianazangrossi"
+      }
     }
   ]
 }
