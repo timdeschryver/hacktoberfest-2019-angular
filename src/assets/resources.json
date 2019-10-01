@@ -42,6 +42,20 @@
         "name": "Charles Robertson",
         "profile": "http://www.mushroom-man.com"
       }
+    },
+    {
+      "title": "Create reactive forms like a Pro",
+      "description": "Learn how to create custom and maintanable form controls for production.",
+      "author": {
+          "name": "Tim Deschryver",
+          "profile": "https://blog.angularindepth.com/@timdeschryver"
+      },
+      "url": "https://blog.angularindepth.com/working-with-angular-forms-in-an-enterprise-environment-8279df4ae6fd",
+      "category": "article",
+      "contributor": {
+          "name": "Francesco Leardini",
+          "profile": "https://dev.to/paco_ita"
+      }
     }
   ]
 }
