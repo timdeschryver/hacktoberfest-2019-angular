@@ -127,7 +127,6 @@
       }
     },
     {
-
       "title": "Going full-stack Angular with NestJs",
       "description": "A demo showing how to add NestJS to an existing Angular application and take advantage of their tooling to show off Server Side Rendering with a fully integrated frontend and backend. (Harnessing the power of Typescript)",
       "author": {
@@ -139,7 +138,9 @@
       "contributor": {
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
-
+       }
+     },
+     {
       "title": "Don't follow RxJS Best Practices",
       "description": "Funny article about some useful rxjs best practices",
       "author": {
@@ -165,7 +166,6 @@
       "contributor": {
         "name": "Mariana Zangrossi",
         "profile": "https://github.com/marianazangrossi"
-
       }
     }
   ]
