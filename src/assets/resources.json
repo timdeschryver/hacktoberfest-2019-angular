@@ -127,7 +127,7 @@
       }
     },
     {
-      "title": "",
+      "title": "Don't follow RxJS Best Practices",
       "description": "Funny article about some useful rxjs best practices",
       "author": {
         "name": "Nik Poltoratsky",
