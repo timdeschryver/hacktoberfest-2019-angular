@@ -83,6 +83,20 @@
           "name": "Wisner Júnior",
           "profile": "https://twitter.com/wisner_jr"
       }
+    },
+    {
+      "title": "Game Development: Tetris in Angular",
+      "description": "Learn how to create the classic game Tetris using Angular.",
+      "author": {
+        "name": "Michael Karén",
+        "profile": "https://twitter.com/melcor76"
+      },
+      "url": "https://blog.angularindepth.com/game-development-tetris-in-angular-64ef96ce56f7",
+      "category": "article",
+      "contributor": {
+        "name": "Joshua Colvin",
+        "profile": "https://twitter.com/joshuacolvin"
+      }
     }
   ]
 }
