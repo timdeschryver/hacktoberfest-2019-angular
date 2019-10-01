@@ -39,9 +39,10 @@ export class AppComponent implements OnInit {
   );
 
   category = {
-    'talk': '📺',
+    'talk': '🎤',
     'article': '📝',
-    'library': '🔧'
+    'library': '🔧',
+    'recording': '📺'
   };
 
   constructor(private resourcesService: ResourcesService, private breakpointObserver: BreakpointObserver) { }
