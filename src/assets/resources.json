@@ -209,6 +209,20 @@
         "name": "Sonu Sharma",
         "profile": "https://github.com/iams0nus"
       }
+    },
+    {
+      "title": "RxJS Top Ten - Code This, Not That",
+      "description": "ten important concepts in RxJS and how to avoid common anti-patterns",
+      "author": {
+        "name": "Fireside",
+        "profile": "https://twitter.com/fireship_dev"
+      },
+      "url": "https://www.youtube.com/watch?v=ewcoEYS85Co",
+      "category": "recording",
+      "contributor": {
+        "name": "Rama Ochieng",
+        "profile": "github.com/orama254"
+      }
     }
   ]
 }
