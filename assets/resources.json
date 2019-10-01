@@ -74,14 +74,14 @@
       "title": "The Complete Guide to Angular Performance Tuning",
       "description": "Best practices to achieve better performance in your Angular app.",
       "author": {
-          "name": "Christian Lüdemann",
-          "profile": "https://twitter.com/chrislydemann"
+        "name": "Christian Lüdemann",
+        "profile": "https://twitter.com/chrislydemann"
       },
       "url": "https://christianlydemann.com/the-complete-guide-to-angular-performance-tuning/",
       "category": "article",
       "contributor": {
-          "name": "Wisner Júnior",
-          "profile": "https://twitter.com/wisner_jr"
+        "name": "Wisner Júnior",
+        "profile": "https://twitter.com/wisner_jr"
       }
     },
     {
@@ -138,9 +138,9 @@
       "contributor": {
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
-       }
-     },
-     {
+      }
+    },
+    {
       "title": "Don't follow RxJS Best Practices",
       "description": "Funny article about some useful rxjs best practices",
       "author": {
@@ -194,6 +194,20 @@
       "contributor": {
         "name": "Colin Ogoo",
         "profile": "https://twitter.com/c_ogoo"
+      }
+    },
+    {
+      "title": "A Super Ninja Trick To Learn RxJS’s “switchMap”, “mergeMap”, “concatMap” and “exhaustMap”, FOREVER! 😎",
+      "description": "Learn and understand RXJS's map operators in a fun way, that you'll never forget",
+      "author": {
+        "name": "Shai Reznik",
+        "profile": "https://twitter.com/shai_reznik"
+      },
+      "url": "https://medium.com/@shairez/a-super-ninja-trick-to-learn-rxjss-switchmap-mergemap-concatmap-and-exhaustmap-forever-88e178a75f1b",
+      "category": "article",
+      "contributor": {
+        "name": "Sonu Sharma",
+        "profile": "https://github.com/iams0nus"
       }
     }
   ]
