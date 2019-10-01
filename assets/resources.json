@@ -236,6 +236,34 @@
         "name": "Gilbert Jabbour",
         "profile": "github.com/gilbert32"
       }
+    },
+    {
+      "title": "Angular IsLoadingService",
+      "description": "A simple and flexible loading indicator service for Angular apps.",
+      "author": {
+        "name": "John Carroll",
+        "profile": "https://dev.to/johncarroll"
+      },
+      "url": "https://gitlab.com/service-work/is-loading",
+      "category": "library",
+      "contributor": {
+        "name": "John Carroll",
+        "profile": "https://dev.to/johncarroll"
+      }
+    },
+    {
+      "title": "Angular SizeObserver",
+      "description": "An Angular library for styling DOM elements based on their display size in the browser.",
+      "author": {
+        "name": "John Carroll",
+        "profile": "https://dev.to/johncarroll"
+      },
+      "url": "https://gitlab.com/service-work/size-observer",
+      "category": "library",
+      "contributor": {
+        "name": "John Carroll",
+        "profile": "https://dev.to/johncarroll"
+      }
     }
   ]
 }
