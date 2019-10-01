@@ -97,6 +97,34 @@
         "name": "Joshua Colvin",
         "profile": "https://twitter.com/joshuacolvin"
       }
+    },
+    {
+      "title": "Progressive web apps with Angular book",
+      "description": "1st comprehensive (380+ pages) Angular PWA Book : Create Responsive, Fast and Reliable Angular PWAs",
+      "author": {
+        "name": "Majid Hajian",
+        "profile": "https://twitter.com/mhadaily"
+      },
+      "url": "https://www.pwawithangular.com/",
+      "category": "article",
+      "contributor": {
+        "name": "Gérôme Grignon",
+        "profile": "https://twitter.com/GeromeGrignon"
+      }
+    },
+    {
+      "title": "Transloco: Angular Internationalization Done Right",
+      "description": "internationalization (i18n) library for Angular",
+      "author": {
+        "name": "Netanel Basal",
+        "profile": "https://twitter.com/NetanelBasal"
+      },
+      "url": "https://github.com/ngneat/transloco",
+      "category": "library",
+      "contributor": {
+        "name": "Gérôme Grignon",
+        "profile": "https://twitter.com/GeromeGrignon"
+      }
     }
   ]
 }
