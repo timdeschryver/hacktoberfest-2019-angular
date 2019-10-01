@@ -222,6 +222,18 @@
       "contributor": {
         "name": "Rama Ochieng",
         "profile": "github.com/orama254"
+      },
+     {
+      "title": "NGXS",
+      "description": "NGXS is a state management pattern + library for Angular. It acts as a single source of truth for your application's state, providing simple rules for predictable state mutations.",
+      "author": {
+        "name": "ngxs"
+      },
+      "url": "https://www.ngxs.io/",
+      "category": "library",
+      "contributor": {
+        "name": "Gilbert Jabbour",
+        "profile": "github.com/gilbert32"
       }
     }
   ]
