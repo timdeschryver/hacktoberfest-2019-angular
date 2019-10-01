@@ -3,7 +3,7 @@ name: Deployed
 # Trigger the workflow on pull request activity
 on:
   release:
-    types: [published]
+    types: [created]
 
 jobs:
   greeting:
