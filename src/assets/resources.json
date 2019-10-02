@@ -347,6 +347,20 @@
         "name": "Jibin Thomas Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
+    },
+    {
+      "title": "The Principles for Writing Awesome Angular Components",
+      "description": "Some of the best practices and lessons that the community has learned in the last few years, and some of the mistakes that I have seen as a consultant in the front-end world.",
+      "author": {
+        "name": "Giancarlo Buomprisco",
+        "profile": "https://twitter.com/gc_psk"
+      },
+      "url": "https://blog.bitsrc.io/the-principles-for-writing-awesome-angular-components-10e45f9ae77e",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
     }
   ]
 }
