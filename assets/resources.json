@@ -236,6 +236,19 @@
         "name": "Gilbert Jabbour",
         "profile": "github.com/gilbert32"
       }
+    },
+    {
+      "title": "Angular Push Notifications",
+      "description": "In this post, we are going to go through a complete example of how to implement Web Push Notifications in an Angular Application using the Angular Service Worker.",
+      "author": {
+        "name": "Angular University"
+      },
+      "url": "https://blog.angular-university.io/angular-push-notifications/",
+      "category": "article",
+      "contributor": {
+        "name": "Mario Moreno",
+        "profile": "github.com/soymariomoreno"
+      }
     }
   ]
 }
