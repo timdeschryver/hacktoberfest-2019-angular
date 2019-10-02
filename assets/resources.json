@@ -417,6 +417,20 @@
         "name": "Stephen Adams",
         "profile": "https://twitter.com/stephenradams"
       }
+    },
+    {
+      "title": "Sustainable Angular Architectures",
+      "description": "Sustainable Angular Architectures with Strategic Design And Monorepos",
+      "author": {
+        "name": "Manfred Steyer",
+        "profile": "https://twitter.com/ManfredSteyer"
+      },
+      "url": "https://www.softwarearchitekt.at/aktuelles/sustainable-angular-architectures-1/",
+      "category": "article",
+      "contributor": {
+        "name": "Jeffrey Bosch",
+        "profile": "https://twitter.com/jefiozie"
+      }
     }
   ]
 }
