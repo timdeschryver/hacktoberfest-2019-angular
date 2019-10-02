@@ -236,6 +236,19 @@
         "name": "Gilbert Jabbour",
         "profile": "github.com/gilbert32"
       }
+    },
+    {
+      "title": "A first look into the Angular CDK",
+      "description": "",
+      "author": {
+        "name": "Carlos Roso"
+      },
+      "url": "https://hackernoon.com/a-first-look-into-the-angular-cdk-67e68807ed9b",
+      "category": "article",
+      "contributor": {
+        "name": "Khanh Nguyen",
+        "profile": "https://github.com/NHKK"
+      }
     }
   ]
 }
