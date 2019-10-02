@@ -239,7 +239,7 @@
     },
     {
       "title": "A first look into the Angular CDK",
-      "description": "",
+      "description": "A brief intro on angular material cdk to build complex components leveraging portals.",
       "author": {
         "name": "Carlos Roso"
       },
