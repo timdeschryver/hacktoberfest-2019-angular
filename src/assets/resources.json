@@ -556,6 +556,20 @@
         "name": "Raymond Coplin",
         "profile": "https://twitter.com/raymondcoplin"
       }
+    },
+    {
+      "title": "Angular Unit Testing Made Easy with Jest and Spectator",
+      "description": "The official setup that comes with Angular CLI can be a bit time consuming due to writing lot of boilerplate code. This article provides an easier, alternative setup using Jest and Spectator.",
+      "author": {
+        "name": "Van Huynh",
+        "profile": "https://itnext.io/@vanister"
+      },
+      "url": "https://itnext.io/testing-angular-applications-with-jest-and-spectator-c05991579807",
+      "category": "article",
+      "contributor": {
+        "name": "Arindam Dawn",
+        "profile": "https://github.com/arindamdawn"
+      }
     }
   ]
 }
