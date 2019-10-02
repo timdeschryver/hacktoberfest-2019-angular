@@ -558,6 +558,20 @@
       }
     },
     {
+      "title": "[ES] Programación Reactiva con RxJs",
+      "description": "Introduction to reactive programming in spanish.",
+      "author": {
+        "name": "Pablo Magaz",
+        "profile": "https://twitter.com/pablo_magaz"
+      },
+      "url": "https://pablomagaz.com/blog/programacion-reactiva-con-rxjs",
+      "category": "article",
+      "contributor": {
+        "name": "Raymond Coplin",
+        "profile": "https://twitter.com/raymondcoplin"
+      }
+    },
+     {
       "title": "Angular Unit Testing Made Easy with Jest and Spectator",
       "description": "The official setup that comes with Angular CLI can be a bit time consuming due to writing lot of boilerplate code. This article provides an easier, alternative setup using Jest and Spectator.",
       "author": {
