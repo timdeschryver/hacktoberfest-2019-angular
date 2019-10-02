@@ -361,6 +361,76 @@
         "name": "Jibin Thomas Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
+    },
+     {
+      "title": "SOLID: The Dependency Inversion Principle in Angular",
+      "description": "Get a better understanding of the DI principle and how it is implemented in Angular.",
+      "author": {
+        "name": "Chidume Nnamdi",
+        "profile": "https://twitter.com/ngArchangel"
+      },
+      "url": "https://blog.bitsrc.io/solid-the-dependency-inversion-principle-in-angular-6e4b9c484960",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "Keep it Small: Find Components By Bundle-Size and Dependencies",
+      "description": "New: filter components by bundle-size and dependencies before installing them in your application.",
+      "author": {
+        "name": "Jonathan Saring",
+        "profile": "https://blog.bitsrc.io/@JonathanSaring"
+      },
+      "url": "https://blog.bitsrc.io/keep-it-small-find-components-by-bundle-size-and-dependencies-f91216b25039",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "Demystifying RxJS for Angular Developers",
+      "description": "Understand Enough RxJS for your basic Angular needs!",
+      "author": {
+        "name": "Giancarlo Buomprisco",
+        "profile": "https://twitter.com/gc_psk"
+      },
+      "url": "https://blog.bitsrc.io/demystifying-rxjs-for-angular-developers-f39e74f56f64",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "Building Reusable Angular Components: Best Practices",
+      "description": "Reusability principles for angular components",
+      "author": {
+        "name": "Chidume Nnamdi",
+        "profile": "https://twitter.com/ngArchangel"
+      },
+      "url": "https://blog.bitsrc.io/building-reusable-angular-components-best-practices-744fff49e0d",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "How to Write Better Code in Angular",
+      "description": "Learn how to write clean, maintainable, scalable, performance-optimized and testable code in Angular",
+      "author": {
+        "name": "Chidume Nnamdi",
+        "profile": "https://twitter.com/ngArchangel"
+      },
+      "url": "https://blog.bitsrc.io/how-to-write-better-code-in-angular-c2ad9c88aab6",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
     }
   ]
 }
