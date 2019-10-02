@@ -238,6 +238,34 @@
       }
     },
     {
+      "title": "Lazy Loading Modules & Preloading Strategy in Angular 8",
+      "description": "Tutorial about the usage of lazy loading modules and preloading strategies to optimize the loading behaviour of modules.",
+      "author": {
+        "name": "Maina Wycliffe",
+		    "profile": "https://github.com/mainawycliffe"
+      },
+      "url": "https://codinglatte.com/posts/angular/lazy-loading-modules-preloading-strategy-in-angular-8/",
+      "category": "article",
+      "contributor": {
+        "name": "Andreas Billmann",
+        "profile": "https://github.com/frosch95"
+      }
+    },
+    {
+      "title": "Angular Testing Course",
+      "description": "This collection of videos covers the complex topic of testing with all the interesting parts. (HttpClient, async, fakeAsync, E2E, ...)",
+      "author": {
+        "name": "Angular University",
+		    "profile": "https://twitter.com/AngularUniv"
+      },
+      "url": "https://www.youtube.com/playlist?list=PLOa5YIicjJ-XA6uwvBtOLltsVvBHP6g3v",
+      "category": "recording",
+      "contributor": {
+        "name": "Andreas Billmann",
+        "profile": "https://github.com/frosch95"
+      }
+    },
+    {
       "title": "Angular Push Notifications",
       "description": "In this post, we are going to go through a complete example of how to implement Web Push Notifications in an Angular Application using the Angular Service Worker.",
       "author": {
