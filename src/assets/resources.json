@@ -237,6 +237,7 @@
         "profile": "github.com/gilbert32"
       }
     },
+    
     {
       "title": "Lazy Loading Modules & Preloading Strategy in Angular 8",
       "description": "Tutorial about the usage of lazy loading modules and preloading strategies to optimize the loading behaviour of modules.",
@@ -289,6 +290,20 @@
       "contributor": {
         "name": "Khanh Nguyen",
         "profile": "https://github.com/NHKK"
+      }
+    },
+    {
+      "title": "Hands-On TypeScript 3 and Angular 7 for Web Development",
+      "description": "Get practical experience to implement TypeScript and Angular to develop efficient websites",
+      "author": {
+        "name": "Shahzaib Kamal",
+        "profile": "https://www.linkedin.com/in/skahmed1/"
+      },
+      "url": "https://www.packtpub.com/web-development/hands-typescript-3-and-angular-7-web-development-video",
+      "category": "recording",
+      "contributor": {
+        "name": "Dale Nguyen",
+        "profile": "https://dalenguyen.me"
       }
     }
   ]
