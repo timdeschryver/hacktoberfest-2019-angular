@@ -389,6 +389,20 @@
         "name": "Ananya Neogi",
         "profile": "https://twitter.com/_ananyaneogi"
       }
+    },
+    {
+      "title": "Thinking reactive with the SIP principle",
+      "description": "Thinking reactive with the SIP principle!",
+      "author": {
+        "name": "Brecht Billiet",
+        "profile": "https://twitter.com/brechtbilliet"
+      },
+      "url": "https://blog.strongbrew.io/the-sip-principle",
+      "category": "article",
+      "contributor": {
+        "name": "Jeffrey Bosch",
+        "profile": "https://twitter.com/jefiozie"
+      }
     }
   ]
 }
