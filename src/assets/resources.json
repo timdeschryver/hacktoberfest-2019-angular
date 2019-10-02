@@ -598,6 +598,20 @@
         "name": "Arindam Dawn",
         "profile": "https://github.com/arindamdawn"
       }
+    },
+    {
+      "title": "The power of Angular Interceptors - Possible use cases",
+      "description": "One of my favourite thing about Angular is interceptors. They just make your life so easy and gives you wings. This beautiful article provides some of the use cases where interceptors are handy.",
+      "author": {
+        "name": "Michael Karén",
+        "profile": "https://twitter.com/melcor76"
+      },
+      "url": "https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6",
+      "category": "article",
+      "contributor": {
+        "name": "Arindam Dawn",
+        "profile": "https://github.com/arindamdawn"
+      }
     }
   ]
 }
