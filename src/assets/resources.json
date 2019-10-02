@@ -430,7 +430,7 @@
         "name": "Jeffrey Bosch",
         "profile": "https://twitter.com/jefiozie"
       },
-      {
+    {
       "title": "The Missing Introduction to Angular and Modern Design Patterns",
       "description": "More that just a framework, Angular should be considered as a whole platform which comes with a complete set of tools like its own CLI, debug utilities or performance tools.",
       "author": {
@@ -441,6 +441,7 @@
       "contributor": {
         "name": "Bruna Gil",
         "profile": "github.com/brunagil"
+      }
     }
   ]
 }
