@@ -528,6 +528,19 @@
         "name": "Arindam Dawn",
         "profile": "https://github.com/arindamdawn"
       }
+    },
+    {
+      "title": "Using MaterializeCSS with Angular 7.x",
+      "description": "This post is basically to integrate MaterializeCSS with Angular 7.x (latest version).",
+      "author": {
+        "name": "Ashim Raj Konwar",
+        "profile": "https://medium.com/@ashimrajkonwar"
+      },
+      "category": "article",
+      "contributor": {
+        "name": "Andrew Jackson",
+        "profile": "https://github.com/sonAndrew"
+      }
     }
   ]
 }
