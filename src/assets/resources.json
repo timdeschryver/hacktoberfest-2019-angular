@@ -514,6 +514,20 @@
         "name": "Bruna Gil",
         "profile": "github.com/brunagil"
       }
+    }, 
+    {
+      "title": "This website provides a curated list of common mistakes made when developing Angular applications",
+      "description": "New Angular developers or even experienced often tend to make lot of mistakes while beginning a new project due to lack of a checklist that can provides all the basic information about ensuring a rock solid angular app.",
+      "author": {
+        "name": " Dominic Elm",
+        "profile": "https://twitter.com/elmd_",
+      },
+      "category": "article",
+      "url": "https://github.com/typebytes/angular-checklist",
+      "contributor": {
+        "name": "Arindam Dawn",
+        "profile": "https://github.com/arindamdawn",
+      }
     }
   ]
 }
