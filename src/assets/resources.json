@@ -430,6 +430,8 @@
       "contributor": {
         "name": "Jibin Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
     {
       "title": "About Angular Ivy",
       "description": "Ivy is the code name for Angular's next-generation compilation and rendering pipeline.",
