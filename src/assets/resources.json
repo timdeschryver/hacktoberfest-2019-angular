@@ -361,6 +361,20 @@
         "name": "Jibin Thomas Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
+    },
+    {
+      "title": "About Angular Ivy",
+      "description": "Ivy is the code name for Angular's next-generation compilation and rendering pipeline.",
+      "author": {
+        "name": "Eliran Eliassy",
+        "profile": "https://blog.angularindepth.com/@eliranels"
+      },
+      "url": "https://blog.angularindepth.com/all-you-need-to-know-about-ivy-the-new-angular-engine-9cde471f42cf",
+      "category": "article",
+      "contributor": {
+        "name": "Hitesh Roy",
+        "profile": "https://twitter.com/hiteshroy05"
+      }
     }
   ]
 }
