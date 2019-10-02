@@ -556,6 +556,20 @@
         "name": "Raymond Coplin",
         "profile": "https://twitter.com/raymondcoplin"
       }
+    },
+    {
+      "title": "[ES] Programación Reactiva con RxJs",
+      "description": "Introduction to reactive programming in spanish.",
+      "author": {
+        "name": "Pablo Magaz",
+        "profile": "https://twitter.com/pablo_magaz"
+      },
+      "url": "https://pablomagaz.com/blog/programacion-reactiva-con-rxjs",
+      "category": "article",
+      "contributor": {
+        "name": "Raymond Coplin",
+        "profile": "https://twitter.com/raymondcoplin"
+      }
     }
   ]
 }
