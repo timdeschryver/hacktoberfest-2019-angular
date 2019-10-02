@@ -319,6 +319,34 @@
         "name": "Jibin Thomas Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
+    },
+     {
+      "title": "Lazy Loading Routes In Angular",
+      "description": "Easily lazy load feature modules by dynamically importing them on runtime, this will help you maintain the bundle size of your initial app",
+      "author": {
+        "name": "Alligator.io",
+        "profile": "https://alligator.io"
+      },
+      "url": "https://alligator.io/angular/lazy-loading/",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "A Complete Guide To Routing In Angular",
+      "description": "Introducing Angular Router and how you can use it to create client-side apps and Single Page Apps with routing and navigation.",
+      "author": {
+        "name": "Ahmed Bouchefra",
+        "profile": "https://twitter.com/ahmedbouchefra"
+      },
+      "url": "https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
     }
   ]
 }
