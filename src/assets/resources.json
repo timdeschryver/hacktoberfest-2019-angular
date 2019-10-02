@@ -236,6 +236,19 @@
         "name": "Gilbert Jabbour",
         "profile": "github.com/gilbert32"
       }
+    },
+    {
+      "title": "The Missing Introduction to Angular and Modern Design Patterns",
+      "description": "More that just a framework, Angular should be considered as a whole platform which comes with a complete set of tools like its own CLI, debug utilities or performance tools.",
+      "author": {
+        "name": "sinedied"
+      },
+      "url": "https://medium.com/ngx-rocket/the-missing-introduction-to-angular-and-modern-design-patterns-43e8815c2801",
+      "category": "article",
+      "contributor": {
+        "name": "Bruna Gil",
+        "profile": "github.com/brunagil"
+      }
     }
   ]
 }
