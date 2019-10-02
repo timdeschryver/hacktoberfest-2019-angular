@@ -514,6 +514,45 @@
         "name": "Bruna Gil",
         "profile": "github.com/brunagil"
       }
+    },
+    {
+      "title": "A Deep Look At Angular Elements",
+      "description": "Framework-independent web components: shows how you can create, build and deploy web components with Angular Elements.",
+      "author": {
+        "name": "Manfred Steyer"
+      },
+      "url": "https://www.youtube.com/watch?v=_QU0mpyF7bQ",
+      "category": "talk",
+      "contributor": {
+        "name": "Mike Graham",
+        "profile": "https://twitter.com/datumgeek"
+      }
+    },
+    {
+      "title": "Data Composition with RxJS",
+      "description": "In this RxJS session, we focus on making our code more reactive by collecting data from a backend server using a declarative approach",
+      "author": {
+        "name": "Deborah Kurata"
+      },
+      "url": "https://www.youtube.com/watch?v=Z76QlSpYcck",
+      "category": "talk",
+      "contributor": {
+        "name": "Mike Graham",
+        "profile": "https://twitter.com/datumgeek"
+      }
+    },
+    {
+      "title": "Angular and CSS Grid: Get ready to fall in love",
+      "description": "In this workshop, we’ll take a lightning tour of CSS Grid and how it can make building Angular applications dramatically easier.",
+      "author": {
+        "name": "Bill Odom"
+      },
+      "url": "https://www.youtube.com/watch?v=lh6n0JxXD_g",
+      "category": "talk",
+      "contributor": {
+        "name": "Mike Graham",
+        "profile": "https://twitter.com/datumgeek"
+      }
     }
   ]
 }
