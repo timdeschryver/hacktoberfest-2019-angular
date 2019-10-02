@@ -316,7 +316,7 @@
       "url": "https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/",
       "category": "article",
       "contributor": {
-        "name": "Jibin Thomas Philipose",
+        "name": "Jibin Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
     },
@@ -330,7 +330,7 @@
       "url": "https://alligator.io/angular/lazy-loading/",
       "category": "article",
       "contributor": {
-        "name": "Jibin Thomas Philipose",
+        "name": "Jibin Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
     },
@@ -344,7 +344,7 @@
       "url": "https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/",
       "category": "article",
       "contributor": {
-        "name": "Jibin Thomas Philipose",
+        "name": "Jibin Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
     },
@@ -358,7 +358,7 @@
       "url": "https://blog.bitsrc.io/the-principles-for-writing-awesome-angular-components-10e45f9ae77e",
       "category": "article",
       "contributor": {
-        "name": "Jibin Thomas Philipose",
+        "name": "Jibin Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
     },
@@ -372,7 +372,7 @@
       "url": "https://blog.bitsrc.io/solid-the-dependency-inversion-principle-in-angular-6e4b9c484960",
       "category": "article",
       "contributor": {
-        "name": "Jibin Thomas Philipose",
+        "name": "Jibin Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
     },
@@ -386,7 +386,7 @@
       "url": "https://blog.bitsrc.io/keep-it-small-find-components-by-bundle-size-and-dependencies-f91216b25039",
       "category": "article",
       "contributor": {
-        "name": "Jibin Thomas Philipose",
+        "name": "Jibin Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
     },
@@ -400,7 +400,7 @@
       "url": "https://blog.bitsrc.io/demystifying-rxjs-for-angular-developers-f39e74f56f64",
       "category": "article",
       "contributor": {
-        "name": "Jibin Thomas Philipose",
+        "name": "Jibin Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
     },
@@ -414,7 +414,7 @@
       "url": "https://blog.bitsrc.io/building-reusable-angular-components-best-practices-744fff49e0d",
       "category": "article",
       "contributor": {
-        "name": "Jibin Thomas Philipose",
+        "name": "Jibin Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
     },
@@ -428,8 +428,20 @@
       "url": "https://blog.bitsrc.io/how-to-write-better-code-in-angular-c2ad9c88aab6",
       "category": "article",
       "contributor": {
-        "name": "Jibin Thomas Philipose",
+        "name": "Jibin Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
+    {
+      "title": "About Angular Ivy",
+      "description": "Ivy is the code name for Angular's next-generation compilation and rendering pipeline.",
+      "author": {
+        "name": "Eliran Eliassy",
+        "profile": "https://blog.angularindepth.com/@eliranels"
+      },
+      "url": "https://blog.angularindepth.com/all-you-need-to-know-about-ivy-the-new-angular-engine-9cde471f42cf",
+      "category": "article",
+      "contributor": {
+        "name": "Hitesh Roy",
+        "profile": "https://twitter.com/hiteshroy05"
       }
     }
   ]
