@@ -528,20 +528,6 @@
         "name": "Arindam Dawn",
         "profile": "https://github.com/arindamdawn"
       }
-    },
-    {
-      "title": "Angular Unit Testing made simple using Jest and Spectator",
-      "description": "Most developers hate unit testing as its boring and time consuming. This article provides provides an alternative and simpler approach to testing Angular apps with Jest and Spectator.",
-      "author": {
-        "name": "Van Huynh",
-        "profile": "https://itnext.io/@vanister"
-      },
-      "category": "article",
-      "contributor": {
-        "name": "Arindam Dawn",
-        "profile": "https://github.com/arindamdawn"
-      },
-      "url": "https://itnext.io/testing-angular-applications-with-jest-and-spectator-c05991579807"
     }
   ]
 }
