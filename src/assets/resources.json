@@ -375,6 +375,20 @@
         "name": "Hitesh Roy",
         "profile": "https://twitter.com/hiteshroy05"
       }
+    },
+    {
+      "title": "Scalable Angular Architecture",
+      "description": "From proper abstractions between layers, modular design and lazy loading to unidirectional flow and state management you will see how those help to scale Angular apps.",
+      "author": {
+        "name": "Bartosz Pietrucha",
+        "profile": "https://twitter.com/pietrucha"
+      },
+      "url": "https://www.youtube.com/watch?v=Rc-xMHMYw_M",
+      "category": "talk",
+      "contributor": {
+        "name": "Ananya Neogi",
+        "profile": "https://twitter.com/_ananyaneogi"
+      }
     }
   ]
 }
