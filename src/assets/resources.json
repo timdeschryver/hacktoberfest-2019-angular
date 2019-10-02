@@ -2,6 +2,20 @@
   "$schema": "./resources-schema.json",
   "resources": [
     {
+      "title": "A Guide to Angular 8's Differential Loading",
+      "description": "Angular 8 now sends separate bundles to legacy browsers by default.",
+      "author": {
+       "name": "Sam Julien",
+        "profile": "https://twitter.com/samjulien"
+      },
+      "url": "https://auth0.com/blog/angular-8-differential-loading/",
+      "category": "article",
+      "contributor": {
+       "name": "Nathan Pickard",
+       "profile": "https://twitter.com/NathanPickard"
+      }
+    },
+    {
       "title": "Push-based Architectures with RxJS",
       "description": "Most developers learn to program, code, and build software architectures using traditional Pull-based approaches. In the world of web applications and asynchronous, rich user experiences this approach is flawed, rampant with myriad problems, and is fundamentally wrong.",
       "author": {
