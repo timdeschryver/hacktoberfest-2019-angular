@@ -238,6 +238,199 @@
       }
     },
     {
+      "title": "Lazy Loading Modules & Preloading Strategy in Angular 8",
+      "description": "Tutorial about the usage of lazy loading modules and preloading strategies to optimize the loading behaviour of modules.",
+      "author": {
+        "name": "Maina Wycliffe",
+		    "profile": "https://github.com/mainawycliffe"
+      },
+      "url": "https://codinglatte.com/posts/angular/lazy-loading-modules-preloading-strategy-in-angular-8/",
+      "category": "article",
+      "contributor": {
+        "name": "Andreas Billmann",
+        "profile": "https://github.com/frosch95"
+      }
+    },
+    {
+      "title": "Angular Testing Course",
+      "description": "This collection of videos covers the complex topic of testing with all the interesting parts. (HttpClient, async, fakeAsync, E2E, ...)",
+      "author": {
+        "name": "Angular University",
+		    "profile": "https://twitter.com/AngularUniv"
+      },
+      "url": "https://www.youtube.com/playlist?list=PLOa5YIicjJ-XA6uwvBtOLltsVvBHP6g3v",
+      "category": "recording",
+      "contributor": {
+        "name": "Andreas Billmann",
+        "profile": "https://github.com/frosch95"
+      }
+    },
+    {
+      "title": "Angular Push Notifications",
+      "description": "In this post, we are going to go through a complete example of how to implement Web Push Notifications in an Angular Application using the Angular Service Worker.",
+      "author": {
+        "name": "Angular University"
+      },
+      "url": "https://blog.angular-university.io/angular-push-notifications/",
+      "category": "article",
+      "contributor": {
+        "name": "Mario Moreno",
+        "profile": "github.com/soymariomoreno"
+      }
+    },
+    {
+      "title": "A first look into the Angular CDK",
+      "description": "A brief intro on angular material cdk to build complex components leveraging portals.",
+      "author": {
+        "name": "Carlos Roso"
+      },
+      "url": "https://hackernoon.com/a-first-look-into-the-angular-cdk-67e68807ed9b",
+      "category": "article",
+      "contributor": {
+        "name": "Khanh Nguyen",
+        "profile": "https://github.com/NHKK"
+      }
+    },
+    {
+      "title": "Hands-On TypeScript 3 and Angular 7 for Web Development",
+      "description": "Get practical experience to implement TypeScript and Angular to develop efficient websites",
+      "author": {
+        "name": "Shahzaib Kamal",
+        "profile": "https://www.linkedin.com/in/skahmed1/"
+      },
+      "url": "https://www.packtpub.com/web-development/hands-typescript-3-and-angular-7-web-development-video",
+      "category": "recording",
+      "contributor": {
+        "name": "Dale Nguyen",
+        "profile": "https://dalenguyen.me"
+      }
+    },
+     {
+      "title": "Sharing Data Between Angular Components - Four Methods",
+      "description": "Various methods to share data between parent and child components also there is an explanation with a video too",
+      "author": {
+        "name": "Jeff Delaney",
+        "profile": "https://angularfirebase.com/contributors/jeff-delaney/"
+      },
+      "url": "https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+     {
+      "title": "Lazy Loading Routes In Angular",
+      "description": "Easily lazy load feature modules by dynamically importing them on runtime, this will help you maintain the bundle size of your initial app",
+      "author": {
+        "name": "Alligator.io",
+        "profile": "https://alligator.io"
+      },
+      "url": "https://alligator.io/angular/lazy-loading/",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "A Complete Guide To Routing In Angular",
+      "description": "Introducing Angular Router and how you can use it to create client-side apps and Single Page Apps with routing and navigation.",
+      "author": {
+        "name": "Ahmed Bouchefra",
+        "profile": "https://twitter.com/ahmedbouchefra"
+      },
+      "url": "https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "The Principles for Writing Awesome Angular Components",
+      "description": "Some of the best practices and lessons that the community has learned in the last few years, and some of the mistakes that I have seen as a consultant in the front-end world.",
+      "author": {
+        "name": "Giancarlo Buomprisco",
+        "profile": "https://twitter.com/gc_psk"
+      },
+      "url": "https://blog.bitsrc.io/the-principles-for-writing-awesome-angular-components-10e45f9ae77e",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "About Angular Ivy",
+      "description": "Ivy is the code name for Angular's next-generation compilation and rendering pipeline.",
+      "author": {
+        "name": "Eliran Eliassy",
+        "profile": "https://blog.angularindepth.com/@eliranels"
+      },
+      "url": "https://blog.angularindepth.com/all-you-need-to-know-about-ivy-the-new-angular-engine-9cde471f42cf",
+      "category": "article",
+      "contributor": {
+        "name": "Hitesh Roy",
+        "profile": "https://twitter.com/hiteshroy05"
+      }
+    },
+    {
+      "title": "Scalable Angular Architecture",
+      "description": "From proper abstractions between layers, modular design and lazy loading to unidirectional flow and state management you will see how those help to scale Angular apps.",
+      "author": {
+        "name": "Bartosz Pietrucha",
+        "profile": "https://twitter.com/pietrucha"
+      },
+      "url": "https://www.youtube.com/watch?v=Rc-xMHMYw_M",
+      "category": "talk",
+      "contributor": {
+        "name": "Ananya Neogi",
+        "profile": "https://twitter.com/_ananyaneogi"
+      }
+    },
+    {
+      "title": "Thinking reactive with the SIP principle",
+      "description": "Thinking reactive with the SIP principle!",
+      "author": {
+        "name": "Brecht Billiet",
+        "profile": "https://twitter.com/brechtbilliet"
+      },
+      "url": "https://blog.strongbrew.io/the-sip-principle",
+      "category": "article",
+      "contributor": {
+        "name": "Jeffrey Bosch",
+        "profile": "https://twitter.com/jefiozie"
+      }
+    },
+    {
+      "title": "Comprehensive Introduction to @ngrx/store",
+      "description": "An in depth introduction to the Store in NgRx.",
+      "author": {
+        "name": "Brian Troncone",
+        "profile": "https://twitter.com/btroncone"
+      },
+      "url": "https://gist.github.com/btroncone/a6e4347326749f938510",
+      "category": "article",
+      "contributor": {
+        "name": "Stephen Adams",
+        "profile": "https://twitter.com/stephenradams"
+      }
+    },
+    {
+      "title": "Sustainable Angular Architectures",
+      "description": "Sustainable Angular Architectures with Strategic Design And Monorepos",
+      "author": {
+        "name": "Manfred Steyer",
+        "profile": "https://twitter.com/ManfredSteyer"
+      },
+      "url": "https://www.softwarearchitekt.at/aktuelles/sustainable-angular-architectures-1/",
+      "category": "article",
+      "contributor": {
+        "name": "Jeffrey Bosch",
+        "profile": "https://twitter.com/jefiozie"
+      },
+      {
       "title": "The Missing Introduction to Angular and Modern Design Patterns",
       "description": "More that just a framework, Angular should be considered as a whole platform which comes with a complete set of tools like its own CLI, debug utilities or performance tools.",
       "author": {
@@ -248,7 +441,6 @@
       "contributor": {
         "name": "Bruna Gil",
         "profile": "github.com/brunagil"
-      }
     }
   ]
 }
