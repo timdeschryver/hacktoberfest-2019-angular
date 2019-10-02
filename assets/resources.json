@@ -305,6 +305,20 @@
         "name": "Dale Nguyen",
         "profile": "https://dalenguyen.me"
       }
+    },
+     {
+      "title": "Sharing Data Between Angular Components - Four Methods",
+      "description": "Various methods to share data between parent and child components also there is an explanation with a video too",
+      "author": {
+        "name": "Jeff Delaney",
+        "profile": "https://angularfirebase.com/contributors/jeff-delaney/"
+      },
+      "url": "https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Thomas Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
     }
   ]
 }
