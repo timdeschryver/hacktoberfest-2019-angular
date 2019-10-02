@@ -403,6 +403,20 @@
         "name": "Jeffrey Bosch",
         "profile": "https://twitter.com/jefiozie"
       }
+    },
+    {
+      "title": "Comprehensive Introduction to @ngrx/store",
+      "description": "An in depth introduction to the Store in NgRx.",
+      "author": {
+        "name": "Brian Troncone",
+        "profile": "https://twitter.com/btroncone"
+      },
+      "url": "https://gist.github.com/btroncone/a6e4347326749f938510",
+      "category": "article",
+      "contributor": {
+        "name": "Stephen Adams",
+        "profile": "https://twitter.com/stephenradams"
+      }
     }
   ]
 }
