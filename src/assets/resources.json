@@ -528,6 +528,20 @@
         "name": "Arindam Dawn",
         "profile": "https://github.com/arindamdawn"
       }
+    },
+    {
+      "title": "[SERIE] Angular Elements, Part I",
+      "description": "A dynamic dashboard in four steps with Web Components.",
+      "author": {
+        "name": "Manfred Steyer",
+        "profile": "https://twitter.com/manfredsteyer"
+      },
+      "url": "https://www.softwarearchitekt.at/en/aktuelles/angular-elements-part-i/",
+      "category": "article",
+      "contributor": {
+        "name": "Raymond Coplin",
+        "profile": "https://twitter.com/raymondcoplin"
+      }
     }
   ]
 }
