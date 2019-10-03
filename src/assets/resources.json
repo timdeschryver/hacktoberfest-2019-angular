@@ -542,6 +542,129 @@
         "name": "Evgeny Fedorenko",
         "profile": "https://github.com/evgenyfedorenko"
       }
+    },
+    {
+      "title": "[SERIE] Angular Elements, Part I",
+      "description": "A dynamic dashboard in four steps with Web Components.",
+      "author": {
+        "name": "Manfred Steyer",
+        "profile": "https://twitter.com/manfredsteyer"
+      },
+      "url": "https://www.softwarearchitekt.at/en/aktuelles/angular-elements-part-i/",
+      "category": "article",
+      "contributor": {
+        "name": "Raymond Coplin",
+        "profile": "https://twitter.com/raymondcoplin"
+      }
+    },
+    {
+      "title": "ng-content: The hidden docs",
+      "description": "Dynamic content. That is the simplest way to explain what ng-content provides. You use the <ng-content></ng-content> tag as a placeholder for that dynamic content.",
+      "author": {
+        "name": "Eudes Petonnet",
+        "profile": "https://twitter.com/eudespv"
+      },
+      "url": "https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b",
+      "category": "article",
+      "contributor": {
+        "name": "Raymond Coplin",
+        "profile": "https://twitter.com/raymondcoplin"
+      }
+    },
+    {
+      "title": "[ES] Programación Reactiva con RxJs",
+      "description": "Introduction to reactive programming in spanish.",
+      "author": {
+        "name": "Pablo Magaz",
+        "profile": "https://twitter.com/pablo_magaz"
+      },
+      "url": "https://pablomagaz.com/blog/programacion-reactiva-con-rxjs",
+      "category": "article",
+      "contributor": {
+        "name": "Raymond Coplin",
+        "profile": "https://twitter.com/raymondcoplin"
+      }
+    },
+     {
+      "title": "Angular Unit Testing Made Easy with Jest and Spectator",
+      "description": "The official setup that comes with Angular CLI can be a bit time consuming due to writing lot of boilerplate code. This article provides an easier, alternative setup using Jest and Spectator.",
+      "author": {
+        "name": "Van Huynh",
+        "profile": "https://itnext.io/@vanister"
+      },
+      "url": "https://itnext.io/testing-angular-applications-with-jest-and-spectator-c05991579807",
+      "category": "article",
+      "contributor": {
+        "name": "Arindam Dawn",
+        "profile": "https://github.com/arindamdawn"
+      }
+    },
+    {
+      "title": "Advanced Caching in Angular Apps with RxJS",
+      "description": "This article gives a very detailed perspective on how to implement a flexible and robust cache mechanism in your angular app using the power of RxJS",
+      "author": {
+        "name": "Dominic E.",
+        "profile": "https://github.com/d3lm"
+      },
+      "url": "https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html",
+      "category": "article",
+      "contributor": {
+        "name": "Arindam Dawn",
+        "profile": "https://github.com/arindamdawn"
+      }
+    },
+    {
+      "title": "The power of Angular Interceptors - Possible use cases",
+      "description": "One of my favourite thing about Angular is interceptors. They just make your life so easy and gives you wings. This beautiful article provides some of the use cases where interceptors are handy.",
+      "author": {
+        "name": "Michael Karén",
+        "profile": "https://twitter.com/melcor76"
+      },
+      "url": "https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6",
+      "category": "article",
+      "contributor": {
+        "name": "Arindam Dawn",
+        "profile": "https://github.com/arindamdawn"
+      }
+    },
+    {
+      "title": "A Deep Look At Angular Elements",
+      "description": "Framework-independent web components: shows how you can create, build and deploy web components with Angular Elements.",
+      "author": {
+        "name": "Manfred Steyer"
+      },
+      "url": "https://www.youtube.com/watch?v=_QU0mpyF7bQ",
+      "category": "talk",
+      "contributor": {
+        "name": "Mike Graham",
+        "profile": "https://twitter.com/datumgeek"
+      }
+    },
+    {
+      "title": "Data Composition with RxJS",
+      "description": "In this RxJS session, we focus on making our code more reactive by collecting data from a backend server using a declarative approach",
+      "author": {
+        "name": "Deborah Kurata"
+      },
+      "url": "https://www.youtube.com/watch?v=Z76QlSpYcck",
+      "category": "talk",
+      "contributor": {
+        "name": "Mike Graham",
+        "profile": "https://twitter.com/datumgeek"
+      }
+    },
+    {
+      "title": "Angular and CSS Grid: Get ready to fall in love",
+      "description": "In this workshop, we’ll take a lightning tour of CSS Grid and how it can make building Angular applications dramatically easier.",
+      "author": {
+        "name": "Bill Odom"
+      },
+      "url": "https://www.youtube.com/watch?v=lh6n0JxXD_g",
+      "category": "talk",
+      "contributor": {
+        "name": "Mike Graham",
+        "profile": "https://twitter.com/datumgeek"
+      }
     }
   ]
 }
