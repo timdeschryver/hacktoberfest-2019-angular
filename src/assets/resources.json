@@ -680,5 +680,19 @@
         "profile": "https://twitter.com/raymondcoplin"
       }
     }
+    {
+      "title": "QuickStart an Angular Ecommerce App using a Headless CMS API",
+      "description": "A guide on how to build an Ecommerce app using Cosmic JS and Angular.",
+      "author": {
+        "name": "Carson Gibbons",
+        "profile": "https://twitter.com/carsoncgibbons"
+      },
+      "url": "https://hackernoon.com/quickstart-an-angular-ecommerce-app-using-a-headless-cms-api-ea48f9616afe",
+      "category": "article",
+      "contributor": {
+        "name": "Himesh Samarasekera",
+        "profile": "https://twitter.com/DeviousLab"
+      }
+    }
   ]
 }
