@@ -651,6 +651,19 @@
         "name": "Mike Graham",
         "profile": "https://twitter.com/datumgeek"
       }
+    },
+    {
+      "title": "The future of standalone components in the post-Ivy release days",
+      "description": "Angular Ivy is almost here, and this a great opportunity for us to start exploring what’s new in Angular, learn about the new APIs and start thinking about the concept behind standalone components.",
+      "author": {
+        "name": "Eliran Eliassy"
+      },
+      "url": "https://blog.angularindepth.com/the-future-of-standalone-components-in-the-post-ivy-release-days-e7ed9b9b4dcd",
+      "category": "article",
+      "contributor": {
+        "name": "Jessica Lopes",
+        "profile": "github.com/eudivaloper"
+      }
     }
   ]
 }
