@@ -1,0 +1,15 @@
+name: Deployed
+
+# Trigger the workflow on pull request activity
+on:
+  release:
+    types: [created]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets. PERSONAL_TOKEN }}
+        pr-message: 'Thanks for your contribution 🎉 - your resource is added on https://timdeschryver.github.io/hacktoberfest-2019-angular'
