@@ -5,14 +5,14 @@
       "title": "A Guide to Angular 8's Differential Loading",
       "description": "Angular 8 now sends separate bundles to legacy browsers by default.",
       "author": {
-       "name": "Sam Julien",
+        "name": "Sam Julien",
         "profile": "https://twitter.com/samjulien"
       },
       "url": "https://auth0.com/blog/angular-8-differential-loading/",
       "category": "article",
       "contributor": {
-       "name": "Nathan Pickard",
-       "profile": "https://twitter.com/NathanPickard"
+        "name": "Nathan Pickard",
+        "profile": "https://twitter.com/NathanPickard"
       }
     },
     {
@@ -307,6 +307,20 @@
       }
     },
     {
+      "title": "Angular Architecture Patterns and Best Practices",
+      "description": "Learn how to design Angular application in order to maintain sustainable development speed and ease of adding new features in the long run",
+      "author": {
+        "name": "Bartosz Pietrucha",
+        "profile": "https://twitter.com/pietrucha"
+      },
+      "url": "https://angular-academy.com/angular-architecture-best-practices/",
+      "category": "article",
+      "contributor": {
+        "name": "Chathurangi Jayawardana",
+        "profile": "https://github.com/ChathurangiJayawardana"
+      }
+    },
+    {
       "title": "Hands-On TypeScript 3 and Angular 7 for Web Development",
       "description": "Get practical experience to implement TypeScript and Angular to develop efficient websites",
       "author": {
@@ -544,6 +558,20 @@
       }
     },
     {
+      "title": "Cheatsheet for developing lightning fast progressive Angular applications.",
+      "description": "This document contains a list of practices that will help us boost the performance of our Angular applications. 'Angular Performance Checklist' covers different topics - from server-side pre-rendering and bundling of our applications to runtime performance and optimization of the change detection performed by the framework.",
+      "author": {
+        "name": "Minko Gechev",
+        "profile": "https://github.com/mgechev"
+      },
+      "category": "library",
+      "url": "https://github.com/mgechev/angular-performance-checklist",
+      "contributor": {
+        "name": "Evgeny Fedorenko",
+        "profile": "https://github.com/evgenyfedorenko"
+      }
+    },
+    {
       "title": "[SERIE] Angular Elements, Part I",
       "description": "A dynamic dashboard in four steps with Web Components.",
       "author": {
@@ -585,7 +613,7 @@
         "profile": "https://twitter.com/raymondcoplin"
       }
     },
-     {
+    {
       "title": "Angular Unit Testing Made Easy with Jest and Spectator",
       "description": "The official setup that comes with Angular CLI can be a bit time consuming due to writing lot of boilerplate code. This article provides an easier, alternative setup using Jest and Spectator.",
       "author": {
@@ -667,6 +695,33 @@
       }
     },
     {
+      "title": "The future of standalone components in the post-Ivy release days",
+      "description": "Angular Ivy is almost here, and this a great opportunity for us to start exploring what’s new in Angular, learn about the new APIs and start thinking about the concept behind standalone components.",
+      "author": {
+        "name": "Eliran Eliassy"
+      },
+      "url": "https://blog.angularindepth.com/the-future-of-standalone-components-in-the-post-ivy-release-days-e7ed9b9b4dcd",
+      "category": "article",
+      "contributor": {
+        "name": "Jessica Lopes",
+        "profile": "github.com/eudivaloper"
+      }
+    },
+    {
+      "title": "Precaching with the Service Worker",
+      "description": "Part 6 of an Angular Performance series that shows interesting applications of angular modules to improve performance. This series is based on the performance articles on web.dev/angular by Minko Gechev and Stephen Fluin.",
+      "author": {
+        "name": "Juri Strumpflohner",
+        "profile": "https://https://twitter.com/juristr"
+      },
+      "url": "https://juristr.com/blog/2019/08/ngperf-precaching-serviceworker/",
+      "category": "article",
+      "contributor": {
+        "name": "Rafael Romero",
+        "profile": "https://dev.to/rafajrg21"
+      }
+    },
+    {
       "title": "Essential Angular",
       "description": "This book aims to be a short, but at the same time, fairly complete overview of the key aspects of Angular: it covers the framework’s mental model, its API, and the design principles behind it.",
       "author": {
@@ -678,6 +733,60 @@
       "contributor": {
         "name": "Raymond Coplin",
         "profile": "https://twitter.com/raymondcoplin"
+      }
+    },
+    {
+      "title": "RxJS Quick Start With 20 Practical Examples",
+      "description": "Complex RxJS concepts boiled down into the bare essentials. (pre-rxjs 6 resource)",
+      "author": {
+        "name": "Jeff Delaney"
+      },
+      "url": "https://angularfirebase.com/lessons/rxjs-quickstart-with-20-examples/",
+      "category": "article",
+      "contributor": {
+        "name": "Brad Taniguchi",
+        "profile": "https://github.com/bradtaniguchi"
+      }
+    },
+    {
+      "title": "Dynamically Load CSS with the Angular CLI",
+      "description": "How to configure the Angular CLI to not inject the styles into the HTML file and how to lazy load the styles at runtime",
+      "author": {
+        "name": "Juri Strumpflohner",
+        "profile": "https://https://twitter.com/juristr"
+      },
+      "url": "https://juristr.com/blog/2019/08/dynamically-load-css-angular-cli/",
+      "category": "article",
+      "contributor": {
+        "name": "Raul Crisan",
+        "profile": "https://github.com/raulcrisan"
+      }
+    },
+    {
+      "title": "How to get started with Cypress",
+      "description": "Learn how to use Cypress for testing your frontend apps",
+      "author": {
+        "name": "Michael Karén"
+      },
+      "url": "https://blog.angularindepth.com/get-started-with-cypress-d6ac4b910605",
+      "category": "article",
+      "contributor": {
+        "name": "Andrew Evans",
+        "profile": "https://twitter.com/AndrewEvans0102"
+      }
+    },
+    {
+      "title": "Angular & RxJS: Detecting Memory Leaks",
+      "description": "Learn how to detect RxJS memory leaks in Angular",
+      "author": {
+        "name": "Erxk Verduin",
+        "profile": "https://itnext.io/@erxk_verduin?source=post_page-----bdd312a070a0----------------------"
+      },
+      "url": "https://itnext.io/angular-rxjs-detecting-memory-leaks-bdd312a070a0",
+      "category": "article",
+      "contributor": {
+        "name": "Marco Petreri",
+        "profile": "https://github.com/marcopetreri"
       }
     },
     {
