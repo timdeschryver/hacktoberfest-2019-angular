@@ -774,6 +774,20 @@
         "name": "Andrew Evans",
         "profile": "https://twitter.com/AndrewEvans0102"
       }
+    },
+    {
+      "title": "Angular & RxJS: Detecting Memory Leaks",
+      "description": "Learn how to detect RxJS memory leaks in Angular",
+      "author": {
+        "name": "Erxk Verduin",
+        "profile": "https://itnext.io/@erxk_verduin?source=post_page-----bdd312a070a0----------------------"
+      },
+      "url": "https://itnext.io/angular-rxjs-detecting-memory-leaks-bdd312a070a0",
+      "category": "article",
+      "contributor": {
+        "name": "Marco Petreri",
+        "profile": "https://github.com/marcopetreri"
+      }
     }
   ]
 }
