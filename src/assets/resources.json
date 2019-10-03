@@ -1,7 +1,6 @@
 {
   "$schema": "./resources-schema.json",
-  "resources": [
-    {
+  "resources": [{
       "title": "Push-based Architectures with RxJS",
       "description": "Most developers learn to program, code, and build software architectures using traditional Pull-based approaches. In the world of web applications and asynchronous, rich user experiences this approach is flawed, rampant with myriad problems, and is fundamentally wrong.",
       "author": {
@@ -571,7 +570,7 @@
         "profile": "https://twitter.com/raymondcoplin"
       }
     },
-     {
+    {
       "title": "Angular Unit Testing Made Easy with Jest and Spectator",
       "description": "The official setup that comes with Angular CLI can be a bit time consuming due to writing lot of boilerplate code. This article provides an easier, alternative setup using Jest and Spectator.",
       "author": {
@@ -650,6 +649,19 @@
       "contributor": {
         "name": "Mike Graham",
         "profile": "https://twitter.com/datumgeek"
+      }
+    },
+    {
+      "title": "RxJS Quick Start With 20 Practical Examples",
+      "description": "Complex RxJS concepts boiled down into the bare essentials. (pre-rxjs 6 resource)",
+      "author": {
+        "name": "Jeff Delaney"
+      },
+      "url": "https://angularfirebase.com/lessons/rxjs-quickstart-with-20-examples/",
+      "category": "article",
+      "contributor": {
+        "name": "Brad Taniguchi",
+        "profile": "https://github.com/bradtaniguchi"
       }
     }
   ]
