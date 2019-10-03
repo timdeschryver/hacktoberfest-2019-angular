@@ -167,6 +167,20 @@
         "name": "Mariana Zangrossi",
         "profile": "https://github.com/marianazangrossi"
       }
-    }
+    },
+    {
+      "title": "Optimize Angular bundle size in 4 steps",
+      "description": "Improving your app’s performance by optimizing the bundle size using different techniques.",
+      "author": {
+        "name": "Siyang Kern Zhao",
+        "profile": "https://blog.angularindepth.com/@siyangkernzhao"
+      },
+      "url": "https://blog.angularindepth.com/optimize-angular-bundle-size-in-4-steps-4a3b3737bf45",
+      "category": "article",
+      "contributor": {
+        "name": "Theophilus Johnson",
+        "profile": "https://twitter.com/johnniexson"
+      }
+     }
   ]
 }
