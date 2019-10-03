@@ -788,6 +788,20 @@
         "name": "Marco Petreri",
         "profile": "https://github.com/marcopetreri"
       }
+    },
+    {
+      "title": "19 Things You Need to Learn to Become an Effective Angular Developer",
+      "description": "Guide what to learn to become better Angular Developer",
+      "author": {
+        "name": "Aphinya Dechalert",
+        "profile": "https://medium.com/@PurpleGreenLemon"
+      },
+      "url": "https://medium.com/@PurpleGreenLemon/19-things-you-need-to-learn-to-become-an-effective-angular-developer-c0ccfa51222a",
+      "category": "article",
+      "contributor": {
+        "name": "Sandro Pirtskhalava",
+        "profile": "https://github.com/spirtskhalava"
+      }
     }
   ]
 }
