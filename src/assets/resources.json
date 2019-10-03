@@ -5,14 +5,14 @@
       "title": "A Guide to Angular 8's Differential Loading",
       "description": "Angular 8 now sends separate bundles to legacy browsers by default.",
       "author": {
-       "name": "Sam Julien",
+        "name": "Sam Julien",
         "profile": "https://twitter.com/samjulien"
       },
       "url": "https://auth0.com/blog/angular-8-differential-loading/",
       "category": "article",
       "contributor": {
-       "name": "Nathan Pickard",
-       "profile": "https://twitter.com/NathanPickard"
+        "name": "Nathan Pickard",
+        "profile": "https://twitter.com/NathanPickard"
       }
     },
     {
@@ -304,6 +304,20 @@
       "contributor": {
         "name": "Khanh Nguyen",
         "profile": "https://github.com/NHKK"
+      }
+    },
+    {
+      "title": "Angular Architecture Patterns and Best Practices",
+      "description": "Learn how to design Angular application in order to maintain sustainable development speed and ease of adding new features in the long run",
+      "author": {
+        "name": "Bartosz Pietrucha",
+        "profile": "https://twitter.com/pietrucha"
+      },
+      "url": "https://angular-academy.com/angular-architecture-best-practices/",
+      "category": "article",
+      "contributor": {
+        "name": "Chathurangi Jayawardana",
+        "profile": "https://github.com/ChathurangiJayawardana"
       }
     },
     {
