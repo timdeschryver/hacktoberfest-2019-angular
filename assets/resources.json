@@ -585,7 +585,7 @@
         "profile": "https://twitter.com/raymondcoplin"
       }
     },
-     {
+    {
       "title": "Angular Unit Testing Made Easy with Jest and Spectator",
       "description": "The official setup that comes with Angular CLI can be a bit time consuming due to writing lot of boilerplate code. This article provides an easier, alternative setup using Jest and Spectator.",
       "author": {
@@ -705,6 +705,19 @@
       "contributor": {
         "name": "Raymond Coplin",
         "profile": "https://twitter.com/raymondcoplin"
+      }
+    },
+    {
+      "title": "RxJS Quick Start With 20 Practical Examples",
+      "description": "Complex RxJS concepts boiled down into the bare essentials. (pre-rxjs 6 resource)",
+      "author": {
+        "name": "Jeff Delaney"
+      },
+      "url": "https://angularfirebase.com/lessons/rxjs-quickstart-with-20-examples/",
+      "category": "article",
+      "contributor": {
+        "name": "Brad Taniguchi",
+        "profile": "https://github.com/bradtaniguchi"
       }
     }
   ]
