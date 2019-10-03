@@ -651,6 +651,20 @@
         "name": "Mike Graham",
         "profile": "https://twitter.com/datumgeek"
       }
+    },
+    {
+      "title": "Essential Angular",
+      "description": "This book aims to be a short, but at the same time, fairly complete overview of the key aspects of Angular: it covers the framework’s mental model, its API, and the design principles behind it.",
+      "author": {
+        "name": "Victor Savkin & Jeff Cross",
+        "profile": "https://twitter.com/nrwl_io"
+      },
+      "url": "https://connect.nrwl.io/app/books/essential_angular",
+      "category": "book",
+      "contributor": {
+        "name": "Raymond Coplin",
+        "profile": "https://twitter.com/raymondcoplin"
+      }
     }
   ]
 }
