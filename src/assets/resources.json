@@ -747,6 +747,19 @@
         "name": "Brad Taniguchi",
         "profile": "https://github.com/bradtaniguchi"
       }
+    },
+    {
+      "title": "How to get started with Cypress",
+      "description": "Learn how to use Cypress for testing your frontend apps",
+      "author": {
+        "name": "Michael Karén"
+      },
+      "url": "https://blog.angularindepth.com/get-started-with-cypress-d6ac4b910605",
+      "category": "article",
+      "contributor": {
+        "name": "Andrew Evans",
+        "profile": "https://twitter.com/AndrewEvans0102"
+      }
     }
   ]
 }
