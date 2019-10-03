@@ -651,6 +651,20 @@
         "name": "Mike Graham",
         "profile": "https://twitter.com/datumgeek"
       }
+    },
+    {
+      "title": "Precaching with the Service Worker",
+      "description": "Part 6 of an Angular Performance series that shows interesting applications of angular modules to improve performance. This series is based on the performance articles on web.dev/angular by Minko Gechev and Stephen Fluin.",
+      "author": {
+        "name": "Juri Strumpflohner",
+        "profile": "https://https://twitter.com/juristr"
+      },
+      "url": "https://juristr.com/blog/2019/08/ngperf-precaching-serviceworker/",
+      "category": "article",
+      "contributor": {
+        "name": "Rafael Romero",
+        "profile": "https://dev.to/rafajrg21"
+      }
     }
   ]
 }
