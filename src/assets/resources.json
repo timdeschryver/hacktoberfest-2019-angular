@@ -747,6 +747,20 @@
         "name": "Brad Taniguchi",
         "profile": "https://github.com/bradtaniguchi"
       }
+    },
+    {
+      "title": "Dynamically Load CSS with the Angular CLI",
+      "description": "How to configure the Angular CLI to not inject the styles into the HTML file and how to lazy load the styles at runtime",
+      "author": {
+        "name": "Juri Strumpflohner",
+        "profile": "https://https://twitter.com/juristr"
+      },
+      "url": "https://juristr.com/blog/2019/08/dynamically-load-css-angular-cli/",
+      "category": "article",
+      "contributor": {
+        "name": "Raul Crisan",
+        "profile": "https://github.com/raulcrisan"
+      }
     }
   ]
 }
