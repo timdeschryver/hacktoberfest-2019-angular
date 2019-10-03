@@ -667,6 +667,20 @@
       }
     },
     {
+      "title": "Precaching with the Service Worker",
+      "description": "Part 6 of an Angular Performance series that shows interesting applications of angular modules to improve performance. This series is based on the performance articles on web.dev/angular by Minko Gechev and Stephen Fluin.",
+      "author": {
+        "name": "Juri Strumpflohner",
+        "profile": "https://https://twitter.com/juristr"
+      },
+      "url": "https://juristr.com/blog/2019/08/ngperf-precaching-serviceworker/",
+      "category": "article",
+      "contributor": {
+        "name": "Rafael Romero",
+        "profile": "https://dev.to/rafajrg21"
+      }
+    },
+    {
       "title": "Essential Angular",
       "description": "This book aims to be a short, but at the same time, fairly complete overview of the key aspects of Angular: it covers the framework’s mental model, its API, and the design principles behind it.",
       "author": {
