@@ -156,11 +156,6 @@
        }
      },
      {
-
-      }
-    },
-    {
-
       "title": "Don't follow RxJS Best Practices",
       "description": "Funny article about some useful rxjs best practices",
       "author": {
@@ -189,7 +184,6 @@
       }
     },
     {
-
       "title": "Optimize Angular bundle size in 4 steps",
       "description": "Improving your app’s performance by optimizing the bundle size using different techniques.",
       "author": {
@@ -203,7 +197,6 @@
         "profile": "https://twitter.com/johnniexson"
       }
      }
-
       "title": "Creating a Front-End for Your User Profile Store with Angular and TypeScript",
       "description": "Learn to create a client front-end written in Angular with TypeScript, that communicates with each of the API endpoints.",
       "author": {
@@ -272,7 +265,6 @@
         "profile": "github.com/gilbert32"
       }
     },
-
     {
       "title": "Lazy Loading Modules & Preloading Strategy in Angular 8",
       "description": "Tutorial about the usage of lazy loading modules and preloading strategies to optimize the loading behaviour of modules.",
@@ -838,6 +830,5 @@
         "profile": "https://github.com/spirtskhalava"
       }
     }
-
   ]
 }
