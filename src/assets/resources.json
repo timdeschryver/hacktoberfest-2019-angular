@@ -196,7 +196,8 @@
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
       }
-     }
+     },
+     {
       "title": "Creating a Front-End for Your User Profile Store with Angular and TypeScript",
       "description": "Learn to create a client front-end written in Angular with TypeScript, that communicates with each of the API endpoints.",
       "author": {
