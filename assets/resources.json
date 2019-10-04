@@ -901,18 +901,32 @@
       }
     },
     {
-  "title": "Angular Crash Course - 2019",
-  "description": "build a small app With Angular 7, looking at most of the fundamental concepts like components, services, modules, etc",
-  "author": {
-    "name": "Brad Traversy",
-    "profile": "https://twitter.com/traversymedia"
-  },
-  "url": "https://www.youtube.com/watch?v=Fdf5aTYRW0E",
-  "category": "recording",
-  "contributor": {
-    "name": "Anja Muller",
-    "profile": "https://github.com/Lumary2"
-  }
-}
+      "title": "Angular Crash Course - 2019",
+      "description": "build a small app With Angular 7, looking at most of the fundamental concepts like components, services, modules, etc",
+      "author": {
+        "name": "Brad Traversy",
+        "profile": "https://twitter.com/traversymedia"
+      },
+      "url": "https://www.youtube.com/watch?v=Fdf5aTYRW0E",
+      "category": "recording",
+      "contributor": {
+        "name": "Anja Muller",
+        "profile": "https://github.com/Lumary2"
+      }
+    },
+    {
+      "title": "The State of Angular in 2019",
+      "description": "A detailed overview of the current state of Angular, from the latest features to the hottest topics and trends.",
+      "author": {
+        "name": "Eden",
+        "profile": "https://dev.to/gitedenhttps://dev.to/giteden"
+      },
+      "url": "https://dev.to/giteden/the-state-of-angular-in-2019-ein",
+      "category": "article",
+      "contributor": {
+        "name": "Fco Sueza",
+        "profile": "https://github.com/fcosueza"
+      }
+    }
   ]
 }
