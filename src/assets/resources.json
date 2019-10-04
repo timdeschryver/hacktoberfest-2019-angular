@@ -872,6 +872,20 @@
         "name": "Raul Crisan",
         "profile": "https://github.com/raulcrisan"
       }
+    },
+    {
+      "title": "Create your own image classifier with Angular and Tensorflow.js",
+      "description": "Create your own image classifiers using only Javascript in less than a few minutes!",
+      "author": {
+        "name": "Eliran Eliassy",
+        "profile": "https://github.com/eliraneliassy"
+      },
+      "url": "https://blog.angularindepth.com/create-your-own-image-classifier-with-angular-and-tensorflow-js-5b1bc2391424",
+      "category": "article",
+      "contributor": {
+        "name": "Bogomil Shopov",
+        "profile": "https://twitter.com/bogomep"
+      }
     }
   ]
 }
