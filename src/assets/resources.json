@@ -1025,6 +1025,20 @@
         "name": "Reactive Fox",
         "profile": "https://twitter.com/thekiba_io"
       }
+    },
+    {
+      "title": "UI State Management Made Easy with Akita and Angular",
+      "description": "Akita recommends separating the Domain State from the UI State. Domain State is the state of your application in the server side, while the UI state is more along the lines of the current time based on the user’s machine, which tab is active tab, or whether a drop-down is open.",
+      "author": {
+        "name": "Netanel Basal",
+        "profile": "https://engineering.datorama.com/@NetanelBasal"
+      },
+      "url": "https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c",
+      "category": "article",
+      "contributor": {
+        "name": "ice",
+        "profile": "https://github.com/icezatoo"
+      }
     }
   ]
 }
