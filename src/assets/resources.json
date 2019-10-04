@@ -983,6 +983,20 @@
         "name": "Marko Nikolic",
         "profile": "https://www.linkedin.com/in/marko-nikolic-a8abb713b/"
       }
+    },
+    {
+      "title": "JSON WEB Authentication with Angular 8 and NodeJS",
+      "description": "The article is about interfacing an Angular 8 Project with a secure backend API. The Backend will be running on Node.JS",
+      "author": {
+        "name": "Muhammad Bilal",
+        "profile": "https://blog.soshace.com/en/author/muhammad/"
+      },
+      "url": "https://blog.soshace.com/en/programming-en/json-web-authentication-with-angular-8-and-nodejs/",
+      "category": "article",
+      "contributor": {
+        "name": "Merovinh",
+        "profile": "https://github.com/merovinh"
+      }
     }
   ]
 }
