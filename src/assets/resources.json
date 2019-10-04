@@ -1011,6 +1011,20 @@
         "name": "Merovinh",
         "profile": "https://github.com/merovinh"
       }
+    },
+    {
+      "title": "How to Implement Idle Timeout in Angular",
+      "description": "Learn how to use idle-timeout in your Angular app to improve performance and security",
+      "author": {
+        "name": "Bhargav Bachina",
+        "profile": "https://blog.bitsrc.io/@bhargavbachina"
+      },
+      "url": "https://blog.bitsrc.io/how-to-implement-idle-timeout-in-angular-af61eefdb13b",
+      "category": "recording",
+      "contributor": {
+        "name": "Merovinh",
+        "profile": "https://github.com/merovinh"
+      }
     }
   ]
 }
