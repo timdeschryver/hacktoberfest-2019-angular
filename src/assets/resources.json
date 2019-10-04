@@ -830,6 +830,20 @@
         "name": "Sandro Pirtskhalava",
         "profile": "https://github.com/spirtskhalava"
       }
+    },
+    {
+      "title": "A Practical Guide to Angular Directives",
+      "description": "Angular directives — what are they, how to use them, and to build our own.",
+      "author": {
+        "name": "Claudio Ribeiro",
+        "profile": "https://github.com/DailyMatters/"
+      },
+      "url": "https://www.sitepoint.com/practical-guide-angular-directives/",
+      "category": "article",
+      "contributor": {
+        "name": "Juan Romero",
+        "profile": "https://twitter.com/JuanpRM"
+      }
     }
   ]
 }
