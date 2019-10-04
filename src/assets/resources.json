@@ -16,6 +16,20 @@
       }
     },
     {
+      "title": "NW",
+      "description": "Chanel to videos in youtube about AI, i'm patron of the chanel",
+      "author": {
+        "name": "Sebastian Garzon",
+        "profile": ""
+      },
+      "url": "https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg",
+      "category": "AI",
+      "contributor": {
+        "name": "Sebastian",
+        "profile": ""
+      }
+    },
+    {
       "title": "Push-based Architectures with RxJS",
       "description": "Most developers learn to program, code, and build software architectures using traditional Pull-based approaches. In the world of web applications and asynchronous, rich user experiences this approach is flawed, rampant with myriad problems, and is fundamentally wrong.",
       "author": {
