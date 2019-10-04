@@ -166,10 +166,9 @@
       "contributor": {
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
-
-       }
-     },
-     {
+      }
+    },
+    {
       "title": "Don't follow RxJS Best Practices",
       "description": "Funny article about some useful rxjs best practices",
       "author": {
@@ -210,8 +209,8 @@
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
       }
-     },
-     {
+    },
+    {
       "title": "Creating a Front-End for Your User Profile Store with Angular and TypeScript",
       "description": "Learn to create a client front-end written in Angular with TypeScript, that communicates with each of the API endpoints.",
       "author": {
@@ -885,6 +884,20 @@
       "contributor": {
         "name": "Bogomil Shopov",
         "profile": "https://twitter.com/bogomep"
+      }
+    },
+    {
+      "title": "View Facades + RxJS!",
+      "description": "You may not need to use NgRx or NgXs in your application. But you should use Facades + RxJS in your application! Let’s explore why, where, and how…",
+      "author": {
+        "name": "Thomas Burleson",
+        "profile": "https://twitter.com/thomasburleson"
+      },
+      "url": "https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee",
+      "category": "article",
+      "contributor": {
+        "name": "Florian Rand",
+        "profile": "https://github.com/flrnd"
       }
     }
   ]
