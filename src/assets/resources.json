@@ -983,6 +983,20 @@
         "name": "Merovinh",
         "profile": "https://github.com/merovinh"
       }
+    },
+    {
+      "title": "Everything you need to know about the `ExpressionChangedAfterItHasBeenCheckedError` error",
+      "description": "This article explains the underlying causes of the error and the mechanism by which it’s detected, provides a few common patterns that may lead to the error and suggests a few possible fixes. The last chapter provides an explanation of why this check is important.",
+      "author": {
+        "name": "Maxim Koretskyi",
+        "profile": "https://twitter.com/maxkoretskyi"
+      },
+      "url": "https://indepth.dev/everything-you-need-to-know-about-the-expressionchangedafterithasbeencheckederror-error/",
+      "category": "article",
+      "contributor": {
+        "name": "Marko Nikolic",
+        "profile": "https://www.linkedin.com/in/marko-nikolic-a8abb713b/"
+      }
     }
   ]
 }
