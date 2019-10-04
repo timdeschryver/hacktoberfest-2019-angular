@@ -927,6 +927,20 @@
         "name": "Fco Sueza",
         "profile": "https://github.com/fcosueza"
       }
+    },
+    {
+      "title": "Angular Extensions Elements",
+      "description": "The easiest way to lazy load Angular Elements or any other web components in your Angular application!",
+      "author": {
+        "name": "Tomas Trajan",
+        "profile": "https://www.tomastrajan.com"
+      },
+      "url": "https://angular-extensions.github.io/elements",
+      "category": "library",
+      "contributor": {
+        "name": "Tomas Trajan",
+        "profile": "https://twitter.com/tomastrajan"
+      }
     }
   ]
 }
