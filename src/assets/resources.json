@@ -899,6 +899,20 @@
         "name": "Florian Rand",
         "profile": "https://github.com/flrnd"
       }
-    }
+    },
+    {
+  "title": "Angular Crash Course - 2019",
+  "description": "build a small app With Angular 7, looking at most of the fundamental concepts like components, services, modules, etc",
+  "author": {
+    "name": "Brad Traversy",
+    "profile": "https://twitter.com/traversymedia"
+  },
+  "url": "https://www.youtube.com/watch?v=Fdf5aTYRW0E",
+  "category": "recording",
+  "contributor": {
+    "name": "Anja Muller",
+    "profile": "https://github.com/Lumary2"
+  }
+}
   ]
 }
