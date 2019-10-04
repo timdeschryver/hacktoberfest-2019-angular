@@ -955,6 +955,20 @@
         "name": "Marko Nikolic",
         "profile": "https://www.linkedin.com/in/marko-nikolic-a8abb713b/"
       }
+    },
+    {
+      "title": "Angular tutorial — Create loading indicator using NgRx",
+      "description": "Angular tutorial on creating loading decorators.",
+      "author": {
+        "name": "Alexandru Bereghici",
+        "profile": "https://itnext.io/@alexandrubereghici"
+      },
+      "url": "https://itnext.io/angular-tutorial-create-loading-indicator-using-ngrx-687f8a66be0d",
+      "category": "article",
+      "contributor": {
+        "name": "Marko Nikolic",
+        "profile": "https://www.linkedin.com/in/marko-nikolic-a8abb713b/"
+      }
     }
   ]
 }
