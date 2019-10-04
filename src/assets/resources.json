@@ -2,6 +2,20 @@
   "$schema": "./resources-schema.json",
   "resources": [
     {
+      "title": "Angular subresource integrity",
+      "description": "Secure assets in your Angular applications against resource manipulation.",
+      "author": {
+        "name": "Fabrizio Fortunato",
+        "profile": "https://twitter.com/izifortune"
+      },
+      "url": "https://izifortune.com/angular-subresource-integrity/",
+      "category": "article",
+      "contributor": {
+        "name": "Pascal Iske",
+        "profile": "https://twitter.com/pascaliske"
+      }
+    },
+    {
       "title": "A Guide to Angular 8's Differential Loading",
       "description": "Angular 8 now sends separate bundles to legacy browsers by default.",
       "author": {
