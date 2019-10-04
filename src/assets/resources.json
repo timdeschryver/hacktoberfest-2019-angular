@@ -983,48 +983,6 @@
         "name": "Merovinh",
         "profile": "https://github.com/merovinh"
       }
-    },
-    {
-      "title": "JSON WEB Authentication with Angular 8 and NodeJS",
-      "description": "The article is about interfacing an Angular 8 Project with a secure backend API. The Backend will be running on Node.JS",
-      "author": {
-        "name": "Muhammad Bilal",
-        "profile": "https://blog.soshace.com/en/author/muhammad/"
-      },
-      "url": "https://blog.soshace.com/en/programming-en/json-web-authentication-with-angular-8-and-nodejs/",
-      "category": "article",
-      "contributor": {
-        "name": "Merovinh",
-        "profile": "https://github.com/merovinh"
-      }
-    },
-    {
-      "title": "Login with Google Account Using Angular",
-      "description": "In this video author have shown how to login with google account using angular",
-      "author": {
-        "name": "Coding Shiksha",
-        "profile": "https://www.youtube.com/channel/UCR6d0EiC3G4WA8-Rqji6a8g"
-      },
-      "url": "https://youtu.be/xX36j6Ri5A0",
-      "category": "recording",
-      "contributor": {
-        "name": "Merovinh",
-        "profile": "https://github.com/merovinh"
-      }
-    },
-    {
-      "title": "How to Implement Idle Timeout in Angular",
-      "description": "Learn how to use idle-timeout in your Angular app to improve performance and security",
-      "author": {
-        "name": "Bhargav Bachina",
-        "profile": "https://blog.bitsrc.io/@bhargavbachina"
-      },
-      "url": "https://blog.bitsrc.io/how-to-implement-idle-timeout-in-angular-af61eefdb13b",
-      "category": "recording",
-      "contributor": {
-        "name": "Merovinh",
-        "profile": "https://github.com/merovinh"
-      }
     }
   ]
 }
