@@ -983,6 +983,20 @@
         "name": "Merovinh",
         "profile": "https://github.com/merovinh"
       }
+    },
+    {
+      "title": "Login with Google Account Using Angular",
+      "description": "In this video author have shown how to login with google account using angular",
+      "author": {
+        "name": "Coding Shiksha",
+        "profile": "https://www.youtube.com/channel/UCR6d0EiC3G4WA8-Rqji6a8g"
+      },
+      "url": "https://youtu.be/xX36j6Ri5A0",
+      "category": "recording",
+      "contributor": {
+        "name": "Merovinh",
+        "profile": "https://github.com/merovinh"
+      }
     }
   ]
 }
