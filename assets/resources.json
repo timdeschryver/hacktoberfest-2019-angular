@@ -999,6 +999,20 @@
       }
     },
     {
+      "title": "Performance optimizations in Angular",
+      "description": "Angular and RxJS are cool technologies that make it easy to develop web pages. Unfortunately, they also make it easy to build an inefficient page that will bring the browser to its knees. In this talk, a summary of learnings and common pitfalls will be shared.",
+      "author": {
+        "name": "Mert Değirmenci",
+        "profile": "https://www.linkedin.com/in/degirmenci"
+      },
+      "url": "https://www.youtube.com/watch?v=Tlmx1PbP8Qw",
+      "category": "talk",
+      "contributor": {
+        "name": "Serge Adamovich",
+        "profile": "https://github.com/dellink"
+      }
+    },
+    {
       "title": "Why you HAVE to unsubscribe from Observable",
       "description": "The easiest way to unsubscribe from an Observable is not to subscribe in the first place. Yes, that's it! Just don't subscribe at all. But how do I get all the data I need?",
       "author": {
