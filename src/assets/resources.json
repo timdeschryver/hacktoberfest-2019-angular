@@ -844,6 +844,20 @@
         "name": "Juan Romero",
         "profile": "https://twitter.com/JuanpRM"
       }
+    },
+    {
+      "title": "RxJS forkJoin Best Practices",
+      "description": "Never Use Array Indexes in Subscribe!",
+      "author": {
+        "name": "Michal Ptaszek",
+        "profile": "https://medium.com/@michal.a.ptaszek"
+      },
+      "url": "https://medium.com/better-programming/rxjs-forkjoin-never-use-array-indexes-in-subscribe-1f4005582ae8",
+      "category": "article",
+      "contributor": {
+        "name": "Raul Crisan",
+        "profile": "https://github.com/raulcrisan"
+      }
     }
   ]
 }
