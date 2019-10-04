@@ -941,6 +941,20 @@
         "name": "Tomas Trajan",
         "profile": "https://twitter.com/tomastrajan"
       }
+    },
+    {
+      "title": "Dynamically add components to the DOM with Angular",
+      "description": "Tutorial on how to insert component dynamically in Angular.",
+      "author": {
+        "name": "Dave Rivera",
+        "profile": "https://medium.com/@daverivera90"
+      },
+      "url": "https://medium.com/front-end-weekly/dynamically-add-components-to-the-dom-with-angular-71b0cb535286",
+      "category": "article",
+      "contributor": {
+        "name": "Marko Nikolic",
+        "profile": "https://www.linkedin.com/in/marko-nikolic-a8abb713b/"
+      }
     }
   ]
 }
