@@ -16,6 +16,20 @@
       }
     },
     {
+      "title": "How in-depth knowledge of change detection in Angular helped me improve application's performance",
+      "description": "When developing web applications using Angular framework we rarely think about performance implications.",
+      "author": {
+        "name": "Evgeny Fedorenko",
+        "profile": "https://indepth.dev/author/evgeny/"
+      },
+      "url": "https://indepth.dev/how-far-are-you-willing-to-go-to-improve-angular-performance/",
+      "category": "Article",
+      "contributor": {
+        "name": "Dince12",
+        "profile": "https://github.com/dince12"
+      }
+    },
+    {
       "title": "A Guide to Angular 8's Differential Loading",
       "description": "Angular 8 now sends separate bundles to legacy browsers by default.",
       "author": {
