@@ -1053,6 +1053,20 @@
         "name": "Serge Adamovich",
         "profile": "https://github.com/dellink"
       }
+    },
+    {
+      "title": "All you need to know about Ivy, The new Angular engine!",
+      "description": "Angular Ivy — The complete guide for the 3rd generation of the Angular renderer.",
+      "author": {
+        "name": "Eliran Eliassy",
+        "profile": "https://github.com/eliraneliassy"
+      },
+      "url": "https://blog.angularindepth.com/all-you-need-to-know-about-ivy-the-new-angular-engine-9cde471f42cf",
+      "category": "article",
+      "contributor": {
+        "name": "Paul",
+        "profile": "https://github.com/pauliax"
+      }
     }
   ]
 }
