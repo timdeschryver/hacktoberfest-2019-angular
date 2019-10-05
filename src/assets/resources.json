@@ -1039,6 +1039,20 @@
         "name": "ice",
         "profile": "https://github.com/icezatoo"
       }
+    },
+    {
+      "title": "The Architecture of Components",
+      "description": "This talk will show you how to build your application in small, manageable chunks that increase reusability. You will learn how to create simple interfaces between components and maintain a single, focused responsibility all without a state management solution.",
+      "author": {
+        "name": "Erin Coughlan",
+        "profile": "https://github.com/ErinCoughlan"
+      },
+      "url": "https://www.youtube.com/watch?v=pg8guVVwiMk",
+      "category": "talk",
+      "contributor": {
+        "name": "Serge Adamovich",
+        "profile": "https://github.com/dellink"
+      }
     }
   ]
 }
