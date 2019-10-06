@@ -1095,6 +1095,34 @@
         "name": "Serge Adamovich",
         "profile": "https://github.com/dellink"
       }
+    },
+    {
+      "title": "Nebular Components and Admin",
+      "description": "Nebular is a customizable Angular UI Library based on Eva Design System specifications, with 40+ UI components, 4 visual themes, Auth and Security modules.",
+      "author": {
+        "name": "akveo LLC",
+        "profile": "https://www.akveo.com/"
+      },
+      "url": "https://akveo.github.io/nebular/docs/components/components-overview/",
+      "category": "UI Library",
+      "contributor": {
+        "name": "Oluwatobi Adeshina",
+        "profile": "https://twitter.com/drtobbyas"
+      }
+    },
+    {
+      "title": "Why Your Angular App Is Not Working: 7 Common Mistakes",
+      "description": "Seven common mistakes that might be causing your Angular issues.",
+      "author": {
+        "name": "Valerio Pisapia",
+        "profile": "https://twitter.com/Movidastar"
+      },
+      "url": "https://icodemag.com/why-your-angular-app-is-not-working-7-common-mistakes/",
+      "category": "article",
+      "contributor": {
+        "name": "Valerio Pisapia",
+        "profile": "https://www.linkedin.com/in/valerio-pisapia/"
+      }
     }
   ]
 }
