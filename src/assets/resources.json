@@ -1081,6 +1081,20 @@
         "name": "Paul",
         "profile": "https://github.com/pauliax"
       }
+    },
+{
+      "title": "Nebular Components and Admin",
+      "description": "Nebular is a customizable Angular UI Library based on Eva Design System specifications, with 40+ UI components, 4 visual themes, Auth and Security modules.",
+      "author": {
+        "name": "akveo LLC",
+        "profile": "https://www.akveo.com/"
+      },
+      "url": "https://akveo.github.io/nebular/docs/components/components-overview/",
+      "category": "UI Library",
+      "contributor": {
+        "name": "Oluwatobi Adeshina",
+        "profile": "https://twitter.com/drtobbyas"
+      }
     }
   ]
 }
