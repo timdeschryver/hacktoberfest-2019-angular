@@ -1083,6 +1083,20 @@
       }
     },
     {
+      "title": "The secrets behind Angular’s lightning speed",
+      "description": "Angular developers rarely have the need to write super optimized code. In application development we tend to favor readability over optimization. But this approach doesn’t guarantee fast execution of the code. With frameworks, the situation is reversed. Frameworks have to be really fast.",
+      "author": {
+        "name": "Max Koretskyi",
+        "profile": "https://twitter.com/maxkorerskyi"
+      },
+      "url": "https://www.youtube.com/watch?v=nQ8oJ1rpwIc",
+      "category": "talk",
+      "contributor": {
+        "name": "Serge Adamovich",
+        "profile": "https://github.com/dellink"
+      }
+    },
+    {
       "title": "Nebular Components and Admin",
       "description": "Nebular is a customizable Angular UI Library based on Eva Design System specifications, with 40+ UI components, 4 visual themes, Auth and Security modules.",
       "author": {
