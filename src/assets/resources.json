@@ -1123,6 +1123,20 @@
         "name": "Valerio Pisapia",
         "profile": "https://www.linkedin.com/in/valerio-pisapia/"
       }
+    },
+    {
+      "title": "Material Web Components for Angular",
+      "description": "Incorporating Google Material Components for a faithful and accurate representation of Material Design as envisioned on the web platform.",
+      "author": {
+        "name": "Dominic Carretto",
+        "profile": "https://github.com/trimox"
+      },
+      "url": "https://github.com/trimox/angular-mdc-web",
+      "category": "library",
+      "contributor": {
+        "name": "Maki",
+        "profile": "https://github.com/makitsune"
+      }
     }
   ]
 }
