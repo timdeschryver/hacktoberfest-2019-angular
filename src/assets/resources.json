@@ -1179,6 +1179,20 @@
         "name": "Kirill Galushko",
         "profile": "https://github.com/qeireal"
       }
+    },
+    {
+      "title": "Squeezing Angular Directives",
+      "description": "In this article, we’ll examine the features and limitations of every type of directive and how to mix all their features into one superdirective.",
+      "author": {
+        "name": "Aleix Suau",
+        "profile": "https://blog.angularindepth.com/@aleixsuau"
+      },
+      "url": "https://blog.angularindepth.com/squeezing-angular-directives-8ab7b1e4e3ba",
+      "category": "article",
+      "contributor": {
+        "name": "Marko Nikolic",
+        "profile": "https://www.linkedin.com/in/marko-nikolic-a8abb713b/"
+      }
     }
   ]
 }
