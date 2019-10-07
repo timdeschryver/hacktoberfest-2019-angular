@@ -1193,6 +1193,20 @@
         "name": "Marko Nikolic",
         "profile": "https://www.linkedin.com/in/marko-nikolic-a8abb713b/"
       }
+    },
+    {
+      "title": "Ngx-Smart-Modal",
+      "description": "Angular smart light and fast modal handler to manage modals and data everywhere.",
+      "author": {
+        "name": "Biig",
+        "profile": "https://github.com/biig-io"
+      },
+      "url": "https://biig-io.github.io/ngx-smart-modal",
+      "category": "library",
+      "contributor": {
+        "name": "Louis AUGRY",
+        "profile": "https://github.com/LouisAugry"
+      }
     }
   ]
 }
