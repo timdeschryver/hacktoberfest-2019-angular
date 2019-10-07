@@ -1137,6 +1137,34 @@
         "name": "Serge Adamovich",
         "profile": "https://github.com/dellink"
       }
+    },
+    {
+      "title": "Material Web Components for Angular",
+      "description": "Incorporating Google Material Components for a faithful and accurate representation of Material Design as envisioned on the web platform.",
+      "author": {
+        "name": "Dominic Carretto",
+        "profile": "https://github.com/trimox"
+      },
+      "url": "https://github.com/trimox/angular-mdc-web",
+      "category": "library",
+      "contributor": {
+        "name": "Maki",
+        "profile": "https://github.com/makitsune"
+      }
+    },
+    {
+      "title": "ChartJS  for Angular",
+      "description": "Chart.js component for Angular2+. Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free",
+      "author": {
+        "name": "BeforeSecond",
+        "profile": "https://github.com/beforesecond"
+      },
+      "url": "https://github.com/emn178/angular2-chartjs",
+      "category": "library",
+      "contributor": {
+        "name": "emn178",
+        "profile": "https://github.com/emn178"
+      }
     }
   ]
 }
