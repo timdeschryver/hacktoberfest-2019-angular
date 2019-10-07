@@ -1124,6 +1124,7 @@
         "profile": "https://www.linkedin.com/in/valerio-pisapia/"
       }
     },
+   
     {
       "title": "Learning AngularJS 2",
       "description": "The Angular 2 framework lets you get things done quickly by providing a model for development that yields special functionality. This course introduces you to Angular 2, the second edition of the "superheroic" JavaScript framework.",
@@ -1138,6 +1139,7 @@
         "profile": "https://github.com/thebanterage"
       }
     },
+    
     {
       "title": "Material Web Components for Angular",
       "description": "Incorporating Google Material Components for a faithful and accurate representation of Material Design as envisioned on the web platform.",
@@ -1150,7 +1152,7 @@
       "contributor": {
         "name": "Maki",
         "profile": "https://github.com/makitsune"
-      },
-      
+      }
+    }
   ]
 }
