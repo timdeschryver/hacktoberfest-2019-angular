@@ -1125,6 +1125,20 @@
       }
     },
     {
+      "title": "Angular and the OWASP top 10",
+      "description": "In this talk, we explore the relationship between the OWASP top 10 and Angular applications.",
+      "author": {
+        "name": "Philippe De Ryck",
+        "profile": "https://twitter.com/philippederyck"
+      },
+      "url": "https://www.youtube.com/watch?v=jc0YYLLEol0",
+      "category": "talk",
+      "contributor": {
+        "name": "Serge Adamovich",
+        "profile": "https://github.com/dellink"
+      }
+    },
+    {
       "title": "Material Web Components for Angular",
       "description": "Incorporating Google Material Components for a faithful and accurate representation of Material Design as envisioned on the web platform.",
       "author": {
