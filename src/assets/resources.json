@@ -1165,6 +1165,20 @@
         "name": "emn178",
         "profile": "https://github.com/emn178"
       }
+    },
+    {
+      "title": "Angular-React",
+      "description": "Use React components inside Angular",
+      "author": {
+        "name": "Microsoft",
+        "profile": "https://github.com/microsoft"
+      },
+      "url": "https://github.com/microsoft/angular-react",
+      "category": "library",
+      "contributor": {
+        "name": "Kirill Galushko",
+        "profile": "https://github.com/qeireal"
+      }
     }
   ]
 }
