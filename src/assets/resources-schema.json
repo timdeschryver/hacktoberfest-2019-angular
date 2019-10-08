@@ -21,7 +21,7 @@
           },
           "image": { "type": "string" },
           "url": { "type": "string" },
-          "category": { "enum": [ "library", "article", "talk", "recording", "book" ] },
+          "category": { "enum": [ "library", "article", "talk", "recording", "book", "course" ] },
           "contributor": {
             "type": "object",
             "properties": {
