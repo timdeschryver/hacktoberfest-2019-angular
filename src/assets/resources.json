@@ -1235,20 +1235,6 @@
         "name": "Louis AUGRY",
         "profile": "https://github.com/LouisAugry"
       }
-    },
-    {
-      "title": "Squeezing Angular Directives",
-      "description": "An article about the features and limitations of every type of directive and how to mix all their features into one superdirective.",
-      "author": {
-        "name": "Aleix Suau",
-        "profile": "https://twitter.com/aleixsuau"
-      },
-      "url": "https://blog.angularindepth.com/squeezing-angular-directives-8ab7b1e4e3ba",
-      "category": "article",
-      "contributor": {
-        "name": "Leon Lafayette",
-        "profile": "https://twitter.com/leonlafa"
-      }
     }
   ]
 }
