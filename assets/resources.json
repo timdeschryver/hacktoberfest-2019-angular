@@ -1235,6 +1235,20 @@
         "name": "Louis AUGRY",
         "profile": "https://github.com/LouisAugry"
       }
+    },
+    {
+      "title": "Using Zones in Angular for better performance",
+      "description": "This article talks about how we can take advantage of Zone APIs, to execute our code outside the Angular zone ",
+      "author": {
+        "name": "Pascal Precht",
+        "profile": "https://twitter.com/PascalPrecht"
+      },
+      "url": "https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance",
+      "category": "article",
+      "contributor": {
+        "name": "Gaurav",
+        "profile": "https://github.com/grvv"
+      }
     }
   ]
 }
