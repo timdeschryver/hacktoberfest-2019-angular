@@ -516,6 +516,20 @@
       }
     },
     {
+      "title": "The Ultimate Answer To The Very Common Angular Question: subscribe() vs | async Pipe",
+      "description": "There are multiple ways in which it is possible to consume the RxJS observable stream of state updates by the components, the two most popular in comparison.",
+      "author": {
+        "name": "Tomas Trajan",
+        "profile": "https://www.tomastrajan.com"
+      },
+      "url": "https://blog.angularindepth.com/angular-question-rxjs-subscribe-vs-async-pipe-in-component-templates-c956c8c0c794",
+      "category": "article",
+      "contributor": {
+        "name": "Sam Sauer",
+        "profile": "https://github.com/samsour"
+      }
+    },
+    {
       "title": "Scalable Angular Architecture",
       "description": "From proper abstractions between layers, modular design and lazy loading to unidirectional flow and state management you will see how those help to scale Angular apps.",
       "author": {
