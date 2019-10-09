@@ -1249,6 +1249,20 @@
         "name": "Gaurav",
         "profile": "https://github.com/grvv"
       }
+    },
+    {
+      "title": "Angular Tutorials",
+      "description": "Great acticle by examples for new Angular developer.",
+      "author": {
+        "name": "Arvind Rai",
+        "profile": "https://twitter.com/concretepage"
+      },
+      "url": "https://www.concretepage.com/angular/",
+      "category": "article",
+      "contributor": {
+        "name": "tumit",
+        "profile": "https://twitter.com/tumit"
+      }
     }
   ]
 }
