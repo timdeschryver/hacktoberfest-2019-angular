@@ -1251,6 +1251,20 @@
       }
     },
     {
+      "title": "Concrete Page: Angular Tutorials by Examples",
+      "description": "Great acticle by examples for new Angular developer.",
+      "author": {
+        "name": "Arvind Rai",
+        "profile": "https://twitter.com/concretepage"
+      },
+      "url": "https://www.concretepage.com/angular/",
+      "category": "article",
+      "contributor": {
+        "name": "tumit",
+        "profile": "https://twitter.com/tumit"
+      }
+    },
+    {    
       "title": "Exemplary real world application built with Angular",
       "description": "Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.",
       "author": {
