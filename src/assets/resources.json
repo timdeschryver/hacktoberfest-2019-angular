@@ -1263,6 +1263,20 @@
         "name": "tumit",
         "profile": "https://twitter.com/tumit"
       }
+    },
+    {    
+      "title": "Exemplary real world application built with Angular",
+      "description": "Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.",
+      "author": {
+        "name": "thinkster",
+        "profile": "https://thinkster.io/"
+      },
+      "url": "https://github.com/gothinkster/angular-realworld-example-app",
+      "category": "library",
+      "contributor": {
+        "name": "Sanket Maru",
+        "profile": "https://github.com/sanketmaru"
+      }
     }
   ]
 }
