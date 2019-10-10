@@ -1291,6 +1291,19 @@
         "name": "ninxxxxx",
         "profile": "https://github.com/ninxxxxx"
       }
-    }
+    },
+     {    
+      "title": "Add a custom pipe to Angular 8",
+      "description": "The purpose of a custom pipe is some custom formatting on your data.",
+      "author": {
+        "name": "Ajdin Imsirovic",
+        "profile": "https://medium.com/@ajdin.imsirovic"
+      },
+      "url": "https://medium.com/@ajdin.imsirovic/add-a-custom-pipe-to-angular-8-e0124931813d",
+      "category": "Development",
+      "contributor": {
+        "name": "Ankit kumar",
+        "profile": "https://github.com/PrajapatiAnkit"
+      }
   ]
 }
