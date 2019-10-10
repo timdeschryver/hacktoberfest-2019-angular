@@ -1303,7 +1303,21 @@
       "category": "Development",
       "contributor": {
         "name": "Ankit kumar",
-        "profile": "https://github.com/PrajapatiAnkit"
+        "profile": "https://githuƒb.com/PrajapatiAnkit"
+      }
+    },
+    {
+      "title": "ng5-slider",
+      "description": "Self-contained, mobile friendly slider component for Angular 5+ based on angularjs-slider.",
+      "author": {
+        "name": "angular-slider",
+        "profile": "https://github.com/angular-slider"
+      },
+      "url": "https://github.com/angular-slider/ng5-slider",
+      "category": "library",
+      "contributor": {
+        "name": "Dmitry Kulikov",
+        "profile": "https://github.com/mittey"
       }
     }
   ]
