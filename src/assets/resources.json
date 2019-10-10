@@ -1277,6 +1277,20 @@
         "name": "Sanket Maru",
         "profile": "https://github.com/sanketmaru"
       }
+    },
+    {    
+      "title": "Getting Started With Serverless Angular Universal on AWS Lambda",
+      "description": "You can build search-engine optimized (SEO) friendly single page applications (SPA’s) with Angular Universal, a technology that runs your Angular application on the server. Additionally, you can reduce the cost of running those applications with AWS Lambda, an event-driven, serverless computing platform provided as a part of Amazon Web Services (AWS). This piece will show you how to build and deploy Angular Universal projects on AWS Lambda using Serverless Framework, an open-source command line interface for building and deploying serverless applications.",
+      "author": {
+        "name": "Maciej Treder",
+        "profile": "https://medium.com/@maciejtreder"
+      },
+      "url": "https://medium.com/better-programming/getting-started-with-serverless-angular-universal-on-aws-lambda-8754bcc4dc19",
+      "category": "article",
+      "contributor": {
+        "name": "ninxxxxx",
+        "profile": "https://github.com/ninxxxxx"
+      }
     }
   ]
 }
