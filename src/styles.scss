@@ -83,7 +83,7 @@ $theme: mat-dark-theme($primary, $accent);
   $accent: map-get($theme, accent);
 
   .hacktoberfest {
-    * {
+    * :not(.material-icons) {
       font-family: 'Space Mono', monospace !important;
     }
 
