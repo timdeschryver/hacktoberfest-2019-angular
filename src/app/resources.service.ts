@@ -1,30 +1,33 @@
 import { Injectable } from '@angular/core';
-import { Router, ActivatedRoute, NavigationEnd } from '@angular/router';
-import { BehaviorSubject } from 'rxjs';
+import { Router, ActivatedRoute, NavigationEnd, Params } from '@angular/router';
+import { BehaviorSubject, Subject, Observable } from 'rxjs';
 import { map, pluck, filter, withLatestFrom, take, skip, debounceTime } from 'rxjs/operators';
 
 import { resources } from '../assets/resources.json';
+
+export interface Resource {
+  title: string,
+  description: string,
+  author: {
+    name: string
+    profile?: string
+  },
+  url: string,
+  category: string,
+  contributor: {
+    name: string,
+    profile?: string
+  }
+};
 
 @Injectable({
  providedIn: 'root'
 })
 export class ResourcesService {
-  private resources: {
-    title: string,
-    description: string,
-    author: {
-      name: string
-      profile?: string
-    },
-    url: string,
-    category: string,
-    contributor: {
-      name: string,
-      profile?: string
-    }
-  }[] = [...resources];
+  private resources: Resource[] = [...resources];
 
-  private routeQuery = this.route.queryParams.pipe(pluck('query'));
+  private queryParams = new BehaviorSubject<Params>({});
+  private routeQuery = this.queryParams.pipe(pluck('query'));
   private placeholder = { title: 'placeholder', description: '', author: { name: '' }, contributor: { name: '' }, category: '', url: '' };
 
   // https://stackoverflow.com/a/12646864
@@ -55,8 +58,21 @@ export class ResourcesService {
     })
   );
 
-  constructor(private router: Router, private route: ActivatedRoute) {
+  randomizeResources() {
     this.shuffleArray(this.resources);
+    this.queryParams.pipe(take(1)).subscribe(queryParams=>{
+      this.queryParams.next(queryParams);
+    });
+  }
+
+  constructor(private router: Router, private route: ActivatedRoute) {
+    this.randomizeResources();
+
+    this.route.queryParams.subscribe({
+      next: x=>this.queryParams.next(x),
+      error: x=>this.queryParams.error(x),
+      complete: ()=>this.queryParams.complete(),
+    });
 
     this.router.events
       .pipe(

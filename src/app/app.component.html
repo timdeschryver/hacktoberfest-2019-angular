@@ -29,9 +29,21 @@
   </mat-toolbar>
   <mat-sidenav-container>
     <mat-sidenav-content>
-      <mat-form-field>
-        <input matInput placeholder="Search for a resource" (*input)="input$" [value]="query$ | async" autocomplete="off">
-      </mat-form-field>
+      <div style="display: flex; align-items: center;">
+        <div style="text-align: center; padding-right: 1em;">
+          <button mat-fab color="accent" (click)="randomizeResources()">
+            <mat-icon
+              aria-hidden="false"
+              aria-label="Randomize"
+            >autorenew</mat-icon>
+          </button>
+          <!-- <br />
+          Randomize -->
+        </div>
+        <mat-form-field style="flex-grow: 1;">
+          <input matInput placeholder="Search for a resource" (*input)="input$" [value]="query$ | async" autocomplete="off">
+        </mat-form-field>
+      </div>
 
       <ng-container *ngIf="{
           columns: columns$ | async,

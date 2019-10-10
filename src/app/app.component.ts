@@ -17,7 +17,7 @@ import { trigger, transition, query, stagger, animate, style } from '@angular/an
       transition('* => *', [
         query(':enter' , [
           style({ opacity: 0, transform: 'scale(.7)' }),
-          stagger(100, [
+          stagger(0, [
             animate('0.3s', style({ opacity: 1, transform: 'scale(1)' }))
           ])
         ], { optional: true })
@@ -46,11 +46,18 @@ export class AppComponent implements OnInit {
     'book': '📖'
   };
 
-  constructor(private resourcesService: ResourcesService, private breakpointObserver: BreakpointObserver) { }
+  constructor(
+    private resourcesService: ResourcesService,
+    private breakpointObserver: BreakpointObserver,
+  ) {}
 
   ngOnInit() {
     this.input$.pipe(
       map(evt => (evt.target as HTMLInputElement).value)
     ).subscribe(query => this.resourcesService.search(query));
+  }
+
+  randomizeResources() {
+    this.resourcesService.randomizeResources();
   }
 }
