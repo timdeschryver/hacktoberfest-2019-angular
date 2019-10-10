@@ -9,19 +9,42 @@ import { resources } from '../assets/resources.json';
  providedIn: 'root'
 })
 export class ResourcesService {
+  private resources: {
+    title: string,
+    description: string,
+    author: {
+      name: string
+      profile?: string
+    },
+    url: string,
+    category: string,
+    contributor: {
+      name: string,
+      profile?: string
+    }
+  }[] = [...resources];
+
   private routeQuery = this.route.queryParams.pipe(pluck('query'));
   private placeholder = { title: 'placeholder', description: '', author: { name: '' }, contributor: { name: '' }, category: '', url: '' };
+
+  // https://stackoverflow.com/a/12646864
+  private shuffleArray(array: any[]) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+  }
 
   querySubject$ = new BehaviorSubject<string>('');
   query$ = this.querySubject$.pipe(skip(1));
   resources$ = this.routeQuery.pipe(
     map(query => {
       if (!query) {
-        return resources.concat(this.placeholder as any);
+        return this.resources.concat(this.placeholder as any);
       }
 
       const queryLower = query.toLowerCase();
-      return resources.filter(resource =>
+      return this.resources.filter(resource =>
         resource.title.toLowerCase().includes(queryLower) ||
         resource.description.toLowerCase().includes(queryLower) ||
         resource.author.name.toLowerCase().includes(queryLower) ||
@@ -33,6 +56,8 @@ export class ResourcesService {
   );
 
   constructor(private router: Router, private route: ActivatedRoute) {
+    this.shuffleArray(this.resources);
+
     this.router.events
       .pipe(
         filter(evt => evt instanceof NavigationEnd),
