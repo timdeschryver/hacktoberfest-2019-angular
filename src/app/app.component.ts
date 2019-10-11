@@ -43,7 +43,8 @@ export class AppComponent implements OnInit {
     'article': '📝',
     'library': '🔧',
     'recording': '📺',
-    'book': '📖'
+    'book': '📖',
+    'course': '🎓'
   };
 
   constructor(private resourcesService: ResourcesService, private breakpointObserver: BreakpointObserver) { }
