@@ -1335,6 +1335,20 @@
         "name": "Dmitry Kulikov",
         "profile": "https://github.com/mittey"
       }
+    },
+    {
+      "title": "Learn Angular - Full Tutorial Course",
+      "description": "Angular 6 (and above) complete course",
+      "author": {
+        "name": "freeCodeCamp",
+        "profile": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ"
+      },
+      "url": "https://www.youtube.com/watch?v=2OHbjep_WjQ&vl=zh",
+      "category": "recording",
+      "contributor": {
+        "name": "Omkar Shelar",
+        "profile": "https://github.com/omkarshelar"
+      }
     }
   ]
 }
