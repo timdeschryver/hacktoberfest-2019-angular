@@ -1362,6 +1362,20 @@
         "name": "Omkar Shelar",
         "profile": "https://github.com/omkarshelar"
       }
+    },
+    {
+      "title": "Angular Tutorial",
+      "description": "the conceptual basis for many examples in this documentation set.",
+      "author": {
+        "name": "angular.io",
+        "profile": "https://angular.io/"
+      },
+      "url": "https://angular.io/tutorial",
+      "category": "article",
+      "contributor": {
+        "name": "porpeeranut",
+        "profile": "https://github.com/porpeeranut"
+      }
     }
   ]
 }
