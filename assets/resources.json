@@ -804,6 +804,19 @@
       }
     },
     {
+      "title": "angular-electron",
+      "description": "useful resource for cross platform development",
+      "author": {
+        "name": "Maxim Gris",
+        "profile": "A link to the author's bio - this is optional"
+      },
+      "url": "https://github.com/maximegris/angular-electron",
+      "category": "library",
+      "contributor": {
+        "name": "Phil"
+      }
+    },
+    {
       "title": "Dynamically Load CSS with the Angular CLI",
       "description": "How to configure the Angular CLI to not inject the styles into the HTML file and how to lazy load the styles at runtime",
       "author": {
@@ -1118,7 +1131,7 @@
         "profile": "https://www.akveo.com/"
       },
       "url": "https://akveo.github.io/nebular/docs/components/components-overview/",
-      "category": "UI Library",
+      "category": "library",
       "contributor": {
         "name": "Oluwatobi Adeshina",
         "profile": "https://twitter.com/drtobbyas"
@@ -1138,6 +1151,22 @@
         "profile": "https://www.linkedin.com/in/valerio-pisapia/"
       }
     },
+
+    {
+      "title": "Learning AngularJS 2",
+      "description": "The Angular 2 framework lets you get things done quickly by providing a model for development that yields special functionality. This course introduces you to Angular 2, the second edition of the \"superheroic\" JavaScript framework.",
+      "author": {
+        "name": "Ray Villalobos",
+        "profile": "https://www.linkedin.com/in/planetoftheweb/?trk=lil_instructor"
+      },
+      "url": "https://www.linkedin.com/learning/learning-angularjs-2/welcome",
+      "category": "course",
+      "contributor": {
+        "name": "Naveen Bandarage",
+        "profile": "https://github.com/thebanterage"
+      }
+    },
+
     {
       "title": "Angular and the OWASP top 10",
       "description": "In this talk, we explore the relationship between the OWASP top 10 and Angular applications.",
@@ -1264,7 +1293,7 @@
         "profile": "https://twitter.com/tumit"
       }
     },
-    {    
+    {
       "title": "Exemplary real world application built with Angular",
       "description": "Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.",
       "author": {
@@ -1278,7 +1307,7 @@
         "profile": "https://github.com/sanketmaru"
       }
     },
-    {    
+    {
       "title": "Getting Started With Serverless Angular Universal on AWS Lambda",
       "description": "You can build search-engine optimized (SEO) friendly single page applications (SPA’s) with Angular Universal, a technology that runs your Angular application on the server. Additionally, you can reduce the cost of running those applications with AWS Lambda, an event-driven, serverless computing platform provided as a part of Amazon Web Services (AWS). This piece will show you how to build and deploy Angular Universal projects on AWS Lambda using Serverless Framework, an open-source command line interface for building and deploying serverless applications.",
       "author": {
@@ -1292,7 +1321,7 @@
         "profile": "https://github.com/ninxxxxx"
       }
     },
-     {    
+     {
       "title": "Add a custom pipe to Angular 8",
       "description": "The purpose of a custom pipe is some custom formatting on your data.",
       "author": {
@@ -1300,7 +1329,7 @@
         "profile": "https://medium.com/@ajdin.imsirovic"
       },
       "url": "https://medium.com/@ajdin.imsirovic/add-a-custom-pipe-to-angular-8-e0124931813d",
-      "category": "Development",
+      "category": "article",
       "contributor": {
         "name": "Ankit kumar",
         "profile": "https://github.com/PrajapatiAnkit"
@@ -1318,6 +1347,20 @@
       "contributor": {
         "name": "Dmitry Kulikov",
         "profile": "https://github.com/mittey"
+      }
+    },
+    {
+      "title": "Learn Angular - Full Tutorial Course",
+      "description": "Angular 6 (and above) complete course",
+      "author": {
+        "name": "freeCodeCamp",
+        "profile": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ"
+      },
+      "url": "https://www.youtube.com/watch?v=2OHbjep_WjQ&vl=zh",
+      "category": "recording",
+      "contributor": {
+        "name": "Omkar Shelar",
+        "profile": "https://github.com/omkarshelar"
       }
     }
   ]
