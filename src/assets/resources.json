@@ -1376,6 +1376,20 @@
         "name": "porpeeranut",
         "profile": "https://github.com/porpeeranut"
       }
+    },
+    {
+      "title": "How to cache HTTP requests in Angular",
+      "description": "This article shows how to cache a HTTP request in Angular with shareReply",
+      "author": {
+        "name": " Bartosz Pietrucha",
+        "profile": "https://dev.to/pietrucha"
+      },
+      "url": "https://dev.to/angular/how-to-cache-http-requests-in-angular-5c8i",
+      "category": "article",
+      "contributor": {
+        "name": "Delia Balaj",
+        "profile": "https://github.com/ddelilah"
+      }
     }
   ]
 }
