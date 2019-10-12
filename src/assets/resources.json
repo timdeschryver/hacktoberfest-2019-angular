@@ -1390,6 +1390,20 @@
         "name": "Delia Balaj",
         "profile": "https://github.com/ddelilah"
       }
+    },
+    {
+      "title": "Infinite Scroll in Angular Using the CDK",
+      "description": "This article shows how to implement infinite scrolling in Angular using CDK",
+      "author": {
+        "name": "Chris Engelsma",
+        "profile": "https://github.com/chrisengelsma"
+      },
+      "url": "https://alligator.io/angular/infinite-scroll/",
+      "category": "article",
+      "contributor": {
+        "name": "Delia Balaj",
+        "profile": "https://github.com/ddelilah"
+      }
     }
   ]
 }
