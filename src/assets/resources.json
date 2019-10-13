@@ -1418,6 +1418,20 @@
         "name": "Siwat Jir",
         "profile": "https://github.com/bank2u"
       }
+    },
+    {
+      "title": "Using Angular Elements with NgRx",
+      "description": "This is a guide article to build an element which can be used across multiple library backed by NgRx",
+      "author": {
+        "name": "Santosh Yadav",
+        "profile": "https://twitter.com/Santosh19742211"
+      },
+      "url": "https://blog.angularindepth.com/using-angular-elements-with-ngrx-bc655e1eb212",
+      "category": "article",
+      "contributor": {
+        "name": "Nisheanthan",
+        "profile": "https://github.com/Nisheanthan"
+      }
     }
   ]
 }
