@@ -1404,6 +1404,20 @@
         "name": "Delia Balaj",
         "profile": "https://github.com/ddelilah"
       }
+    },
+    {
+      "title": "How to use Internationalization (i18n) in Angular",
+      "description": "This article shows how to implement internationalization(i18n) in Angular",
+      "author": {
+        "name": "Pual Halliday",
+        "profile": "https://github.com/PaulHalliday"
+      },
+      "url": "https://alligator.io/angular/internationalization/",
+      "category": "article",
+      "contributor": {
+        "name": "Siwat Jir",
+        "profile": "https://github.com/bank2u"
+      }
     }
   ]
 }
