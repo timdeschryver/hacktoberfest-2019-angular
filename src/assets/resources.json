@@ -1432,6 +1432,20 @@
         "name": "Nisheanthan",
         "profile": "https://github.com/Nisheanthan"
       }
+    },
+    {
+      "title": "Angular-8 Crud from Scratch",
+      "description": "This article is specially designed for newcomers, and it will help you to up and running with the latest version of Angular which is right now 8. You will learn Angular by example by building a full-stack CRUD Application",
+      "author": {
+        "name": "krunaldlathiya",
+        "profile": "https://twitter.com/krunaldlathiya"
+      },
+      "url": "https://appdividend.com/2019/06/04/angular-8-tutorial-with-example-learn-angular-8-crud-from-scratch/",
+      "category": "article",
+      "contributor": {
+        "name": "Ramsha Saeed",
+        "profile": "https://github.com/RamshaS"
+      }
     }
   ]
 }
