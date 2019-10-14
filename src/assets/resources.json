@@ -1474,6 +1474,20 @@
         "name": "Bruno Bradach",
         "profile": "https://github.com/brunob15"
       }
+    },
+    {
+      "title": "Not Every App is a SPA",
+      "description": "Performance is a critical concern shipping applications that deliver great first load experiences, and not every application should be a Single Page Application on first load. We’re working on new techniques to make your websites easier to build, faster to deploy, and instant to load.",
+      "author": {
+        "name": "Rob Wormald",
+        "profile": "https://twitter.com/robwormald"
+      },
+      "url": "https://www.youtube.com/watch?v=JX5GGu_7JKc",
+      "category": "recording",
+      "contributor": {
+        "name": "Bruno Bradach",
+        "profile": "https://github.com/brunob15"
+      }
     }
   ]
 }
