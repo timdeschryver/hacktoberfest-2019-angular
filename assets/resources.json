@@ -1460,6 +1460,20 @@
         "name": "Tegar Jagat Geni Arya Perkasa",
         "profile": "https://github.com/tegarjgap"
       }
+    },
+    {
+      "title": "Lazy load Angular Components",
+      "description": "Or better..how to lazy load Angular Modules. Learn about the state of lazy loading and lazy loading on steroids with Angular Elements",
+      "author": {
+        "name": "Juri Strumpflohner",
+        "profile": "https://twitter.com/juristr"
+      },
+      "url": "https://juristr.com/blog/2019/04/state-lazy-loading-components-angular/",
+      "category": "article",
+      "contributor": {
+        "name": "Bruno Bradach",
+        "profile": "https://github.com/brunob15"
+      }
     }
   ]
 }
