@@ -1446,6 +1446,20 @@
         "name": "Ramsha Saeed",
         "profile": "https://github.com/RamshaS"
       }
+    },
+    {
+      "title": "Angular 8 (formerly Angular 2) - The Complete Guide",
+      "description": "This course is give you fundamental of Angular, so that you can master it.",
+      "author": {
+        "name": "Maximilian Schwarzmüller",
+        "profile": "https://twitter.com/maxedapps"
+      },
+      "url": "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+      "category": "course",
+      "contributor": {
+        "name": "Tegar Jagat Geni Arya Perkasa",
+        "profile": "https://github.com/tegarjgap"
+      }
     }
   ]
 }
