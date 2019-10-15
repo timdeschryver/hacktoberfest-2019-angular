@@ -1516,6 +1516,20 @@
         "name": "Ivan Tsymbal",
         "profile": "https://github.com/Poccomaxazt"
       }
+    },
+    {
+      "title": "Understanding RxJS Multicast Operators",
+      "description": "RxJS multicast operators, better known as sharing operators, are probably the most complicated topic to understand in the jungle that is RxJS.",
+      "author": {
+        "name": "Netanel Basal",
+        "profile": "https://twitter.com/NetanelBasal"
+      },
+      "url": "https://netbasal.com/understanding-rxjs-multicast-operators-77b3f60af0a2",
+      "category": "article",
+      "contributor": {
+        "name": "Ivan Tsymbal",
+        "profile": "https://github.com/Poccomaxazt"
+      }
     }
   ]
 }
