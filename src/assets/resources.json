@@ -1488,6 +1488,20 @@
         "name": "Bruno Bradach",
         "profile": "https://github.com/brunob15"
       }
+    },
+    {
+      "title": "Angular CLI — Demystifying the workspace",
+      "description": "The Angular CLI abstracts a lot of things, from the way you create a new Angular project to generating production build. The post demystifies how the Angular CLI actually works.",
+      "author": {
+        "name": "Benjamin Cabanes",
+        "profile": "https://twitter.com/bencabanes"
+      },
+      "url": "https://blog.nrwl.io/angular-cli-demystifying-the-workspace-7f59ffaab4cb",
+      "category": "article",
+      "contributor": {
+        "name": "Ivan Tsymbal",
+        "profile": "https://github.com/Poccomaxazt"
+      }
     }
   ]
 }
