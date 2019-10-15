@@ -830,6 +830,20 @@
         "name": "Sandro Pirtskhalava",
         "profile": "https://github.com/spirtskhalava"
       }
+    },
+    {
+      "title": "Create a module that can be installed with npm",
+      "description": "Create a library that you can publish on npm or store in Git and install it into your Angular project from there.",
+      "author": {
+        "name": "MAXIM VAN VEEN",
+        "profile": ""
+      },
+      "url": "https://www.competa.com/blog/angular-6-create-a-module-that-can-be-installed-with-npm/",
+      "category": "article",
+      "contributor": {
+        "name": "Theophilus Johnson",
+        "profile": "https://linkedin.com/in/johnniexson"
+      }
     }
   ]
 }
