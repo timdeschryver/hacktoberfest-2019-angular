@@ -1502,6 +1502,20 @@
         "name": "Ivan Tsymbal",
         "profile": "https://github.com/Poccomaxazt"
       }
+    },
+    {
+      "title": "Angular Tools for High Performance",
+      "description": "This post, contains a list of new tools and practices that can help us build faster Angular apps and monitor their performance over time.",
+      "author": {
+        "name": "Minko Gechev",
+        "profile": "https://twitter.com/mgechev"
+      },
+      "url": "https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a",
+      "category": "article",
+      "contributor": {
+        "name": "Ivan Tsymbal",
+        "profile": "https://github.com/Poccomaxazt"
+      }
     }
   ]
 }
