@@ -1545,6 +1545,20 @@
         "name": "Ivan Tsymbal",
         "profile": "https://github.com/Poccomaxazt"
       }
+    },
+    {
+      "title": "Building a transaction service for managing large scale editing experiences",
+      "description": "A common challenge developers have to tackle when building applications consuming large data sets, is how to create a maintainable and scalable user experience for editing.",
+      "author": {
+        "name": "Alex Marinov",
+        "profile": "https://twitter.com/alxmarinov"
+      },
+      "url": "https://blog.angular.io/building-a-transaction-service-for-managing-large-scale-editing-experiences-ded666eafd5e",
+      "category": "article",
+      "contributor": {
+        "name": "Ivan Tsymbal",
+        "profile": "https://github.com/Poccomaxazt"
+      }
     }
   ]
 }
