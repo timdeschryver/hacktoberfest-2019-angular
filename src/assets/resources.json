@@ -180,9 +180,10 @@
       "contributor": {
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
-      }
-    },
-    {
+
+       }
+     },
+     {
       "title": "Don't follow RxJS Best Practices",
       "description": "Funny article about some useful rxjs best practices",
       "author": {
@@ -223,8 +224,8 @@
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
       }
-    },
-    {
+     },
+     {
       "title": "Creating a Front-End for Your User Profile Store with Angular and TypeScript",
       "description": "Learn to create a client front-end written in Angular with TypeScript, that communicates with each of the API endpoints.",
       "author": {
@@ -1557,6 +1558,20 @@
       "contributor": {
         "name": "Theophilus Johnson",
         "profile": "https://johnniexson.github.io"
+      }
+    },
+    {
+      "title": "Building a transaction service for managing large scale editing experiences",
+      "description": "A common challenge developers have to tackle when building applications consuming large data sets, is how to create a maintainable and scalable user experience for editing.",
+      "author": {
+        "name": "Alex Marinov",
+        "profile": "https://twitter.com/alxmarinov"
+      },
+      "url": "https://blog.angular.io/building-a-transaction-service-for-managing-large-scale-editing-experiences-ded666eafd5e",
+      "category": "article",
+      "contributor": {
+        "name": "Ivan Tsymbal",
+        "profile": "https://github.com/Poccomaxazt"
       }
     }
   ]
