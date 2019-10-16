@@ -1547,6 +1547,20 @@
       }
     },
     {
+      "title": "Progressive Web Apps with Angular",
+      "description": "Create Responsive, Fast and Reliable PWAs Using Angular",
+      "author": {
+        "name": "Majid Hajian",
+        "profile": "http://www.allitebooks.org/author/majid-hajian/"
+      },
+      "url": "http://www.allitebooks.org/progressive-web-apps-with-angular/",
+      "category": "book",
+      "contributor": {
+        "name": "Theophilus Johnson",
+        "profile": "https://johnniexson.github.io"
+      }
+    },
+    {
       "title": "Building a transaction service for managing large scale editing experiences",
       "description": "A common challenge developers have to tackle when building applications consuming large data sets, is how to create a maintainable and scalable user experience for editing.",
       "author": {
