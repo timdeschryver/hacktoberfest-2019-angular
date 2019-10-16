@@ -1545,6 +1545,20 @@
         "name": "Ivan Tsymbal",
         "profile": "https://github.com/Poccomaxazt"
       }
+    },
+    {
+      "title": "Progressive Web Apps with Angular",
+      "description": "Create Responsive, Fast and Reliable PWAs Using Angular",
+      "author": {
+        "name": "Majid Hajian",
+        "profile": "http://www.allitebooks.org/author/majid-hajian/"
+      },
+      "url": "http://www.allitebooks.org/progressive-web-apps-with-angular/",
+      "category": "book",
+      "contributor": {
+        "name": "Theophilus Johnson",
+        "profile": "https://johnniexson.github.io"
+      }
     }
   ]
 }
