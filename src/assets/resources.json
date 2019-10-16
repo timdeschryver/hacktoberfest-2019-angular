@@ -180,9 +180,10 @@
       "contributor": {
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
-      }
-    },
-    {
+
+       }
+     },
+     {
       "title": "Don't follow RxJS Best Practices",
       "description": "Funny article about some useful rxjs best practices",
       "author": {
@@ -223,8 +224,8 @@
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
       }
-    },
-    {
+     },
+     {
       "title": "Creating a Front-End for Your User Profile Store with Angular and TypeScript",
       "description": "Learn to create a client front-end written in Angular with TypeScript, that communicates with each of the API endpoints.",
       "author": {
@@ -883,6 +884,20 @@
       "contributor": {
         "name": "Sandro Pirtskhalava",
         "profile": "https://github.com/spirtskhalava"
+      }
+    },
+    {
+      "title": "Create a module that can be installed with npm",
+      "description": "Create a library that you can publish on npm or store in Git and install it into your Angular project from there.",
+      "author": {
+        "name": "MAXIM VAN VEEN",
+        "profile": ""
+      },
+      "url": "https://www.competa.com/blog/angular-6-create-a-module-that-can-be-installed-with-npm/",
+      "category": "article",
+      "contributor": {
+        "name": "Theophilus Johnson",
+        "profile": "https://linkedin.com/in/johnniexson"
       }
     },
     {
