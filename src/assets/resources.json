@@ -180,10 +180,9 @@
       "contributor": {
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
-
-       }
-     },
-     {
+      }
+    },
+    {
       "title": "Don't follow RxJS Best Practices",
       "description": "Funny article about some useful rxjs best practices",
       "author": {
