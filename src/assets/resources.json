@@ -1573,6 +1573,20 @@
         "name": "Ivan Tsymbal",
         "profile": "https://github.com/Poccomaxazt"
       }
+    },
+    {
+      "title": "How to test Observables",
+      "description": "Never again be confused on how to test Observables",
+      "author": {
+        "name": "Kevin Kreuzer",
+        "profile": "https://blog.angularindepth.com/@kevinkreuzer"
+      },
+      "url": "https://blog.angularindepth.com/how-to-test-observables-a00038c7faad",
+      "category": "article",
+      "contributor": {
+        "name": "Dirk",
+        "profile": "https://github.com/ddiebel"
+      }
     }
   ]
 }
