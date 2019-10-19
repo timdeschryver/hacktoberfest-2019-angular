@@ -1573,6 +1573,20 @@
         "name": "Ivan Tsymbal",
         "profile": "https://github.com/Poccomaxazt"
       }
+    },
+    {
+      "title": "Angular Architecture Patterns and Best Practices (that help to scale)",
+      "description": "Building scalable software with angular best practices.",
+      "author": {
+        "name": "Bartosz Pietrucha",
+        "profile": "https://twitter.com/pietrucha"
+      },
+      "url": "https://angular-academy.com/angular-architecture-best-practices",
+      "category": "article",
+      "contributor": {
+        "name": "Vinny Patel",
+        "profile": "https://github.com/vipatel03"
+      }
     }
   ]
 }
