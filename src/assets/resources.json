@@ -1573,6 +1573,20 @@
         "name": "Ivan Tsymbal",
         "profile": "https://github.com/Poccomaxazt"
       }
+    },
+    {
+      "title": "The Angular CLI at Air France-KLM",
+      "description": "In this article, I will show you what we're doing with the Angular CLI at Air France-KLM, and how the Angular CLI is helping us build better Angular applications.",
+      "author": {
+        "name": "Amadou Sall",
+        "profile": "https://www.amadousall.com/author/amadou/"
+      },
+      "url": "https://www.amadousall.com/the-angular-cli-at-air-france-klm/",
+      "category": "article",
+      "contributor": {
+        "name": "JanMalch",
+        "profile": "https://github.com/JanMalch"
+      }
     }
   ]
 }
