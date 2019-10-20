@@ -1573,6 +1573,20 @@
         "name": "Ivan Tsymbal",
         "profile": "https://github.com/Poccomaxazt"
       }
+    },
+    {
+      "title": "🎉 Good Things Come to Those Who Wait: What’s new in Transloco",
+      "description": "The next generation i18n library for Angular just got better! Updates for Transloco, the Angular translation library that was recently released, are coming in fast and furious. This newest version is full of 🔥 new features that you requested. It’s another step in our plan to provide you with a better i18n experience.",
+      "author": {
+        "name": "Netanel Basal",
+        "profile": "https://netbasal.com/"
+      },
+      "url": "https://netbasal.com/good-things-come-to-those-who-wait-whats-new-in-transloco-5dadf886b485",
+      "category": "article",
+      "contributor": {
+        "name": "Naruedom Tongkampan",
+        "profile": "https://github.com/dreaminfo"
+      }
     }
   ]
 }
