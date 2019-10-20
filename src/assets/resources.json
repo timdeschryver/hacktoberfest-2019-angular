@@ -1573,6 +1573,20 @@
         "name": "Ivan Tsymbal",
         "profile": "https://github.com/Poccomaxazt"
       }
+    },
+    {
+      "title": "Real-World Angular Ivy Upgrade (v9-next)",
+      "description": "This is a follow-on to show what the current upgrade path looks like using Angular v9.0.0-next.6 pre-beta, which contains optimizations for bundle size and performance as well as some bug fixes that were not present in v8’s preview.",
+      "author": {
+        "name": "Jared Youtsey",
+        "profile": "https://twitter.com/jaredyoutsey"
+      },
+      "url": "https://medium.com/ngconf/real-world-angular-ivy-upgrade-v9-next-9061f31a9bba",
+      "category": "article",
+      "contributor": {
+        "name": "Naruedom Tongkampan",
+        "profile": "https://github.com/dreaminfo"
+      }
     }
   ]
 }
