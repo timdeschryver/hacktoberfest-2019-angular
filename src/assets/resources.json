@@ -1573,6 +1573,20 @@
         "name": "Ivan Tsymbal",
         "profile": "https://github.com/Poccomaxazt"
       }
+    },
+    {
+      "title": "Demystifying RxJS for Angular Developers",
+      "description": "Understand Enough RxJS for your basic Angular needs!",
+      "author": {
+        "name": "Giancarlo Buomprisco",
+        "profile": "https://blog.bitsrc.io/@.gc"
+      },
+      "url": "https://blog.bitsrc.io/demystifying-rxjs-for-angular-developers-f39e74f56f64",
+      "category": "article",
+      "contributor": {
+        "name": "Naruedom Tongkampan",
+        "profile": "https://github.com/dreaminfo"
+      }
     }
   ]
 }
