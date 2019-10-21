@@ -1589,6 +1589,20 @@
       }
     },
     {
+      "title": "The Angular CLI at Air France-KLM",
+      "description": "In this article, I will show you what we're doing with the Angular CLI at Air France-KLM, and how the Angular CLI is helping us build better Angular applications.",
+      "author": {
+        "name": "Amadou Sall",
+        "profile": "https://www.amadousall.com/author/amadou/"
+      },
+      "url": "https://www.amadousall.com/the-angular-cli-at-air-france-klm/",
+      "category": "article",
+      "contributor": {
+        "name": "JanMalch",
+        "profile": "https://github.com/JanMalch"
+      }
+    },
+    {
       "title": "Angular Architecture Patterns and Best Practices (that help to scale)",
       "description": "Building scalable software with angular best practices.",
       "author": {
