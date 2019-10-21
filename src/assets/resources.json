@@ -1309,6 +1309,20 @@
       }
     },
     {
+      "title": "Angular validation errors made easy",
+      "description": "Angular reactive forms are great. Dinamicity, validation and binding make me - and part of the community with me - prefer them over template driven ones.",
+      "author": {
+        "name": "Luca Micieli",
+        "profile": "https://medium.com/@luca.micieli93"
+      },
+      "url": "https://medium.com/swlh/angular-validation-errors-made-easy-3bc1a837c6e7",
+      "category": "Web Development",
+      "contributor": {
+        "name": "Ankit kumar",
+        "profile": "https://github.com/poruss"
+      }
+    },
+    {
       "title": "Exemplary real world application built with Angular",
       "description": "Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.",
       "author": {
@@ -1586,6 +1600,20 @@
       "contributor": {
         "name": "Vinny Patel",
         "profile": "https://github.com/vipatel03"
+      }
+    },
+    {
+      "title": "How to test Observables",
+      "description": "Never again be confused on how to test Observables",
+      "author": {
+        "name": "Kevin Kreuzer",
+        "profile": "https://blog.angularindepth.com/@kevinkreuzer"
+      },
+      "url": "https://blog.angularindepth.com/how-to-test-observables-a00038c7faad",
+      "category": "article",
+      "contributor": {
+        "name": "Dirk",
+        "profile": "https://github.com/ddiebel"
       }
     }
   ]
