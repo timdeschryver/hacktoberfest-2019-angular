@@ -1589,6 +1589,20 @@
       }
     },
     {
+      "title": "How to define a highly scalable folder structure for your Angular project",
+      "description": "This became a real issue in my first ever real-world Angular project — especially when the application grew in size.",
+      "author": {
+        "name": "Mathis Garberg",
+        "profile": "https://github.com/mathisGarberg"
+      },
+      "url": "https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7",
+      "category": "article",
+      "contributor": {
+        "name": "Naruedom Tongkampan",
+        "profile": "https://github.com/dreaminfo"
+      }
+    },
+    {
       "title": "The Angular CLI at Air France-KLM",
       "description": "In this article, I will show you what we're doing with the Angular CLI at Air France-KLM, and how the Angular CLI is helping us build better Angular applications.",
       "author": {
