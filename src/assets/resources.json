@@ -180,10 +180,9 @@
       "contributor": {
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
-
-       }
-     },
-     {
+      }
+    },
+    {
       "title": "Don't follow RxJS Best Practices",
       "description": "Funny article about some useful rxjs best practices",
       "author": {
@@ -224,8 +223,8 @@
         "name": "Theophilus Johnson",
         "profile": "https://twitter.com/johnniexson"
       }
-     },
-     {
+    },
+    {
       "title": "Creating a Front-End for Your User Profile Store with Angular and TypeScript",
       "description": "Learn to create a client front-end written in Angular with TypeScript, that communicates with each of the API endpoints.",
       "author": {
@@ -1166,7 +1165,6 @@
         "profile": "https://www.linkedin.com/in/valerio-pisapia/"
       }
     },
-
     {
       "title": "Learning AngularJS 2",
       "description": "The Angular 2 framework lets you get things done quickly by providing a model for development that yields special functionality. This course introduces you to Angular 2, the second edition of the \"superheroic\" JavaScript framework.",
@@ -1181,7 +1179,6 @@
         "profile": "https://github.com/thebanterage"
       }
     },
-
     {
       "title": "Angular and the OWASP top 10",
       "description": "In this talk, we explore the relationship between the OWASP top 10 and Angular applications.",
@@ -1350,7 +1347,7 @@
         "profile": "https://github.com/ninxxxxx"
       }
     },
-     {
+    {
       "title": "Add a custom pipe to Angular 8",
       "description": "The purpose of a custom pipe is some custom formatting on your data.",
       "author": {
@@ -1709,6 +1706,14 @@
       },
       "url": "https://github.com/jiayihu/ng-animate",
       "category": "library",
+      "title": "Deploy Angular 7 app to firebase",
+      "description": "How to deploy/publish an angular app to firebase",
+      "author": {
+        "name": "Satyaprakash Samantaray",
+        "profile": "https://social.technet.microsoft.com/profile/satyaprakash%20samantaray/"
+      },
+      "url": "https://social.technet.microsoft.com/wiki/contents/articles/52337.angular-7-deploying-app-to-firebase-hosting.aspx",
+      "category": "article",
       "contributor": {
         "name": "Shubham Arora",
         "profile": "https://twitter.com/shubham__arora"
@@ -1727,7 +1732,48 @@
         "name": "Shubham Arora",
         "profile": "https://twitter.com/shubham__arora"
       }
+    },
+    {
+      "title": "Learn Angular 8 from Scratch for Beginners - Crash Course",
+      "description": "Good tutorial for beginers covering many topics",
+      "author": {
+        "name": "DesignCourse",
+        "profile": "https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow"
+      },
+      "url": "https://www.youtube.com/watch?v=_TLhUCjY9iA",
+      "category": "video",
+      "contributor": {
+        "name": "Simon Lariz",
+        "profile": "https://github.com/SimonLariz"
+      }
+    },
+    {
+      "title": "Angular Resources - freeCodeCamp",
+      "description": "A collection of helpful Angular resources",
+      "author": {
+        "name": "freeCodeCamp",
+        "profile": "https://guide.freecodecamp.org/angular"
+      },
+      "url": "https://guide.freecodecamp.org/angular/angular-resources",
+      "category": "course",
+      "contributor": {
+        "name": "MakroCow",
+        "profile": "https://github.com/MakroCow"
+      }
+    },
+    {
+      "title": "Angular Resources - ng-book",
+      "description": "The in-depth, complete, and up-to-date book on Angular 8. Become an Angular 8 expert today.",
+      "author": {
+        "name": "Nate Murray, Felipe Coury, Ari Lerner, Carlos Taborda",
+        "profile": "https://www.ng-book.com/2/"
+      },
+      "url": "https://www.ng-book.com/2/",
+      "category": "book",
+      "contributor": {
+        "name": "blazinggun",
+        "profile": "https://github.com/blasttrash"
+      }
     }
-
   ]
 }
