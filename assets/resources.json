@@ -1684,6 +1684,20 @@
       }
     },
     {
+      "title": "Deploy Angular 7 app to firebase",
+      "description": "How to deploy/publish an angular app to firebase",
+      "author": {
+        "name": "Satyaprakash Samantaray",
+        "profile": "https://social.technet.microsoft.com/profile/satyaprakash%20samantaray/"
+      },
+      "url": "https://social.technet.microsoft.com/wiki/contents/articles/52337.angular-7-deploying-app-to-firebase-hosting.aspx",
+      "category": "article",
+      "contributor": {
+        "name": "Shubham Arora",
+        "profile": "https://twitter.com/shubham__arora"
+      }
+    },
+    {
       "title": "Learn Angular 8 from Scratch for Beginners - Crash Course",
       "description": "Good tutorial for beginers covering many topics",
       "author": {
