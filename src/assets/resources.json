@@ -1696,6 +1696,20 @@
         "name": "MakroCow",
         "profile": "https://github.com/MakroCow"
       }
+    },
+    {
+      "title": "Angular Resources - ng-book",
+      "description": "The in-depth, complete, and up-to-date book on Angular 8. Become an Angular 8 expert today.",
+      "author": {
+        "name": "Nate Murray, Felipe Coury, Ari Lerner, Carlos Taborda",
+        "profile": "https://www.ng-book.com/2/"
+      },
+      "url": "https://www.ng-book.com/2/",
+      "category": "book",
+      "contributor": {
+        "name": "blazinggun",
+        "profile": "https://github.com/blasttrash"
+      }
     }
   ]
 }
