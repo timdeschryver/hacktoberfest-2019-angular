@@ -1684,6 +1684,20 @@
       }
     },
     {
+      "title": "Learn Angular 8 from Scratch for Beginners - Crash Course",
+      "description": "Good tutorial for beginers covering many topics",
+      "author": {
+        "name": "DesignCourse",
+        "profile": "https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow"
+      },
+      "url": "https://www.youtube.com/watch?v=_TLhUCjY9iA",
+      "category": "video",
+      "contributor": {
+        "name": "Simon Lariz",
+        "profile": "https://github.com/SimonLariz"
+      }
+    },
+    {
       "title": "Angular Resources - freeCodeCamp",
       "description": "A collection of helpful Angular resources",
       "author": {
