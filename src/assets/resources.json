@@ -2,6 +2,20 @@
   "$schema": "./resources-schema.json",
   "resources": [
     {
+      "title": "Angular Service Worker: Dealing With Updates",
+      "description": "If you’ve setup a service worker for your app using the @angular/service-worker package, you may be wondering about how to deal with stale versions of your app for end users. This can easily become a problem because new versions of a service worker will only be activated on page reload.",
+      "author": {
+        "name": "Alligator.io",
+        "profile": "https://twitter.com/alligatorio"
+      },
+      "url": "https://alligator.io/angular/service-worker-updates/",
+      "category": "article",
+      "contributor": {
+        "name": "Rafael Baron",
+        "profile": "https://twitter.com/RafaelBaron"
+      }
+    },
+    {
       "title": "Angular subresource integrity",
       "description": "Secure assets in your Angular applications against resource manipulation.",
       "author": {
