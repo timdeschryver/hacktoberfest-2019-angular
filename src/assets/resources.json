@@ -1713,6 +1713,20 @@
         "name": "Shubham Arora",
         "profile": "https://twitter.com/shubham__arora"
       }
+    },
+    {
+      "title": "Angular material design for angular project",
+      "description": "In this post you will go through how you can use angular material design for angular app.",
+      "author": {
+        "name": "Sebastian Eschweiler",
+        "profile": "https://medium.com/@s_eschweiler"
+      },
+      "url": "https://medium.com/codingthesmartway-com-blog/angular-material-and-angular-6-material-design-for-angular-6b1a3ee476f0",
+      "category": "article",
+      "contributor": {
+        "name": "Shubham Arora",
+        "profile": "https://twitter.com/shubham__arora"
+      }
     }
 
   ]
