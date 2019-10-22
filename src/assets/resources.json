@@ -1685,6 +1685,35 @@
         "name": "Dirk",
         "profile": "https://github.com/ddiebel"
       }
+    },
+    {
+        "title": "Deploy Angular 7 app to firebase",
+        "description": "How to deploy/publish an angular app to firebase.",
+        "author": {
+          "name": "Satyaprakash Samantaray",
+          "profile": "https://social.technet.microsoft.com/profile/satyaprakash%20samantaray"
+        },
+        "url": "https://social.technet.microsoft.com/wiki/contents/articles/52337.angular-7-deploying-app-to-firebase-hosting.aspx",
+        "category": "article",
+        "contributor": {
+          "name": "Shubham Arora",
+          "profile": "https://twitter.com/shubham__arora"
+        }
+    },
+    {
+      "title": "Use Animation in Angular Project",
+      "description": "How to you can use animation in angular project.",
+      "author": {
+        "name": "Jiayi Hu",
+        "profile": "https://github.com/jiayihu"
+      },
+      "url": "https://github.com/jiayihu/ng-animate",
+      "category": "library",
+      "contributor": {
+        "name": "Shubham Arora",
+        "profile": "https://twitter.com/shubham__arora"
+      }
     }
+
   ]
 }
