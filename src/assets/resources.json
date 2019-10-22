@@ -1752,6 +1752,20 @@
         "name": "blazinggun",
         "profile": "https://github.com/blasttrash"
       }
+    },
+    {
+      "title": "Angular Resources -medium",
+      "description": "Why you should choose Angular for your next front-end project",
+      "author": {
+        "name": "Sam Redmond",
+        "profile": "https://blog.usejournal.com/@sredmond"
+      },
+      "url": "https://blog.usejournal.com/why-you-should-choose-angular-for-your-next-front-end-project-d4dffbae8b07",
+      "category": "article",
+      "contributor": {
+        "name": "Alok Kumar Singh",
+        "profile": "https://github.com/aloksingh3112"
+      }
     }
   ]
 }
