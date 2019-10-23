@@ -1780,6 +1780,20 @@
         "name": "Alok Kumar Singh",
         "profile": "https://github.com/aloksingh3112"
       }
+    },
+    {
+      "title": "3 ways to communicate between Angular components",
+      "description": "This is the topic I’ve seen many new Angular developers to struggle with. I will show you the three most common approaches, with examples that fit different use cases.",
+      "author": {
+        "name": "Miro Koczka",
+        "profile": "https://medium.com/@mirokoczka"
+      },
+      "url": "https://medium.com/@mirokoczka/3-ways-to-communicate-between-angular-components-a1e3f3304ecb",
+      "category": "article",
+      "contributor": {
+        "name": "Jéssica Lopes",
+        "profile": "https://github.com/eudivaloper"
+      }
     }
   ]
 }
