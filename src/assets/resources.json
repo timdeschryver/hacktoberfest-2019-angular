@@ -1753,6 +1753,20 @@
         "profile": "https://github.com/blasttrash"
       }
     },
+     {
+      "title": "Angular Interview Questions and Answers",
+      "description": "Angular 4 is a Javascript framework built around the concept of components, and more precisely, with the Web Components standard in mind. It was rewritten from scratch by the Angular team using Typescript",
+      "author": {
+        "name": "Vigo Webs",
+        "profile": "https://medium.com/@vigowebs"
+      },
+      "url": "https://medium.com/@vigowebs/frequently-asked-angular-interview-questions-and-answers-d996be87cc7c",
+      "category": "Front End Development",
+      "contributor": {
+        "name": "Anuj kumar shukla",
+        "profile": "https://github.com/anujshuklaas"
+      }
+    },
     {
       "title": "Angular Resources -medium",
       "description": "Why you should choose Angular for your next front-end project",
