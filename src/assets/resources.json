@@ -1794,6 +1794,20 @@
         "name": "Jéssica Lopes",
         "profile": "https://github.com/eudivaloper"
       }
+    },
+    {
+      "title": "Approach to Clean Architecture in Angular Applications — Theory",
+      "description": "Clean Architecture is a pattern for structuring an application architecture in general. It was originally introduced by Robert Martin, also known as Uncle Bob, who also published a lot of articles and books about writing clean and reusable code.",
+      "author": {
+        "name": "I'm A Giraffe",
+        "profile": "https://medium.com/@thegiraffeclub"
+      },
+      "url": "https://medium.com/@thegiraffeclub/angular-clean-architecture-approach-fcfe32e983a5",
+      "category": "article",
+      "contributor": {
+        "name": "Jéssica Lopes",
+        "profile": "https://github.com/eudivaloper"
+      }
     }
   ]
 }
