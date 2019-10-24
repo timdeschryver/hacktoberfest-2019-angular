@@ -1808,6 +1808,20 @@
         "name": "Jéssica Lopes",
         "profile": "https://github.com/eudivaloper"
       }
+    },
+    {
+      "title": "awesome-hacktoberfest-2019",
+      "description": "This is very nice. I was helped by this page when I tried Hacktoberfest",
+      "author": {
+        "name": "Otacilio Saraiva Maia Neto",
+        "profile": "OtacilioN"
+      },
+      "url": "https://github.com/OtacilioN/awesome-hacktoberfest-2019/commits?author=OtacilioN",
+      "category": "Helper",
+      "contributor": {
+        "name": "issea1484",
+        "profile": "https://github.com/issea1484"
+      }
     }
   ]
 }
