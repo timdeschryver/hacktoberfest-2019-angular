@@ -99,6 +99,20 @@
         "profile": "https://twitter.com/Santosh19742211"
       }
     },
+      {
+      "title": "The Best Angular Tutorials: Learn Angular JS, 4, & 5 with These Resources",
+      "description": "We rounded up some of our favorites from around the web below but for those of you familiar with our blog here at Intertech, you know we’ve also put together quite a few Angular tutorials over the last few years. Here are some of our more popular posts",
+      "author": {
+        "name": "Tom Helvick",
+        "profile": "https://www.linkedin.com/in/tomhelvick"
+      },
+      "url": "https://www.intertech.com/Blog/the-best-angular-tutorials-learn-angular-js-4-5-with-these-resources/",
+      "category": "article",
+      "contributor": {
+        "name": "Ashutosh Maheshwari",
+        "profile": "https://github.com/ashutosh210798"
+      }
+    },
     {
       "title": "Learn to combine RxJs sequences with super intuitive interactive diagrams",
       "description": "Sequence composition is a technique that enables you to create complex queries across multiple data sources by combing relevant streams into one. RxJs provides a variety of operators that can help you do that and in this article you will be able to look at the most commonly used.",
