@@ -2,6 +2,20 @@
   "$schema": "./resources-schema.json",
   "resources": [
     {
+      "title": "Nx: Extensible Dev Tools for Monorepos",
+      "description": "Nx is a set of extensible dev tools for monorepos",
+      "author": {
+        "name": "Victor Savkin",
+        "profile": "https://blog.nrwl.io/@vsavkin"
+      },
+      "url": "https://blog.nrwl.io/nx-angular-cli-power-ups-for-modern-development-37b42e4c8b16",
+      "category": "article",
+      "contributor": {
+        "name": "Charles Poquet",
+        "profile": ""
+      }
+    },
+    {
       "title": "Angular Service Worker: Dealing With Updates",
       "description": "If you’ve setup a service worker for your app using the @angular/service-worker package, you may be wondering about how to deal with stale versions of your app for end users. This can easily become a problem because new versions of a service worker will only be activated on page reload.",
       "author": {
