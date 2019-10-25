@@ -1865,6 +1865,21 @@
         "name": "Shameer Ahmad",
         "profile": "https://github.com/shamir456"
       }
+    },
+    {
+      "title": "Angular Documentation",
+      "description": "Angular documentation to build applications that live on the web, mobile, or the desktop.",
+      "author": {
+        "name": "devdocs.io",
+        "profile": "https://devdocs.io"
+
+      },
+      "url": "https://devdocs.io/angular/",
+      "category": "Documentation",
+      "contributor": {
+        "name": "Ashwin P",
+        "profile": "https://github.com/ashwin74"
+      }
     }
   ]
 }
