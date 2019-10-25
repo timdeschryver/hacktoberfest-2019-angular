@@ -1850,6 +1850,21 @@
         "name": "issea1484",
         "profile": "https://github.com/issea1484"
       }
+    },
+    {
+      "title": "Write an Angular and AngularJS E2E test using Protractor",
+      "description": "Write e2e tests using protractor for angular and angularjs",
+      "author": {
+        "name": "Shameer Ahmad",
+        "profile": "https://medium.com/@shameerahmed"
+
+      },
+      "url": "https://medium.com/@shameerahmed/write-an-angular-and-angularjs-e2e-test-using-protractor-a9789834a65e",
+      "category": "article",
+      "contributor": {
+        "name": "Shameer Ahmad",
+        "profile": "https://github.com/shamir456"
+      }
     }
   ]
 }
