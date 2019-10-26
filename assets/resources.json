@@ -1726,6 +1726,28 @@
       }
     },
     {
+        "title": "Deploy Angular 7 app to firebase",
+        "description": "How to deploy/publish an angular app to firebase.",
+        "author": {
+          "name": "Satyaprakash Samantaray",
+          "profile": "https://social.technet.microsoft.com/profile/satyaprakash%20samantaray"
+        },
+        "url": "https://social.technet.microsoft.com/wiki/contents/articles/52337.angular-7-deploying-app-to-firebase-hosting.aspx",
+        "category": "article",
+        "contributor": {
+          "name": "Shubham Arora",
+          "profile": "https://twitter.com/shubham__arora"
+        }
+    },
+    {
+      "title": "Use Animation in Angular Project",
+      "description": "How to you can use animation in angular project.",
+      "author": {
+        "name": "Jiayi Hu",
+        "profile": "https://github.com/jiayihu"
+      },
+      "url": "https://github.com/jiayihu/ng-animate",
+      "category": "library",
       "title": "Deploy Angular 7 app to firebase",
       "description": "How to deploy/publish an angular app to firebase",
       "author": {
@@ -1733,6 +1755,20 @@
         "profile": "https://social.technet.microsoft.com/profile/satyaprakash%20samantaray/"
       },
       "url": "https://social.technet.microsoft.com/wiki/contents/articles/52337.angular-7-deploying-app-to-firebase-hosting.aspx",
+      "category": "article",
+      "contributor": {
+        "name": "Shubham Arora",
+        "profile": "https://twitter.com/shubham__arora"
+      }
+    },
+    {
+      "title": "Angular material design for angular project",
+      "description": "In this post you will go through how you can use angular material design for angular app.",
+      "author": {
+        "name": "Sebastian Eschweiler",
+        "profile": "https://medium.com/@s_eschweiler"
+      },
+      "url": "https://medium.com/codingthesmartway-com-blog/angular-material-and-angular-6-material-design-for-angular-6b1a3ee476f0",
       "category": "article",
       "contributor": {
         "name": "Shubham Arora",
