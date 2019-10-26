@@ -5,6 +5,8 @@ import { map, pluck, filter, withLatestFrom, take, skip, debounceTime } from 'rx
 
 import { resources } from '../assets/resources.json';
 
+const randomized = resources.slice().sort(() => Math.random() - 0.5)
+
 @Injectable({
  providedIn: 'root'
 })
@@ -17,11 +19,11 @@ export class ResourcesService {
   resources$ = this.routeQuery.pipe(
     map(query => {
       if (!query) {
-        return resources.concat(this.placeholder as any);
+        return randomized.concat(this.placeholder as any);
       }
 
       const queryLower = query.toLowerCase();
-      return resources.filter(resource =>
+      return randomized.filter(resource =>
         resource.title.toLowerCase().includes(queryLower) ||
         resource.description.toLowerCase().includes(queryLower) ||
         resource.author.name.toLowerCase().includes(queryLower) ||
