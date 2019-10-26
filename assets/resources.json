@@ -1880,6 +1880,21 @@
         "name": "Ashwin P",
         "profile": "https://github.com/ashwin74"
       }
+    },
+    {
+      "title": "Angular 8 - Bazel Walkthrough",
+      "description": "Bazel is Google’s open-source part of its internal build tool called Blaze. Learn how and why you should use it.",
+      "author": {
+        "name": "Vamsi Vempati",
+        "profile": "https://blog.bitsrc.io/@vamsivempati"
+
+      },
+      "url": "https://blog.bitsrc.io/angular-8-bazel-walkthrough-f7585bcaf282",
+      "category": "article",
+      "contributor": {
+        "name": "Vamsi Vempati",
+        "profile": "https://github.com/VamsiVempati"
+      }
     }
   ]
 }
