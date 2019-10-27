@@ -1962,6 +1962,21 @@
 		  "name": "Feysal",
 		  "profile": "https://github.com/feysalikbal"
       }
+    },
+    {
+      "title": "Building with Ivy: rethinking reactive Angular | Mike Ryan | #AngularConnect 2019",
+      "description": "Ivy is making fundamental changes to the way Angular renders our applications and in doing so unlocks new patterns and techniques for writing components. Explore how these new techniques allow developers to layer in reactive programming at the view level with higher order components, observable life cycle methods, and Zone-less change detection. In addition to these new changes you will also get a sneak peak into how Ivy may transform state management libraries like NgRx.",
+      "author": {
+        "name": "Mike Ryan",
+        "profile": ""
+
+      },
+      "url": "https://www.youtube.com/watch?v=rz-rcaGXhGk",
+      "category": "talk",
+      "contributor": {
+        "name": "Thomas",
+        "profile": "https://github.com/infectiouswind"
+      }
     }
   ]
 }
