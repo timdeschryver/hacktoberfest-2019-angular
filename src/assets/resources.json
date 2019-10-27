@@ -1947,6 +1947,21 @@
 		  "name": "Sanchit (sanchittechnogeek)",
 		  "profile": "https://github.com/sanchittechnogeek"
       }
+    },
+    {
+      "title": "Blox material: A lightweight Material Design library for Angular",
+	    "description": "Fast and small, themeable, responsive and accessible, and framework agnostic. Open-source and based on Google's Material Components for the Web.",
+	    "author": {
+		    "name": "Blox material",
+		    "profile": "https://blox.src.zone/material/"
+
+	  },
+	  "url": "https://blox.src.zone/material/",
+	  "category": "article",
+	  "contributor": {
+		  "name": "Feysal",
+		  "profile": "https://github.com/feysalikbal"
+      }
     }
   ]
 }
