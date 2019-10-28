@@ -1977,6 +1977,34 @@
         "name": "Thomas",
         "profile": "https://github.com/infectiouswind"
       }
+    },
+    {
+      "title": "Angular en español",
+      "description": "Articulos de Angular en español, Everyone is welcome ✏️📚",
+      "author": {
+        "name": "Ng-Es",
+        "profile": "https://github.com/ng-es"
+      },
+      "url": "https://medium.com/ngesyfirebase",
+      "category": "article",
+      "contributor": {
+        "name": "AntonioCardenas",
+        "profile": "https://github.com/AntonioCardenas"
+      }
+    },
+    {
+      "title": "Angular + Etereum = ÐAPPS ⛓️❤️",
+      "description": "Started set for Angular and Ethereum , using the power of blockchain",
+      "author": {
+        "name": "Ng-Es",
+        "profile": "https://github.com/ng-es"
+      },
+      "url": "https://www.trufflesuite.com/boxes/angulartruffledapp",
+      "category": "article",
+      "contributor": {
+        "name": "AntonioCardenas",
+        "profile": "https://github.com/AntonioCardenas"
+      }
     }
   ]
 }
