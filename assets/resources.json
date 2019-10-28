@@ -2005,6 +2005,34 @@
         "name": "AntonioCardenas",
         "profile": "https://github.com/AntonioCardenas"
       }
+    },
+    {
+      "title": "The Three Pillars of Angular Routing. Angular Router Series Introduction.",
+      "description": "This series provides a deeper dive into the implementation details of the three pillars of Routing, starting with router states and path matching.",
+      "author": {
+        "name": "Nate Lapinski",
+        "profile": "https://blog.angularindepth.com/@natelapinski"
+      },
+      "url": "https://blog.angularindepth.com/the-three-pillars-of-angular-routing-angular-router-series-introduction-fb34e4e8758e",
+      "category": "Article series",
+      "contributor": {
+        "name": "Nishu Goel",
+        "profile": "https://twitter.com/Dcoustawilson"
+      }
+    },
+    {
+        "title": "Step-by-Step Angular Routing",
+        "description": "This book covers the in-depth concepts of Angular Routing.",
+        "author": {
+            "name": "Nishu Goel",
+            "profile": "https://twitter.com/Dcoustawilson"
+        },
+        "url": "https://www.amazon.in/Step-Angular-Routing-Nishu-Goel/dp/9388511662",
+        "category": "Book",
+        "contributor": {
+            "name": "Nishu Goel",
+            "profile": "https://twitter.com/Dcoustawilson"
+        }
     }
   ]
 }
