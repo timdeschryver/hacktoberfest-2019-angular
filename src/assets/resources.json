@@ -1,4 +1,4 @@
-  
+
 {
   "$schema": "./resources-schema.json",
   "resources": [
@@ -2032,6 +2032,20 @@
         "contributor": {
             "name": "Nishu Goel",
             "profile": "https://twitter.com/Dcoustawilson"
+        }
+    },
+    {
+        "title": "Deep Dive into the Angular Compiler",
+        "description": "For most of us, the Angular compiler is just a part of the build - it's that thing that happens before the \"real\" work of compilation: 92% chunk asset optimization. But how does it actually work? What does the Angular compiler _do_ when it's taking our Angular code and generating Javascript?",
+        "author": {
+            "name": "Alex Rickabaugh",
+            "profile": "https://twitter.com/synalx"
+        },
+        "url": "https://www.youtube.com/watch?v=anphffaCZrQ",
+        "category": "talk",
+        "contributor": {
+            "name": "Edouard Bozon",
+            "profile": "https://twitter.com/Edouardbozon"
         }
     }
   ]
