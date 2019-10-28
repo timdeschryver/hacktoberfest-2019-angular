@@ -1,4 +1,3 @@
-
 {
   "$schema": "./resources-schema.json",
   "resources": [
@@ -52,7 +51,7 @@
         "profile": "https://indepth.dev/author/evgeny/"
       },
       "url": "https://indepth.dev/how-far-are-you-willing-to-go-to-improve-angular-performance/",
-      "category": "Article",
+      "category": "article",
       "contributor": {
         "name": "Dince12",
         "profile": "https://github.com/dince12"
@@ -1356,7 +1355,7 @@
         "profile": "https://medium.com/@luca.micieli93"
       },
       "url": "https://medium.com/swlh/angular-validation-errors-made-easy-3bc1a837c6e7",
-      "category": "Web Development",
+      "category": "article",
       "contributor": {
         "name": "Ankit kumar",
         "profile": "https://github.com/poruss"
@@ -1727,20 +1726,6 @@
       }
     },
     {
-        "title": "Deploy Angular 7 app to firebase",
-        "description": "How to deploy/publish an angular app to firebase.",
-        "author": {
-          "name": "Satyaprakash Samantaray",
-          "profile": "https://social.technet.microsoft.com/profile/satyaprakash%20samantaray"
-        },
-        "url": "https://social.technet.microsoft.com/wiki/contents/articles/52337.angular-7-deploying-app-to-firebase-hosting.aspx",
-        "category": "article",
-        "contributor": {
-          "name": "Shubham Arora",
-          "profile": "https://twitter.com/shubham__arora"
-        }
-    },
-    {
       "title": "Use Animation in Angular Project",
       "description": "How to you can use animation in angular project.",
       "author": {
@@ -1749,6 +1734,12 @@
       },
       "url": "https://github.com/jiayihu/ng-animate",
       "category": "library",
+      "contributor": {
+        "name": "Shubham Arora",
+        "profile": "https://twitter.com/shubham__arora"
+      }
+    },
+    {
       "title": "Deploy Angular 7 app to firebase",
       "description": "How to deploy/publish an angular app to firebase",
       "author": {
@@ -1784,7 +1775,7 @@
         "profile": "https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow"
       },
       "url": "https://www.youtube.com/watch?v=_TLhUCjY9iA",
-      "category": "video",
+      "category": "course",
       "contributor": {
         "name": "Simon Lariz",
         "profile": "https://github.com/SimonLariz"
@@ -1826,7 +1817,7 @@
         "profile": "https://medium.com/@vigowebs"
       },
       "url": "https://medium.com/@vigowebs/frequently-asked-angular-interview-questions-and-answers-d996be87cc7c",
-      "category": "Front End Development",
+      "category": "article",
       "contributor": {
         "name": "Anuj kumar shukla",
         "profile": "https://github.com/anujshuklaas"
@@ -1881,8 +1872,8 @@
         "name": "Otacilio Saraiva Maia Neto",
         "profile": "OtacilioN"
       },
-      "url": "https://github.com/OtacilioN/awesome-hacktoberfest-2019/commits?author=OtacilioN",
-      "category": "Helper",
+      "url": "https://github.com/OtacilioN/awesome-hacktoberfest-2019",
+      "category": "library",
       "contributor": {
         "name": "issea1484",
         "profile": "https://github.com/issea1484"
@@ -1912,7 +1903,7 @@
 
       },
       "url": "https://devdocs.io/angular/",
-      "category": "Documentation",
+      "category": "library",
       "contributor": {
         "name": "Ashwin P",
         "profile": "https://github.com/ashwin74"
@@ -2014,7 +2005,7 @@
         "profile": "https://blog.angularindepth.com/@natelapinski"
       },
       "url": "https://blog.angularindepth.com/the-three-pillars-of-angular-routing-angular-router-series-introduction-fb34e4e8758e",
-      "category": "Article series",
+      "category": "article",
       "contributor": {
         "name": "Nishu Goel",
         "profile": "https://twitter.com/Dcoustawilson"
@@ -2028,7 +2019,7 @@
             "profile": "https://twitter.com/Dcoustawilson"
         },
         "url": "https://www.amazon.in/Step-Angular-Routing-Nishu-Goel/dp/9388511662",
-        "category": "Book",
+        "category": "book",
         "contributor": {
             "name": "Nishu Goel",
             "profile": "https://twitter.com/Dcoustawilson"
