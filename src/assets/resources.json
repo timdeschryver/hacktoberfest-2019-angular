@@ -2038,6 +2038,21 @@
             "name": "Edouard Bozon",
             "profile": "https://twitter.com/Edouardbozon"
         }
+    },
+    
+{
+      "title": "Angular: Getting Started, Aug. 2019",
+      "description": "Excellent starter course for intro to Angular, well taught",
+      "author": {
+        "name": "Deborah Kurata"
+      },
+      "url": "https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents",
+      "category": "course",
+      "contributor": {
+        "name": "Alfredo Valle",
+        "profile": "https://github.com/alvalle09"
+      }
     }
+    
   ]
 }
