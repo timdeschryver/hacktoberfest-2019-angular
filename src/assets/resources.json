@@ -2079,6 +2079,20 @@
           "name": "João Castro",
           "profile": "https://twitter.com/joaocstrob"
       }
-  }
+    },
+    {
+      "title": "Configuring an Angular CLI project with GraphQL",
+      "description": "This article covers in detail the steps to configure GraphQL in a Angular CLI project",
+      "author": {
+        "name": "Chaz Gatian",
+        "profile": "https://twitter.com/Cgatian"
+      },
+      "url": "https://blog.angularindepth.com/configuring-a-angular-cli-project-with-graphql-37217f66d419",
+      "category": "article",
+      "contributor": {
+        "name": "Arunprabu Ganesan",
+        "profile": "https://twitter.com/__arunprabu"
+      }
+    }
   ]
 }
