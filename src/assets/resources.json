@@ -2066,7 +2066,21 @@
             "profile": "https://twitter.com/perjerz34"
         }
     },
-     {
+    {
+      "title": "Angular 6+ deploy to Apache server by solving 404 Not found error on page refresh",
+      "description": "This page details the solution on using angular without HashLocationStrategy when serving on Apache server using .htaccess",
+      "author": {
+          "name": "Joel Joseph",
+          "profile": "http://joeljoseph.net/author/joel/"
+      },
+      "url": "http://joeljoseph.net/angular-6-deploy-on-apache-server-by-solving-404-not-found-error-on-page-refresh/",
+      "category": "article",
+      "contributor": {
+          "name": "João Castro",
+          "profile": "https://twitter.com/joaocstrob"
+      }
+    },
+    {
       "title": "Configuring an Angular CLI project with GraphQL",
       "description": "This article covers in detail the steps to configure GraphQL in a Angular CLI project",
       "author": {
