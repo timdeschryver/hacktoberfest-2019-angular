@@ -2038,6 +2038,20 @@
             "name": "Edouard Bozon",
             "profile": "https://twitter.com/Edouardbozon"
         }
+    },
+    {
+        "title": "DESIGN DOC(Ivy): Compiler Architecture",
+        "description": "This document details the new architecture of the Angular compiler in a post-Ivy world, as well as the compatibility functionality needed for the ecosystem to gradually migrate to Ivy without breaking changes. This compatibility ensures Ivy and non-Ivy libraries can coexist during the migration period.",
+        "author": {
+            "name": "kara, benlesh, alxhub, mhevery, crisbeto, bsdfzzy",
+            "profile": ""
+        },
+        "url": "https://github.com/angular/angular/blob/master/packages/compiler/design/architecture.md",
+        "category": "talk",
+        "contributor": {
+            "name": "Siwat Kaolueng",
+            "profile": "https://twitter.com/perjerz34"
+        }
     }
   ]
 }
