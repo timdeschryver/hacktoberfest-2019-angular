@@ -2040,6 +2040,19 @@
         }
     },
     {
+      "title": "Angular: Getting Started, Aug. 2019",
+      "description": "Excellent starter course for intro to Angular, well taught",
+      "author": {
+        "name": "Deborah Kurata"
+      },
+      "url": "https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents",
+      "category": "course",
+      "contributor": {
+        "name": "Alfredo Valle",
+        "profile": "https://github.com/alvalle09"
+      }
+    },
+    {
         "title": "DESIGN DOC(Ivy): Compiler Architecture",
         "description": "This document details the new architecture of the Angular compiler in a post-Ivy world, as well as the compatibility functionality needed for the ecosystem to gradually migrate to Ivy without breaking changes. This compatibility ensures Ivy and non-Ivy libraries can coexist during the migration period.",
         "author": {
