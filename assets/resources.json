@@ -2093,6 +2093,20 @@
         "name": "Arunprabu Ganesan",
         "profile": "https://twitter.com/__arunprabu"
       }
+    },
+    {
+      "title": "Modern Angular",
+      "description": "This article mentions all the latest enhancements and improvements in Angular development environment, it includes the modern tooling which can be used for setting up Angular in 2020",
+      "author": {
+        "name": "Victor Savkin",
+        "profile": "https://blog.nrwl.io/@vsavkin"
+      },
+      "url": "https://blog.nrwl.io/modern-angular-39b3f360f3d9",
+      "category": "article, recording",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
     }
   ]
 }
