@@ -2107,6 +2107,20 @@
         "name": "Jibin Philipose",
         "profile": "https://twitter.com/JIBIN_TP"
       }
+    },
+    {
+      "title": "Build your first Angular app",
+      "description": "This tutorial teaches you Angular through 33 screencasts and ensure that you get the foundation to start buidling apps with Angular.",
+      "author": {
+        "name": "Dan Wahlin",
+        "profile": "https://twitter.com/danwahlin"
+      },
+      "url": "https://scrimba.com/learn/yourfirstangularapp",
+      "category": "course",
+      "contributor": {
+        "name": "Sarthak Mittal",
+        "profile": "https://github.com/Sarthak-Mittal"
+      }
     }
   ]
 }
