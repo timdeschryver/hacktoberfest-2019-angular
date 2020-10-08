@@ -154,6 +154,19 @@
         "profile": "https://twitter.com/svates"
       }
     },
+     {
+      "title": "Tooling tip",
+      "description": "you can set styles of the messages you're logging in DevTools",
+      "author": {
+        "name": "http://Rhyme.com "
+      },
+      "url": "https://twitter.com/mgechev/status/1314090763198791680?s=20",
+      "category": "article",
+      "contributor": {
+        "name": "Minko Gechev",
+        "profile": "https://twitter.com/mgechev"
+      }
+    },
     {
       "title": "The Complete Guide to Angular Performance Tuning",
       "description": "Best practices to achieve better performance in your Angular app.",
