@@ -1884,6 +1884,1907 @@
             "author": {
                 "name": "Shameer Ahmad",
                 "profile": "https://medium.com/@shameerahmed"
+===
+  "$schema": "./resources-schema.json",
+  "resources": [
+    {
+      "title": "Nx: Extensible Dev Tools for Monorepos",
+      "description": "Nx is a set of extensible dev tools for monorepos",
+      "author": {
+        "name": "Victor Savkin",
+        "profile": "https://blog.nrwl.io/@vsavkin"
+      },
+      "url": "https://blog.nrwl.io/nx-angular-cli-power-ups-for-modern-development-37b42e4c8b16",
+      "category": "article",
+      "contributor": {
+        "name": "Charles Poquet",
+        "profile": ""
+      }
+    },
+    {
+      "title": "Angular Service Worker: Dealing With Updates",
+      "description": "If you’ve setup a service worker for your app using the @angular/service-worker package, you may be wondering about how to deal with stale versions of your app for end users. This can easily become a problem because new versions of a service worker will only be activated on page reload.",
+      "author": {
+        "name": "Alligator.io",
+        "profile": "https://twitter.com/alligatorio"
+      },
+      "url": "https://alligator.io/angular/service-worker-updates/",
+      "category": "article",
+      "contributor": {
+        "name": "Rafael Baron",
+        "profile": "https://twitter.com/RafaelBaron"
+      }
+    },
+    {
+      "title": "Angular subresource integrity",
+      "description": "Secure assets in your Angular applications against resource manipulation.",
+      "author": {
+        "name": "Fabrizio Fortunato",
+        "profile": "https://twitter.com/izifortune"
+      },
+      "url": "https://izifortune.com/angular-subresource-integrity/",
+      "category": "article",
+      "contributor": {
+        "name": "Pascal Iske",
+        "profile": "https://twitter.com/pascaliske"
+      }
+    },
+    {
+      "title": "How in-depth knowledge of change detection in Angular helped me improve application's performance",
+      "description": "When developing web applications using Angular framework we rarely think about performance implications.",
+      "author": {
+        "name": "Evgeny Fedorenko",
+        "profile": "https://indepth.dev/author/evgeny/"
+      },
+      "url": "https://indepth.dev/how-far-are-you-willing-to-go-to-improve-angular-performance/",
+      "category": "article",
+      "contributor": {
+        "name": "Dince12",
+        "profile": "https://github.com/dince12"
+      }
+    },
+    {
+      "title": "A Guide to Angular 8's Differential Loading",
+      "description": "Angular 8 now sends separate bundles to legacy browsers by default.",
+      "author": {
+        "name": "Sam Julien",
+        "profile": "https://twitter.com/samjulien"
+      },
+      "url": "https://auth0.com/blog/angular-8-differential-loading/",
+      "category": "article",
+      "contributor": {
+        "name": "Nathan Pickard",
+        "profile": "https://twitter.com/NathanPickard"
+      }
+    },
+    {
+      "title": "Push-based Architectures with RxJS",
+      "description": "Most developers learn to program, code, and build software architectures using traditional Pull-based approaches. In the world of web applications and asynchronous, rich user experiences this approach is flawed, rampant with myriad problems, and is fundamentally wrong.",
+      "author": {
+        "name": "Thomas Burleson",
+        "profile": "https://twitter.com/thomasburleson"
+      },
+      "url": "https://medium.com/@thomasburlesonIA/push-based-architectures-with-rxjs-81b327d7c32d",
+      "category": "article",
+      "contributor": {
+        "name": "Tim Deschryver",
+        "profile": "https://twitter.com/@tim_deschryver"
+      }
+    },
+    {
+      "title": "These 5 articles will make you an Angular Change Detection expert",
+      "description": "Change detection is really important in Angular and If you want to know everything about it, go through these 5 articles from Max.",
+      "author": {
+        "name": "Max Koretskyi aka Wizard",
+        "profile": "https://twitter.com/maxkorerskyi"
+      },
+      "url": "https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930",
+      "category": "article",
+      "contributor": {
+        "name": "Santosh Yadav",
+        "profile": "https://twitter.com/Santosh19742211"
+      }
+    },
+      {
+      "title": "The Best Angular Tutorials: Learn Angular JS, 4, & 5 with These Resources",
+      "description": "We rounded up some of our favorites from around the web below but for those of you familiar with our blog here at Intertech, you know we’ve also put together quite a few Angular tutorials over the last few years. Here are some of our more popular posts",
+      "author": {
+        "name": "Tom Helvick",
+        "profile": "https://www.linkedin.com/in/tomhelvick"
+      },
+      "url": "https://www.intertech.com/Blog/the-best-angular-tutorials-learn-angular-js-4-5-with-these-resources/",
+      "category": "article",
+      "contributor": {
+        "name": "Ashutosh Maheshwari",
+        "profile": "https://github.com/ashutosh210798"
+      }
+    },
+    {
+      "title": "Learn to combine RxJs sequences with super intuitive interactive diagrams",
+      "description": "Sequence composition is a technique that enables you to create complex queries across multiple data sources by combing relevant streams into one. RxJs provides a variety of operators that can help you do that and in this article you will be able to look at the most commonly used.",
+      "author": {
+        "name": "Max Koretskyi aka Wizard",
+        "profile": "https://blog.angularindepth.com/@maxim.koretskyi"
+      },
+      "url": "https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511",
+      "category": "article",
+      "contributor": {
+        "name": "Charles Robertson",
+        "profile": "http://www.mushroom-man.com"
+      }
+    },
+    {
+      "title": "Create reactive forms like a Pro",
+      "description": "Learn how to create custom and maintanable form controls for production.",
+      "author": {
+        "name": "Tim Deschryver",
+        "profile": "https://blog.angularindepth.com/@timdeschryver"
+      },
+      "url": "https://blog.angularindepth.com/working-with-angular-forms-in-an-enterprise-environment-8279df4ae6fd",
+      "category": "article",
+      "contributor": {
+        "name": "Francesco Leardini",
+        "profile": "https://dev.to/paco_ita"
+      }
+    },
+    {
+      "title": "What GroupsBy in Vegas",
+      "description": "Learn about the groupby RxJS operator and how it can help creating complex and reactive user interfaces",
+      "author": {
+        "name": "Mike Ryan & Sam Julien"
+      },
+      "url": "https://www.youtube.com/watch?v=hsr4ArAsOL4",
+      "category": "talk",
+      "contributor": {
+        "name": "Sebastian Vates",
+        "profile": "https://twitter.com/svates"
+      }
+    },
+     {
+      "title": "Tooling tip",
+      "description": "you can set styles of the messages you're logging in DevTools",
+      "author": {
+        "name": "http://Rhyme.com "
+      },
+      "url": "https://twitter.com/mgechev/status/1314090763198791680?s=20",
+      "category": "article",
+      "contributor": {
+        "name": "Minko Gechev",
+        "profile": "https://twitter.com/mgechev"
+      }
+    },
+    {
+      "title": "The Complete Guide to Angular Performance Tuning",
+      "description": "Best practices to achieve better performance in your Angular app.",
+      "author": {
+        "name": "Christian Lüdemann",
+        "profile": "https://twitter.com/chrislydemann"
+      },
+      "url": "https://christianlydemann.com/the-complete-guide-to-angular-performance-tuning/",
+      "category": "article",
+      "contributor": {
+        "name": "Wisner Júnior",
+        "profile": "https://twitter.com/wisner_jr"
+      }
+    },
+    {
+      "title": "Game Development: Tetris in Angular",
+      "description": "Learn how to create the classic game Tetris using Angular.",
+      "author": {
+        "name": "Michael Karén",
+        "profile": "https://twitter.com/melcor76"
+      },
+      "url": "https://blog.angularindepth.com/game-development-tetris-in-angular-64ef96ce56f7",
+      "category": "article",
+      "contributor": {
+        "name": "Joshua Colvin",
+        "profile": "https://twitter.com/joshuacolvin"
+      }
+    },
+    {
+      "title": "Progressive web apps with Angular book",
+      "description": "1st comprehensive (380+ pages) Angular PWA Book : Create Responsive, Fast and Reliable Angular PWAs",
+      "author": {
+        "name": "Majid Hajian",
+        "profile": "https://twitter.com/mhadaily"
+      },
+      "url": "https://www.pwawithangular.com/",
+      "category": "article",
+      "contributor": {
+        "name": "Gérôme Grignon",
+        "profile": "https://twitter.com/GeromeGrignon"
+      }
+    },
+    {
+      "title": "Transloco: Angular Internationalization Done Right",
+      "description": "internationalization (i18n) library for Angular",
+      "author": {
+        "name": "Netanel Basal",
+        "profile": "https://twitter.com/NetanelBasal"
+      },
+      "url": "https://github.com/ngneat/transloco",
+      "category": "library",
+      "contributor": {
+        "name": "Gérôme Grignon",
+        "profile": "https://twitter.com/GeromeGrignon"
+      }
+    },
+    {
+      "title": "Going full-stack Angular with NestJs",
+      "description": "A demo showing how to add NestJS to an existing Angular application and take advantage of their tooling to show off Server Side Rendering with a fully integrated frontend and backend. (Harnessing the power of Typescript)",
+      "author": {
+        "name": "Stephen Fluin",
+        "profile": "https://twitter.com/stephenfluin"
+      },
+      "url": "https://m.youtube.com/watch?v=y24fC9Pqr8I&t=6s",
+      "category": "recording",
+      "contributor": {
+        "name": "Theophilus Johnson",
+        "profile": "https://twitter.com/johnniexson"
+      }
+    },
+    {
+      "title": "Don't follow RxJS Best Practices",
+      "description": "Funny article about some useful rxjs best practices",
+      "author": {
+        "name": "Nik Poltoratsky",
+        "profile": "https://twitter.com/NikPoltoratsky"
+      },
+      "url": "https://dev.to/nikpoltoratsky/don-t-follow-rxjs-best-practices-4893",
+      "category": "article",
+      "contributor": {
+        "name": "Mauro Garcia",
+        "profile": "https://twitter.com/maurogarcia_19"
+      }
+    },
+    {
+      "title": "Angular Folder Structure",
+      "description": "How to build a good folder structure on Angular",
+      "author": {
+        "name": "Tom Cowley",
+        "profile": "https://medium.com/@motcowley"
+      },
+      "url": "https://medium.com/@motcowley/angular-folder-structure-d1809be95542",
+      "category": "article",
+      "contributor": {
+        "name": "Mariana Zangrossi",
+        "profile": "https://github.com/marianazangrossi"
+      }
+    },
+    {
+      "title": "Optimize Angular bundle size in 4 steps",
+      "description": "Improving your app’s performance by optimizing the bundle size using different techniques.",
+      "author": {
+        "name": "Siyang Kern Zhao",
+        "profile": "https://blog.angularindepth.com/@siyangkernzhao"
+      },
+      "url": "https://blog.angularindepth.com/optimize-angular-bundle-size-in-4-steps-4a3b3737bf45",
+      "category": "article",
+      "contributor": {
+        "name": "Theophilus Johnson",
+        "profile": "https://twitter.com/johnniexson"
+      }
+    },
+    {
+      "title": "Creating a Front-End for Your User Profile Store with Angular and TypeScript",
+      "description": "Learn to create a client front-end written in Angular with TypeScript, that communicates with each of the API endpoints.",
+      "author": {
+        "name": "Nic Raboy",
+        "profile": "https://blog.couchbase.com/author/nic-raboy-2/"
+      },
+      "url": "https://blog.couchbase.com/creating-front-end-user-profile-store-angular-typescript/",
+      "category": "article",
+      "contributor": {
+        "name": "Sakshi Chandel",
+        "profile": "https://github.com/SAKSHI-CHANDEL"
+      }
+    },
+    {
+      "title": "Angular Architecture Patterns and Best Practices",
+      "description": "Learn how to design Angular application in order to maintain sustainable development speed and ease of adding new features in the long run",
+      "author": {
+        "name": "Bartosz Pietrucha",
+        "profile": "https://twitter.com/pietrucha"
+      },
+      "url": "https://angular-academy.com/angular-architecture-best-practices/",
+      "category": "article",
+      "contributor": {
+        "name": "Colin Ogoo",
+        "profile": "https://twitter.com/c_ogoo"
+      }
+    },
+    {
+      "title": "A Super Ninja Trick To Learn RxJS’s “switchMap”, “mergeMap”, “concatMap” and “exhaustMap”, FOREVER! 😎",
+      "description": "Learn and understand RXJS's map operators in a fun way, that you'll never forget",
+      "author": {
+        "name": "Shai Reznik",
+        "profile": "https://twitter.com/shai_reznik"
+      },
+      "url": "https://medium.com/@shairez/a-super-ninja-trick-to-learn-rxjss-switchmap-mergemap-concatmap-and-exhaustmap-forever-88e178a75f1b",
+      "category": "article",
+      "contributor": {
+        "name": "Sonu Sharma",
+        "profile": "https://github.com/iams0nus"
+      }
+    },
+    {
+      "title": "RxJS Top Ten - Code This, Not That",
+      "description": "ten important concepts in RxJS and how to avoid common anti-patterns",
+      "author": {
+        "name": "Fireside",
+        "profile": "https://twitter.com/fireship_dev"
+      },
+      "url": "https://www.youtube.com/watch?v=ewcoEYS85Co",
+      "category": "recording",
+      "contributor": {
+        "name": "Rama Ochieng",
+        "profile": "github.com/orama254"
+      }
+    },
+    {
+      "title": "NGXS",
+      "description": "NGXS is a state management pattern + library for Angular. It acts as a single source of truth for your application's state, providing simple rules for predictable state mutations.",
+      "author": {
+        "name": "ngxs"
+      },
+      "url": "https://www.ngxs.io/",
+      "category": "library",
+      "contributor": {
+        "name": "Gilbert Jabbour",
+        "profile": "github.com/gilbert32"
+      }
+    },
+    {
+      "title": "Lazy Loading Modules & Preloading Strategy in Angular 8",
+      "description": "Tutorial about the usage of lazy loading modules and preloading strategies to optimize the loading behaviour of modules.",
+      "author": {
+        "name": "Maina Wycliffe",
+        "profile": "https://github.com/mainawycliffe"
+      },
+      "url": "https://codinglatte.com/posts/angular/lazy-loading-modules-preloading-strategy-in-angular-8/",
+      "category": "article",
+      "contributor": {
+        "name": "Andreas Billmann",
+        "profile": "https://github.com/frosch95"
+      }
+    },
+    {
+      "title": "Angular Testing Course",
+      "description": "This collection of videos covers the complex topic of testing with all the interesting parts. (HttpClient, async, fakeAsync, E2E, ...)",
+      "author": {
+        "name": "Angular University",
+        "profile": "https://twitter.com/AngularUniv"
+      },
+      "url": "https://www.youtube.com/playlist?list=PLOa5YIicjJ-XA6uwvBtOLltsVvBHP6g3v",
+      "category": "recording",
+      "contributor": {
+        "name": "Andreas Billmann",
+        "profile": "https://github.com/frosch95"
+      }
+    },
+    {
+      "title": "Angular Push Notifications",
+      "description": "In this post, we are going to go through a complete example of how to implement Web Push Notifications in an Angular Application using the Angular Service Worker.",
+      "author": {
+        "name": "Angular University"
+      },
+      "url": "https://blog.angular-university.io/angular-push-notifications/",
+      "category": "article",
+      "contributor": {
+        "name": "Mario Moreno",
+        "profile": "github.com/soymariomoreno"
+      }
+    },
+    {
+      "title": "A first look into the Angular CDK",
+      "description": "A brief intro on angular material cdk to build complex components leveraging portals.",
+      "author": {
+        "name": "Carlos Roso"
+      },
+      "url": "https://hackernoon.com/a-first-look-into-the-angular-cdk-67e68807ed9b",
+      "category": "article",
+      "contributor": {
+        "name": "Khanh Nguyen",
+        "profile": "https://github.com/NHKK"
+      }
+    },
+    {
+      "title": "Angular Architecture Patterns and Best Practices",
+      "description": "Learn how to design Angular application in order to maintain sustainable development speed and ease of adding new features in the long run",
+      "author": {
+        "name": "Bartosz Pietrucha",
+        "profile": "https://twitter.com/pietrucha"
+      },
+      "url": "https://angular-academy.com/angular-architecture-best-practices/",
+      "category": "article",
+      "contributor": {
+        "name": "Chathurangi Jayawardana",
+        "profile": "https://github.com/ChathurangiJayawardana"
+      }
+    },
+    {
+      "title": "Hands-On TypeScript 3 and Angular 7 for Web Development",
+      "description": "Get practical experience to implement TypeScript and Angular to develop efficient websites",
+      "author": {
+        "name": "Shahzaib Kamal",
+        "profile": "https://www.linkedin.com/in/skahmed1/"
+      },
+      "url": "https://www.packtpub.com/web-development/hands-typescript-3-and-angular-7-web-development-video",
+      "category": "recording",
+      "contributor": {
+        "name": "Dale Nguyen",
+        "profile": "https://dalenguyen.me"
+      }
+    },
+    {
+      "title": "Sharing Data Between Angular Components - Four Methods",
+      "description": "Various methods to share data between parent and child components also there is an explanation with a video too",
+      "author": {
+        "name": "Jeff Delaney",
+        "profile": "https://angularfirebase.com/contributors/jeff-delaney/"
+      },
+      "url": "https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "Lazy Loading Routes In Angular",
+      "description": "Easily lazy load feature modules by dynamically importing them on runtime, this will help you maintain the bundle size of your initial app",
+      "author": {
+        "name": "Alligator.io",
+        "profile": "https://alligator.io"
+      },
+      "url": "https://alligator.io/angular/lazy-loading/",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "A Complete Guide To Routing In Angular",
+      "description": "Introducing Angular Router and how you can use it to create client-side apps and Single Page Apps with routing and navigation.",
+      "author": {
+        "name": "Ahmed Bouchefra",
+        "profile": "https://twitter.com/ahmedbouchefra"
+      },
+      "url": "https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "The Principles for Writing Awesome Angular Components",
+      "description": "Some of the best practices and lessons that the community has learned in the last few years, and some of the mistakes that I have seen as a consultant in the front-end world.",
+      "author": {
+        "name": "Giancarlo Buomprisco",
+        "profile": "https://twitter.com/gc_psk"
+      },
+      "url": "https://blog.bitsrc.io/the-principles-for-writing-awesome-angular-components-10e45f9ae77e",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "SOLID: The Dependency Inversion Principle in Angular",
+      "description": "Get a better understanding of the DI principle and how it is implemented in Angular.",
+      "author": {
+        "name": "Chidume Nnamdi",
+        "profile": "https://twitter.com/ngArchangel"
+      },
+      "url": "https://blog.bitsrc.io/solid-the-dependency-inversion-principle-in-angular-6e4b9c484960",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "Keep it Small: Find Components By Bundle-Size and Dependencies",
+      "description": "New: filter components by bundle-size and dependencies before installing them in your application.",
+      "author": {
+        "name": "Jonathan Saring",
+        "profile": "https://blog.bitsrc.io/@JonathanSaring"
+      },
+      "url": "https://blog.bitsrc.io/keep-it-small-find-components-by-bundle-size-and-dependencies-f91216b25039",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "Demystifying RxJS for Angular Developers",
+      "description": "Understand Enough RxJS for your basic Angular needs!",
+      "author": {
+        "name": "Giancarlo Buomprisco",
+        "profile": "https://twitter.com/gc_psk"
+      },
+      "url": "https://blog.bitsrc.io/demystifying-rxjs-for-angular-developers-f39e74f56f64",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "Building Reusable Angular Components: Best Practices",
+      "description": "Reusability principles for angular components",
+      "author": {
+        "name": "Chidume Nnamdi",
+        "profile": "https://twitter.com/ngArchangel"
+      },
+      "url": "https://blog.bitsrc.io/building-reusable-angular-components-best-practices-744fff49e0d",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "How to Write Better Code in Angular",
+      "description": "Learn how to write clean, maintainable, scalable, performance-optimized and testable code in Angular",
+      "author": {
+        "name": "Chidume Nnamdi",
+        "profile": "https://twitter.com/ngArchangel"
+      },
+      "url": "https://blog.bitsrc.io/how-to-write-better-code-in-angular-c2ad9c88aab6",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "About Angular Ivy",
+      "description": "Ivy is the code name for Angular's next-generation compilation and rendering pipeline.",
+      "author": {
+        "name": "Eliran Eliassy",
+        "profile": "https://blog.angularindepth.com/@eliranels"
+      },
+      "url": "https://blog.angularindepth.com/all-you-need-to-know-about-ivy-the-new-angular-engine-9cde471f42cf",
+      "category": "article",
+      "contributor": {
+        "name": "Hitesh Roy",
+        "profile": "https://twitter.com/hiteshroy05"
+      }
+    },
+    {
+      "title": "The Ultimate Answer To The Very Common Angular Question: subscribe() vs | async Pipe",
+      "description": "There are multiple ways in which it is possible to consume the RxJS observable stream of state updates by the components, the two most popular in comparison.",
+      "author": {
+        "name": "Tomas Trajan",
+        "profile": "https://www.tomastrajan.com"
+      },
+      "url": "https://blog.angularindepth.com/angular-question-rxjs-subscribe-vs-async-pipe-in-component-templates-c956c8c0c794",
+      "category": "article",
+      "contributor": {
+        "name": "Sam Sauer",
+        "profile": "https://github.com/samsour"
+      }
+    },
+    {
+      "title": "Scalable Angular Architecture",
+      "description": "From proper abstractions between layers, modular design and lazy loading to unidirectional flow and state management you will see how those help to scale Angular apps.",
+      "author": {
+        "name": "Bartosz Pietrucha",
+        "profile": "https://twitter.com/pietrucha"
+      },
+      "url": "https://www.youtube.com/watch?v=Rc-xMHMYw_M",
+      "category": "talk",
+      "contributor": {
+        "name": "Ananya Neogi",
+        "profile": "https://twitter.com/_ananyaneogi"
+      }
+    },
+    {
+      "title": "Thinking reactive with the SIP principle",
+      "description": "Thinking reactive with the SIP principle!",
+      "author": {
+        "name": "Brecht Billiet",
+        "profile": "https://twitter.com/brechtbilliet"
+      },
+      "url": "https://blog.strongbrew.io/the-sip-principle",
+      "category": "article",
+      "contributor": {
+        "name": "Jeffrey Bosch",
+        "profile": "https://twitter.com/jefiozie"
+      }
+    },
+    {
+      "title": "Comprehensive Introduction to @ngrx/store",
+      "description": "An in depth introduction to the Store in NgRx.",
+      "author": {
+        "name": "Brian Troncone",
+        "profile": "https://twitter.com/btroncone"
+      },
+      "url": "https://gist.github.com/btroncone/a6e4347326749f938510",
+      "category": "article",
+      "contributor": {
+        "name": "Stephen Adams",
+        "profile": "https://twitter.com/stephenradams"
+      }
+    },
+    {
+      "title": "Sustainable Angular Architectures",
+      "description": "Sustainable Angular Architectures with Strategic Design And Monorepos",
+      "author": {
+        "name": "Manfred Steyer",
+        "profile": "https://twitter.com/ManfredSteyer"
+      },
+      "url": "https://www.softwarearchitekt.at/aktuelles/sustainable-angular-architectures-1/",
+      "category": "article",
+      "contributor": {
+        "name": "Jeffrey Bosch",
+        "profile": "https://twitter.com/jefiozie"
+      }
+    },
+    {
+      "title": "The Missing Introduction to Angular and Modern Design Patterns",
+      "description": "More that just a framework, Angular should be considered as a whole platform which comes with a complete set of tools like its own CLI, debug utilities or performance tools.",
+      "author": {
+        "name": "sinedied"
+      },
+      "url": "https://medium.com/ngx-rocket/the-missing-introduction-to-angular-and-modern-design-patterns-43e8815c2801",
+      "category": "article",
+      "contributor": {
+        "name": "Bruna Gil",
+        "profile": "github.com/brunagil"
+      }
+    },
+    {
+      "title": "This website provides a curated list of common mistakes made when developing Angular applications",
+      "description": "New Angular developers or even experienced often tend to make lot of mistakes while beginning a new project due to lack of a checklist that can provides all the basic information about ensuring a rock solid angular app.",
+      "author": {
+        "name": " Dominic Elm",
+        "profile": "https://twitter.com/elmd_"
+      },
+      "category": "article",
+      "url": "https://github.com/typebytes/angular-checklist",
+      "contributor": {
+        "name": "Arindam Dawn",
+        "profile": "https://github.com/arindamdawn"
+      }
+    },
+    {
+      "title": "Cheatsheet for developing lightning fast progressive Angular applications.",
+      "description": "This document contains a list of practices that will help us boost the performance of our Angular applications. 'Angular Performance Checklist' covers different topics - from server-side pre-rendering and bundling of our applications to runtime performance and optimization of the change detection performed by the framework.",
+      "author": {
+        "name": "Minko Gechev",
+        "profile": "https://github.com/mgechev"
+      },
+      "category": "library",
+      "url": "https://github.com/mgechev/angular-performance-checklist",
+      "contributor": {
+        "name": "Evgeny Fedorenko",
+        "profile": "https://github.com/evgenyfedorenko"
+      }
+    },
+    {
+      "title": "[SERIE] Angular Elements, Part I",
+      "description": "A dynamic dashboard in four steps with Web Components.",
+      "author": {
+        "name": "Manfred Steyer",
+        "profile": "https://twitter.com/manfredsteyer"
+      },
+      "url": "https://www.softwarearchitekt.at/en/aktuelles/angular-elements-part-i/",
+      "category": "article",
+      "contributor": {
+        "name": "Raymond Coplin",
+        "profile": "https://twitter.com/raymondcoplin"
+      }
+    },
+    {
+      "title": "ng-content: The hidden docs",
+      "description": "Dynamic content. That is the simplest way to explain what ng-content provides. You use the <ng-content></ng-content> tag as a placeholder for that dynamic content.",
+      "author": {
+        "name": "Eudes Petonnet",
+        "profile": "https://twitter.com/eudespv"
+      },
+      "url": "https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b",
+      "category": "article",
+      "contributor": {
+        "name": "Raymond Coplin",
+        "profile": "https://twitter.com/raymondcoplin"
+      }
+    },
+    {
+      "title": "[ES] Programación Reactiva con RxJs",
+      "description": "Introduction to reactive programming in spanish.",
+      "author": {
+        "name": "Pablo Magaz",
+        "profile": "https://twitter.com/pablo_magaz"
+      },
+      "url": "https://pablomagaz.com/blog/programacion-reactiva-con-rxjs",
+      "category": "article",
+      "contributor": {
+        "name": "Raymond Coplin",
+        "profile": "https://twitter.com/raymondcoplin"
+      }
+    },
+    {
+      "title": "Angular Unit Testing Made Easy with Jest and Spectator",
+      "description": "The official setup that comes with Angular CLI can be a bit time consuming due to writing lot of boilerplate code. This article provides an easier, alternative setup using Jest and Spectator.",
+      "author": {
+        "name": "Van Huynh",
+        "profile": "https://itnext.io/@vanister"
+      },
+      "url": "https://itnext.io/testing-angular-applications-with-jest-and-spectator-c05991579807",
+      "category": "article",
+      "contributor": {
+        "name": "Arindam Dawn",
+        "profile": "https://github.com/arindamdawn"
+      }
+    },
+    {
+      "title": "Advanced Caching in Angular Apps with RxJS",
+      "description": "This article gives a very detailed perspective on how to implement a flexible and robust cache mechanism in your angular app using the power of RxJS",
+      "author": {
+        "name": "Dominic E.",
+        "profile": "https://github.com/d3lm"
+      },
+      "url": "https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html",
+      "category": "article",
+      "contributor": {
+        "name": "Arindam Dawn",
+        "profile": "https://github.com/arindamdawn"
+      }
+    },
+    {
+      "title": "The power of Angular Interceptors - Possible use cases",
+      "description": "One of my favourite thing about Angular is interceptors. They just make your life so easy and gives you wings. This beautiful article provides some of the use cases where interceptors are handy.",
+      "author": {
+        "name": "Michael Karén",
+        "profile": "https://twitter.com/melcor76"
+      },
+      "url": "https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6",
+      "category": "article",
+      "contributor": {
+        "name": "Arindam Dawn",
+        "profile": "https://github.com/arindamdawn"
+      }
+    },
+    {
+      "title": "A Deep Look At Angular Elements",
+      "description": "Framework-independent web components: shows how you can create, build and deploy web components with Angular Elements.",
+      "author": {
+        "name": "Manfred Steyer"
+      },
+      "url": "https://www.youtube.com/watch?v=_QU0mpyF7bQ",
+      "category": "talk",
+      "contributor": {
+        "name": "Mike Graham",
+        "profile": "https://twitter.com/datumgeek"
+      }
+    },
+    {
+      "title": "Data Composition with RxJS",
+      "description": "In this RxJS session, we focus on making our code more reactive by collecting data from a backend server using a declarative approach",
+      "author": {
+        "name": "Deborah Kurata"
+      },
+      "url": "https://www.youtube.com/watch?v=Z76QlSpYcck",
+      "category": "talk",
+      "contributor": {
+        "name": "Mike Graham",
+        "profile": "https://twitter.com/datumgeek"
+      }
+    },
+    {
+      "title": "Angular and CSS Grid: Get ready to fall in love",
+      "description": "In this workshop, we’ll take a lightning tour of CSS Grid and how it can make building Angular applications dramatically easier.",
+      "author": {
+        "name": "Bill Odom"
+      },
+      "url": "https://www.youtube.com/watch?v=lh6n0JxXD_g",
+      "category": "talk",
+      "contributor": {
+        "name": "Mike Graham",
+        "profile": "https://twitter.com/datumgeek"
+      }
+    },
+    {
+      "title": "The future of standalone components in the post-Ivy release days",
+      "description": "Angular Ivy is almost here, and this a great opportunity for us to start exploring what’s new in Angular, learn about the new APIs and start thinking about the concept behind standalone components.",
+      "author": {
+        "name": "Eliran Eliassy"
+      },
+      "url": "https://blog.angularindepth.com/the-future-of-standalone-components-in-the-post-ivy-release-days-e7ed9b9b4dcd",
+      "category": "article",
+      "contributor": {
+        "name": "Jessica Lopes",
+        "profile": "github.com/eudivaloper"
+      }
+    },
+    {
+      "title": "Precaching with the Service Worker",
+      "description": "Part 6 of an Angular Performance series that shows interesting applications of angular modules to improve performance. This series is based on the performance articles on web.dev/angular by Minko Gechev and Stephen Fluin.",
+      "author": {
+        "name": "Juri Strumpflohner",
+        "profile": "https://https://twitter.com/juristr"
+      },
+      "url": "https://juristr.com/blog/2019/08/ngperf-precaching-serviceworker/",
+      "category": "article",
+      "contributor": {
+        "name": "Rafael Romero",
+        "profile": "https://dev.to/rafajrg21"
+      }
+    },
+    {
+      "title": "Essential Angular",
+      "description": "This book aims to be a short, but at the same time, fairly complete overview of the key aspects of Angular: it covers the framework’s mental model, its API, and the design principles behind it.",
+      "author": {
+        "name": "Victor Savkin & Jeff Cross",
+        "profile": "https://twitter.com/nrwl_io"
+      },
+      "url": "https://connect.nrwl.io/app/books/essential_angular",
+      "category": "book",
+      "contributor": {
+        "name": "Raymond Coplin",
+        "profile": "https://twitter.com/raymondcoplin"
+      }
+    },
+    {
+      "title": "RxJS Quick Start With 20 Practical Examples",
+      "description": "Complex RxJS concepts boiled down into the bare essentials. (pre-rxjs 6 resource)",
+      "author": {
+        "name": "Jeff Delaney"
+      },
+      "url": "https://angularfirebase.com/lessons/rxjs-quickstart-with-20-examples/",
+      "category": "article",
+      "contributor": {
+        "name": "Brad Taniguchi",
+        "profile": "https://github.com/bradtaniguchi"
+      }
+    },
+    {
+      "title": "angular-electron",
+      "description": "useful resource for cross platform development",
+      "author": {
+        "name": "Maxim Gris",
+        "profile": "A link to the author's bio - this is optional"
+      },
+      "url": "https://github.com/maximegris/angular-electron",
+      "category": "library",
+      "contributor": {
+        "name": "Phil"
+      }
+    },
+    {
+      "title": "Dynamically Load CSS with the Angular CLI",
+      "description": "How to configure the Angular CLI to not inject the styles into the HTML file and how to lazy load the styles at runtime",
+      "author": {
+        "name": "Juri Strumpflohner",
+        "profile": "https://https://twitter.com/juristr"
+      },
+      "url": "https://juristr.com/blog/2019/08/dynamically-load-css-angular-cli/",
+      "category": "article",
+      "contributor": {
+        "name": "Raul Crisan",
+        "profile": "https://github.com/raulcrisan"
+      }
+    },
+    {
+      "title": "How to get started with Cypress",
+      "description": "Learn how to use Cypress for testing your frontend apps",
+      "author": {
+        "name": "Michael Karén"
+      },
+      "url": "https://blog.angularindepth.com/get-started-with-cypress-d6ac4b910605",
+      "category": "article",
+      "contributor": {
+        "name": "Andrew Evans",
+        "profile": "https://twitter.com/AndrewEvans0102"
+      }
+    },
+    {
+      "title": "Angular & RxJS: Detecting Memory Leaks",
+      "description": "Learn how to detect RxJS memory leaks in Angular",
+      "author": {
+        "name": "Erxk Verduin",
+        "profile": "https://itnext.io/@erxk_verduin?source=post_page-----bdd312a070a0----------------------"
+      },
+      "url": "https://itnext.io/angular-rxjs-detecting-memory-leaks-bdd312a070a0",
+      "category": "article",
+      "contributor": {
+        "name": "Marco Petreri",
+        "profile": "https://github.com/marcopetreri"
+      }
+    },
+    {
+      "title": "QuickStart an Angular Ecommerce App using a Headless CMS API",
+      "description": "A guide on how to build an Ecommerce app using Cosmic JS and Angular.",
+      "author": {
+        "name": "Carson Gibbons",
+        "profile": "https://twitter.com/carsoncgibbons"
+      },
+      "url": "https://hackernoon.com/quickstart-an-angular-ecommerce-app-using-a-headless-cms-api-ea48f9616afe",
+      "category": "article",
+      "contributor": {
+        "name": "Himesh Samarasekera",
+        "profile": "https://twitter.com/DeviousLab"
+      }
+    },
+    {
+      "title": "19 Things You Need to Learn to Become an Effective Angular Developer",
+      "description": "Guide what to learn to become better Angular Developer",
+      "author": {
+        "name": "Aphinya Dechalert",
+        "profile": "https://medium.com/@PurpleGreenLemon"
+      },
+      "url": "https://medium.com/@PurpleGreenLemon/19-things-you-need-to-learn-to-become-an-effective-angular-developer-c0ccfa51222a",
+      "category": "article",
+      "contributor": {
+        "name": "Sandro Pirtskhalava",
+        "profile": "https://github.com/spirtskhalava"
+      }
+    },
+    {
+      "title": "Create a module that can be installed with npm",
+      "description": "Create a library that you can publish on npm or store in Git and install it into your Angular project from there.",
+      "author": {
+        "name": "MAXIM VAN VEEN",
+        "profile": ""
+      },
+      "url": "https://www.competa.com/blog/angular-6-create-a-module-that-can-be-installed-with-npm/",
+      "category": "article",
+      "contributor": {
+        "name": "Theophilus Johnson",
+        "profile": "https://linkedin.com/in/johnniexson"
+      }
+    },
+    {
+      "title": "A Practical Guide to Angular Directives",
+      "description": "Angular directives — what are they, how to use them, and to build our own.",
+      "author": {
+        "name": "Claudio Ribeiro",
+        "profile": "https://github.com/DailyMatters/"
+      },
+      "url": "https://www.sitepoint.com/practical-guide-angular-directives/",
+      "category": "article",
+      "contributor": {
+        "name": "Juan Romero",
+        "profile": "https://twitter.com/JuanpRM"
+      }
+    },
+    {
+      "title": "RxJS forkJoin Best Practices",
+      "description": "Never Use Array Indexes in Subscribe!",
+      "author": {
+        "name": "Michal Ptaszek",
+        "profile": "https://medium.com/@michal.a.ptaszek"
+      },
+      "url": "https://medium.com/better-programming/rxjs-forkjoin-never-use-array-indexes-in-subscribe-1f4005582ae8",
+      "category": "article",
+      "contributor": {
+        "name": "Raul Crisan",
+        "profile": "https://github.com/raulcrisan"
+      }
+    },
+    {
+      "title": "Create your own image classifier with Angular and Tensorflow.js",
+      "description": "Create your own image classifiers using only Javascript in less than a few minutes!",
+      "author": {
+        "name": "Eliran Eliassy",
+        "profile": "https://github.com/eliraneliassy"
+      },
+      "url": "https://blog.angularindepth.com/create-your-own-image-classifier-with-angular-and-tensorflow-js-5b1bc2391424",
+      "category": "article",
+      "contributor": {
+        "name": "Bogomil Shopov",
+        "profile": "https://twitter.com/bogomep"
+      }
+    },
+    {
+      "title": "View Facades + RxJS!",
+      "description": "You may not need to use NgRx or NgXs in your application. But you should use Facades + RxJS in your application! Let’s explore why, where, and how…",
+      "author": {
+        "name": "Thomas Burleson",
+        "profile": "https://twitter.com/thomasburleson"
+      },
+      "url": "https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee",
+      "category": "article",
+      "contributor": {
+        "name": "Florian Rand",
+        "profile": "https://github.com/flrnd"
+      }
+    },
+    {
+      "title": "Angular Crash Course - 2019",
+      "description": "build a small app With Angular 7, looking at most of the fundamental concepts like components, services, modules, etc",
+      "author": {
+        "name": "Brad Traversy",
+        "profile": "https://twitter.com/traversymedia"
+      },
+      "url": "https://www.youtube.com/watch?v=Fdf5aTYRW0E",
+      "category": "recording",
+      "contributor": {
+        "name": "Anja Muller",
+        "profile": "https://github.com/Lumary2"
+      }
+    },
+    {
+      "title": "The State of Angular in 2019",
+      "description": "A detailed overview of the current state of Angular, from the latest features to the hottest topics and trends.",
+      "author": {
+        "name": "Eden",
+        "profile": "https://dev.to/gitedenhttps://dev.to/giteden"
+      },
+      "url": "https://dev.to/giteden/the-state-of-angular-in-2019-ein",
+      "category": "article",
+      "contributor": {
+        "name": "Fco Sueza",
+        "profile": "https://github.com/fcosueza"
+      }
+    },
+    {
+      "title": "Angular Extensions Elements",
+      "description": "The easiest way to lazy load Angular Elements or any other web components in your Angular application!",
+      "author": {
+        "name": "Tomas Trajan",
+        "profile": "https://www.tomastrajan.com"
+      },
+      "url": "https://angular-extensions.github.io/elements",
+      "category": "library",
+      "contributor": {
+        "name": "Tomas Trajan",
+        "profile": "https://twitter.com/tomastrajan"
+      }
+    },
+    {
+      "title": "Dynamically add components to the DOM with Angular",
+      "description": "Tutorial on how to insert component dynamically in Angular.",
+      "author": {
+        "name": "Dave Rivera",
+        "profile": "https://medium.com/@daverivera90"
+      },
+      "url": "https://medium.com/front-end-weekly/dynamically-add-components-to-the-dom-with-angular-71b0cb535286",
+      "category": "article",
+      "contributor": {
+        "name": "Marko Nikolic",
+        "profile": "https://www.linkedin.com/in/marko-nikolic-a8abb713b/"
+      }
+    },
+    {
+      "title": "Angular tutorial — Create loading indicator using NgRx",
+      "description": "Angular tutorial on creating loading decorators.",
+      "author": {
+        "name": "Alexandru Bereghici",
+        "profile": "https://itnext.io/@alexandrubereghici"
+      },
+      "url": "https://itnext.io/angular-tutorial-create-loading-indicator-using-ngrx-687f8a66be0d",
+      "category": "article",
+      "contributor": {
+        "name": "Marko Nikolic",
+        "profile": "https://www.linkedin.com/in/marko-nikolic-a8abb713b/"
+      }
+    },
+    {
+      "title": "Everything you need to know about the `ExpressionChangedAfterItHasBeenCheckedError` error",
+      "description": "This article explains the underlying causes of the error and the mechanism by which it’s detected, provides a few common patterns that may lead to the error and suggests a few possible fixes. The last chapter provides an explanation of why this check is important.",
+      "author": {
+        "name": "Maxim Koretskyi",
+        "profile": "https://twitter.com/maxkoretskyi"
+      },
+      "url": "https://indepth.dev/everything-you-need-to-know-about-the-expressionchangedafterithasbeencheckederror-error/",
+      "category": "article",
+      "contributor": {
+        "name": "Marko Nikolic",
+        "profile": "https://www.linkedin.com/in/marko-nikolic-a8abb713b/"
+      }
+    },
+    {
+      "title": "JSON WEB Authentication with Angular 8 and NodeJS",
+      "description": "The article is about interfacing an Angular 8 Project with a secure backend API. The Backend will be running on Node.JS",
+      "author": {
+        "name": "Muhammad Bilal",
+        "profile": "https://blog.soshace.com/en/author/muhammad/"
+      },
+      "url": "https://blog.soshace.com/en/programming-en/json-web-authentication-with-angular-8-and-nodejs/",
+      "category": "article",
+      "contributor": {
+        "name": "Merovinh",
+        "profile": "https://github.com/merovinh"
+      }
+    },
+    {
+      "title": "Performance optimizations in Angular",
+      "description": "Angular and RxJS are cool technologies that make it easy to develop web pages. Unfortunately, they also make it easy to build an inefficient page that will bring the browser to its knees. In this talk, a summary of learnings and common pitfalls will be shared.",
+      "author": {
+        "name": "Mert Değirmenci",
+        "profile": "https://www.linkedin.com/in/degirmenci"
+      },
+      "url": "https://www.youtube.com/watch?v=Tlmx1PbP8Qw",
+      "category": "talk",
+      "contributor": {
+        "name": "Serge Adamovich",
+        "profile": "https://github.com/dellink"
+      }
+    },
+    {
+      "title": "Why you HAVE to unsubscribe from Observable",
+      "description": "The easiest way to unsubscribe from an Observable is not to subscribe in the first place. Yes, that's it! Just don't subscribe at all. But how do I get all the data I need?",
+      "author": {
+        "name": "Reactive Fox",
+        "profile": "https://twitter.com/thekiba_io"
+      },
+      "url": "https://blog.angularindepth.com/why-you-have-to-unsubscribe-from-observable-92502d5639d0",
+      "category": "article",
+      "contributor": {
+        "name": "Reactive Fox",
+        "profile": "https://twitter.com/thekiba_io"
+      }
+    },
+    {
+      "title": "UI State Management Made Easy with Akita and Angular",
+      "description": "Akita recommends separating the Domain State from the UI State. Domain State is the state of your application in the server side, while the UI state is more along the lines of the current time based on the user’s machine, which tab is active tab, or whether a drop-down is open.",
+      "author": {
+        "name": "Netanel Basal",
+        "profile": "https://engineering.datorama.com/@NetanelBasal"
+      },
+      "url": "https://engineering.datorama.com/ui-state-management-made-easy-with-akita-and-angular-6e460566ec7c",
+      "category": "article",
+      "contributor": {
+        "name": "ice",
+        "profile": "https://github.com/icezatoo"
+      }
+    },
+    {
+      "title": "The Architecture of Components",
+      "description": "This talk will show you how to build your application in small, manageable chunks that increase reusability. You will learn how to create simple interfaces between components and maintain a single, focused responsibility all without a state management solution.",
+      "author": {
+        "name": "Erin Coughlan",
+        "profile": "https://github.com/ErinCoughlan"
+      },
+      "url": "https://www.youtube.com/watch?v=pg8guVVwiMk",
+      "category": "talk",
+      "contributor": {
+        "name": "Serge Adamovich",
+        "profile": "https://github.com/dellink"
+      }
+    },
+    {
+      "title": "All you need to know about Ivy, The new Angular engine!",
+      "description": "Angular Ivy — The complete guide for the 3rd generation of the Angular renderer.",
+      "author": {
+        "name": "Eliran Eliassy",
+        "profile": "https://github.com/eliraneliassy"
+      },
+      "url": "https://blog.angularindepth.com/all-you-need-to-know-about-ivy-the-new-angular-engine-9cde471f42cf",
+      "category": "article",
+      "contributor": {
+        "name": "Paul",
+        "profile": "https://github.com/pauliax"
+      }
+    },
+    {
+      "title": "The secrets behind Angular’s lightning speed",
+      "description": "Angular developers rarely have the need to write super optimized code. In application development we tend to favor readability over optimization. But this approach doesn’t guarantee fast execution of the code. With frameworks, the situation is reversed. Frameworks have to be really fast.",
+      "author": {
+        "name": "Max Koretskyi",
+        "profile": "https://twitter.com/maxkorerskyi"
+      },
+      "url": "https://www.youtube.com/watch?v=nQ8oJ1rpwIc",
+      "category": "talk",
+      "contributor": {
+        "name": "Serge Adamovich",
+        "profile": "https://github.com/dellink"
+      }
+    },
+    {
+      "title": "Nebular Components and Admin",
+      "description": "Nebular is a customizable Angular UI Library based on Eva Design System specifications, with 40+ UI components, 4 visual themes, Auth and Security modules.",
+      "author": {
+        "name": "akveo LLC",
+        "profile": "https://www.akveo.com/"
+      },
+      "url": "https://akveo.github.io/nebular/docs/components/components-overview/",
+      "category": "library",
+      "contributor": {
+        "name": "Oluwatobi Adeshina",
+        "profile": "https://twitter.com/drtobbyas"
+      }
+    },
+    {
+      "title": "Why Your Angular App Is Not Working: 7 Common Mistakes",
+      "description": "Seven common mistakes that might be causing your Angular issues.",
+      "author": {
+        "name": "Valerio Pisapia",
+        "profile": "https://twitter.com/Movidastar"
+      },
+      "url": "https://icodemag.com/why-your-angular-app-is-not-working-7-common-mistakes/",
+      "category": "article",
+      "contributor": {
+        "name": "Valerio Pisapia",
+        "profile": "https://www.linkedin.com/in/valerio-pisapia/"
+      }
+    },
+    {
+      "title": "Learning AngularJS 2",
+      "description": "The Angular 2 framework lets you get things done quickly by providing a model for development that yields special functionality. This course introduces you to Angular 2, the second edition of the \"superheroic\" JavaScript framework.",
+      "author": {
+        "name": "Ray Villalobos",
+        "profile": "https://www.linkedin.com/in/planetoftheweb/?trk=lil_instructor"
+      },
+      "url": "https://www.linkedin.com/learning/learning-angularjs-2/welcome",
+      "category": "course",
+      "contributor": {
+        "name": "Naveen Bandarage",
+        "profile": "https://github.com/thebanterage"
+      }
+    },
+    {
+      "title": "Angular and the OWASP top 10",
+      "description": "In this talk, we explore the relationship between the OWASP top 10 and Angular applications.",
+      "author": {
+        "name": "Philippe De Ryck",
+        "profile": "https://twitter.com/philippederyck"
+      },
+      "url": "https://www.youtube.com/watch?v=jc0YYLLEol0",
+      "category": "talk",
+      "contributor": {
+        "name": "Serge Adamovich",
+        "profile": "https://github.com/dellink"
+      }
+    },
+    {
+      "title": "Material Web Components for Angular",
+      "description": "Incorporating Google Material Components for a faithful and accurate representation of Material Design as envisioned on the web platform.",
+      "author": {
+        "name": "Dominic Carretto",
+        "profile": "https://github.com/trimox"
+      },
+      "url": "https://github.com/trimox/angular-mdc-web",
+      "category": "library",
+      "contributor": {
+        "name": "Maki",
+        "profile": "https://github.com/makitsune"
+      }
+    },
+    {
+      "title": "ChartJS  for Angular",
+      "description": "Chart.js component for Angular2+. Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free",
+      "author": {
+        "name": "BeforeSecond",
+        "profile": "https://github.com/beforesecond"
+      },
+      "url": "https://github.com/emn178/angular2-chartjs",
+      "category": "library",
+      "contributor": {
+        "name": "emn178",
+        "profile": "https://github.com/emn178"
+      }
+    },
+    {
+      "title": "Angular-React",
+      "description": "Use React components inside Angular",
+      "author": {
+        "name": "Microsoft",
+        "profile": "https://github.com/microsoft"
+      },
+      "url": "https://github.com/microsoft/angular-react",
+      "category": "library",
+      "contributor": {
+        "name": "Kirill Galushko",
+        "profile": "https://github.com/qeireal"
+      }
+    },
+    {
+      "title": "Squeezing Angular Directives",
+      "description": "In this article, we’ll examine the features and limitations of every type of directive and how to mix all their features into one superdirective.",
+      "author": {
+        "name": "Aleix Suau",
+        "profile": "https://blog.angularindepth.com/@aleixsuau"
+      },
+      "url": "https://blog.angularindepth.com/squeezing-angular-directives-8ab7b1e4e3ba",
+      "category": "article",
+      "contributor": {
+        "name": "Marko Nikolic",
+        "profile": "https://www.linkedin.com/in/marko-nikolic-a8abb713b/"
+      }
+    },
+    {
+      "title": "Ngx-Smart-Modal",
+      "description": "Angular smart light and fast modal handler to manage modals and data everywhere.",
+      "author": {
+        "name": "Biig",
+        "profile": "https://github.com/biig-io"
+      },
+      "url": "https://biig-io.github.io/ngx-smart-modal",
+      "category": "library",
+      "contributor": {
+        "name": "Louis AUGRY",
+        "profile": "https://github.com/LouisAugry"
+      }
+    },
+    {
+      "title": "Ngx-Smart-Loader",
+      "description": "Smart loader handler to manage loaders everywhere in Angular apps",
+      "author": {
+        "name": "Biig",
+        "profile": "https://github.com/biig-io"
+      },
+      "url": "https://biig-io.github.io/ngx-smart-loader",
+      "category": "library",
+      "contributor": {
+        "name": "Louis AUGRY",
+        "profile": "https://github.com/LouisAugry"
+      }
+    },
+    {
+      "title": "Using Zones in Angular for better performance",
+      "description": "This article talks about how we can take advantage of Zone APIs, to execute our code outside the Angular zone ",
+      "author": {
+        "name": "Pascal Precht",
+        "profile": "https://twitter.com/PascalPrecht"
+      },
+      "url": "https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance",
+      "category": "article",
+      "contributor": {
+        "name": "Gaurav",
+        "profile": "https://github.com/grvv"
+      }
+    },
+    {
+      "title": "Concrete Page: Angular Tutorials by Examples",
+      "description": "Great acticle by examples for new Angular developer.",
+      "author": {
+        "name": "Arvind Rai",
+        "profile": "https://twitter.com/concretepage"
+      },
+      "url": "https://www.concretepage.com/angular/",
+      "category": "article",
+      "contributor": {
+        "name": "tumit",
+        "profile": "https://twitter.com/tumit"
+      }
+    },
+    {
+      "title": "Angular validation errors made easy",
+      "description": "Angular reactive forms are great. Dinamicity, validation and binding make me - and part of the community with me - prefer them over template driven ones.",
+      "author": {
+        "name": "Luca Micieli",
+        "profile": "https://medium.com/@luca.micieli93"
+      },
+      "url": "https://medium.com/swlh/angular-validation-errors-made-easy-3bc1a837c6e7",
+      "category": "article",
+      "contributor": {
+        "name": "Ankit kumar",
+        "profile": "https://github.com/poruss"
+      }
+    },
+    {
+      "title": "Exemplary real world application built with Angular",
+      "description": "Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.",
+      "author": {
+        "name": "thinkster",
+        "profile": "https://thinkster.io/"
+      },
+      "url": "https://github.com/gothinkster/angular-realworld-example-app",
+      "category": "library",
+      "contributor": {
+        "name": "Sanket Maru",
+        "profile": "https://github.com/sanketmaru"
+      }
+    },
+    {
+      "title": "Getting Started With Serverless Angular Universal on AWS Lambda",
+      "description": "You can build search-engine optimized (SEO) friendly single page applications (SPA’s) with Angular Universal, a technology that runs your Angular application on the server. Additionally, you can reduce the cost of running those applications with AWS Lambda, an event-driven, serverless computing platform provided as a part of Amazon Web Services (AWS). This piece will show you how to build and deploy Angular Universal projects on AWS Lambda using Serverless Framework, an open-source command line interface for building and deploying serverless applications.",
+      "author": {
+        "name": "Maciej Treder",
+        "profile": "https://medium.com/@maciejtreder"
+      },
+      "url": "https://medium.com/better-programming/getting-started-with-serverless-angular-universal-on-aws-lambda-8754bcc4dc19",
+      "category": "article",
+      "contributor": {
+        "name": "ninxxxxx",
+        "profile": "https://github.com/ninxxxxx"
+      }
+    },
+    {
+      "title": "Add a custom pipe to Angular 8",
+      "description": "The purpose of a custom pipe is some custom formatting on your data.",
+      "author": {
+        "name": "Ajdin Imsirovic",
+        "profile": "https://medium.com/@ajdin.imsirovic"
+      },
+      "url": "https://medium.com/@ajdin.imsirovic/add-a-custom-pipe-to-angular-8-e0124931813d",
+      "category": "article",
+      "contributor": {
+        "name": "Ankit kumar",
+        "profile": "https://github.com/PrajapatiAnkit"
+      }
+    },
+    {
+      "title": "ng5-slider",
+      "description": "Self-contained, mobile friendly slider component for Angular 5+ based on angularjs-slider.",
+      "author": {
+        "name": "angular-slider",
+        "profile": "https://github.com/angular-slider"
+      },
+      "url": "https://github.com/angular-slider/ng5-slider",
+      "category": "library",
+      "contributor": {
+        "name": "Dmitry Kulikov",
+        "profile": "https://github.com/mittey"
+      }
+    },
+    {
+      "title": "Learn Angular - Full Tutorial Course",
+      "description": "Angular 6 (and above) complete course",
+      "author": {
+        "name": "freeCodeCamp",
+        "profile": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ"
+      },
+      "url": "https://www.youtube.com/watch?v=2OHbjep_WjQ&vl=zh",
+      "category": "recording",
+      "contributor": {
+        "name": "Omkar Shelar",
+        "profile": "https://github.com/omkarshelar"
+      }
+    },
+    {
+      "title": "Angular Tutorial",
+      "description": "the conceptual basis for many examples in this documentation set.",
+      "author": {
+        "name": "angular.io",
+        "profile": "https://angular.io/"
+      },
+      "url": "https://angular.io/tutorial",
+      "category": "article",
+      "contributor": {
+        "name": "porpeeranut",
+        "profile": "https://github.com/porpeeranut"
+      }
+    },
+    {
+      "title": "How to cache HTTP requests in Angular",
+      "description": "This article shows how to cache a HTTP request in Angular with shareReply",
+      "author": {
+        "name": " Bartosz Pietrucha",
+        "profile": "https://dev.to/pietrucha"
+      },
+      "url": "https://dev.to/angular/how-to-cache-http-requests-in-angular-5c8i",
+      "category": "article",
+      "contributor": {
+        "name": "Delia Balaj",
+        "profile": "https://github.com/ddelilah"
+      }
+    },
+    {
+      "title": "Infinite Scroll in Angular Using the CDK",
+      "description": "This article shows how to implement infinite scrolling in Angular using CDK",
+      "author": {
+        "name": "Chris Engelsma",
+        "profile": "https://github.com/chrisengelsma"
+      },
+      "url": "https://alligator.io/angular/infinite-scroll/",
+      "category": "article",
+      "contributor": {
+        "name": "Delia Balaj",
+        "profile": "https://github.com/ddelilah"
+      }
+    },
+    {
+      "title": "How to use Internationalization (i18n) in Angular",
+      "description": "This article shows how to implement internationalization(i18n) in Angular",
+      "author": {
+        "name": "Pual Halliday",
+        "profile": "https://github.com/PaulHalliday"
+      },
+      "url": "https://alligator.io/angular/internationalization/",
+      "category": "article",
+      "contributor": {
+        "name": "Siwat Jir",
+        "profile": "https://github.com/bank2u"
+      }
+    },
+    {
+      "title": "Using Angular Elements with NgRx",
+      "description": "This is a guide article to build an element which can be used across multiple library backed by NgRx",
+      "author": {
+        "name": "Santosh Yadav",
+        "profile": "https://twitter.com/Santosh19742211"
+      },
+      "url": "https://blog.angularindepth.com/using-angular-elements-with-ngrx-bc655e1eb212",
+      "category": "article",
+      "contributor": {
+        "name": "Nisheanthan",
+        "profile": "https://github.com/Nisheanthan"
+      }
+    },
+    {
+      "title": "Angular-8 Crud from Scratch",
+      "description": "This article is specially designed for newcomers, and it will help you to up and running with the latest version of Angular which is right now 8. You will learn Angular by example by building a full-stack CRUD Application",
+      "author": {
+        "name": "krunaldlathiya",
+        "profile": "https://twitter.com/krunaldlathiya"
+      },
+      "url": "https://appdividend.com/2019/06/04/angular-8-tutorial-with-example-learn-angular-8-crud-from-scratch/",
+      "category": "article",
+      "contributor": {
+        "name": "Ramsha Saeed",
+        "profile": "https://github.com/RamshaS"
+      }
+    },
+    {
+      "title": "Angular 8 (formerly Angular 2) - The Complete Guide",
+      "description": "This course is give you fundamental of Angular, so that you can master it.",
+      "author": {
+        "name": "Maximilian Schwarzmüller",
+        "profile": "https://twitter.com/maxedapps"
+      },
+      "url": "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+      "category": "course",
+      "contributor": {
+        "name": "Tegar Jagat Geni Arya Perkasa",
+        "profile": "https://github.com/tegarjgap"
+      }
+    },
+    {
+      "title": "Lazy load Angular Components",
+      "description": "Or better..how to lazy load Angular Modules. Learn about the state of lazy loading and lazy loading on steroids with Angular Elements",
+      "author": {
+        "name": "Juri Strumpflohner",
+        "profile": "https://twitter.com/juristr"
+      },
+      "url": "https://juristr.com/blog/2019/04/state-lazy-loading-components-angular/",
+      "category": "article",
+      "contributor": {
+        "name": "Bruno Bradach",
+        "profile": "https://github.com/brunob15"
+      }
+    },
+    {
+      "title": "Not Every App is a SPA",
+      "description": "Performance is a critical concern shipping applications that deliver great first load experiences, and not every application should be a Single Page Application on first load. We’re working on new techniques to make your websites easier to build, faster to deploy, and instant to load.",
+      "author": {
+        "name": "Rob Wormald",
+        "profile": "https://twitter.com/robwormald"
+      },
+      "url": "https://www.youtube.com/watch?v=JX5GGu_7JKc",
+      "category": "recording",
+      "contributor": {
+        "name": "Bruno Bradach",
+        "profile": "https://github.com/brunob15"
+      }
+    },
+    {
+      "title": "Angular CLI — Demystifying the workspace",
+      "description": "The Angular CLI abstracts a lot of things, from the way you create a new Angular project to generating production build. The post demystifies how the Angular CLI actually works.",
+      "author": {
+        "name": "Benjamin Cabanes",
+        "profile": "https://twitter.com/bencabanes"
+      },
+      "url": "https://blog.nrwl.io/angular-cli-demystifying-the-workspace-7f59ffaab4cb",
+      "category": "article",
+      "contributor": {
+        "name": "Ivan Tsymbal",
+        "profile": "https://github.com/Poccomaxazt"
+      }
+    },
+    {
+      "title": "Angular Tools for High Performance",
+      "description": "This post, contains a list of new tools and practices that can help us build faster Angular apps and monitor their performance over time.",
+      "author": {
+        "name": "Minko Gechev",
+        "profile": "https://twitter.com/mgechev"
+      },
+      "url": "https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a",
+      "category": "article",
+      "contributor": {
+        "name": "Ivan Tsymbal",
+        "profile": "https://github.com/Poccomaxazt"
+      }
+    },
+    {
+      "title": "Understanding RxJS Multicast Operators",
+      "description": "RxJS multicast operators, better known as sharing operators, are probably the most complicated topic to understand in the jungle that is RxJS.",
+      "author": {
+        "name": "Netanel Basal",
+        "profile": "https://twitter.com/NetanelBasal"
+      },
+      "url": "https://netbasal.com/understanding-rxjs-multicast-operators-77b3f60af0a2",
+      "category": "article",
+      "contributor": {
+        "name": "Ivan Tsymbal",
+        "profile": "https://github.com/Poccomaxazt"
+      }
+    },
+    {
+      "title": "Progressive Web Apps with Angular",
+      "description": "Create Responsive, Fast and Reliable PWAs Using Angular",
+      "author": {
+        "name": "Majid Hajian",
+        "profile": "http://www.allitebooks.org/author/majid-hajian/"
+      },
+      "url": "http://www.allitebooks.org/progressive-web-apps-with-angular/",
+      "category": "book",
+      "contributor": {
+        "name": "Theophilus Johnson",
+        "profile": "https://johnniexson.github.io"
+      }
+    },
+    {
+      "title": "Building a transaction service for managing large scale editing experiences",
+      "description": "A common challenge developers have to tackle when building applications consuming large data sets, is how to create a maintainable and scalable user experience for editing.",
+      "author": {
+        "name": "Alex Marinov",
+        "profile": "https://twitter.com/alxmarinov"
+      },
+      "url": "https://blog.angular.io/building-a-transaction-service-for-managing-large-scale-editing-experiences-ded666eafd5e",
+      "category": "article",
+      "contributor": {
+        "name": "Ivan Tsymbal",
+        "profile": "https://github.com/Poccomaxazt"
+      }
+    },
+    {
+      "title": "🎉 Good Things Come to Those Who Wait: What’s new in Transloco",
+      "description": "The next generation i18n library for Angular just got better! Updates for Transloco, the Angular translation library that was recently released, are coming in fast and furious. This newest version is full of 🔥 new features that you requested. It’s another step in our plan to provide you with a better i18n experience.",
+      "author": {
+        "name": "Netanel Basal",
+        "profile": "https://netbasal.com/"
+      },
+      "url": "https://netbasal.com/good-things-come-to-those-who-wait-whats-new-in-transloco-5dadf886b485",
+      "category": "article",
+      "contributor": {
+        "name": "Naruedom Tongkampan",
+        "profile": "https://github.com/dreaminfo"
+      }
+    },
+    {
+      "title": "Real-World Angular Ivy Upgrade (v9-next)",
+      "description": "This is a follow-on to show what the current upgrade path looks like using Angular v9.0.0-next.6 pre-beta, which contains optimizations for bundle size and performance as well as some bug fixes that were not present in v8’s preview.",
+      "author": {
+        "name": "Jared Youtsey",
+        "profile": "https://twitter.com/jaredyoutsey"
+      },
+      "url": "https://medium.com/ngconf/real-world-angular-ivy-upgrade-v9-next-9061f31a9bba",
+      "category": "article",
+      "contributor": {
+        "name": "Naruedom Tongkampan",
+        "profile": "https://github.com/dreaminfo"
+      }
+    },
+    {
+      "title": "Demystifying RxJS for Angular Developers",
+      "description": "Understand Enough RxJS for your basic Angular needs!",
+      "author": {
+        "name": "Giancarlo Buomprisco",
+        "profile": "https://blog.bitsrc.io/@.gc"
+      },
+      "url": "https://blog.bitsrc.io/demystifying-rxjs-for-angular-developers-f39e74f56f64",
+      "category": "article",
+      "contributor": {
+        "name": "Naruedom Tongkampan",
+        "profile": "https://github.com/dreaminfo"
+      }
+    },
+    {
+      "title": "How to define a highly scalable folder structure for your Angular project",
+      "description": "This became a real issue in my first ever real-world Angular project — especially when the application grew in size.",
+      "author": {
+        "name": "Mathis Garberg",
+        "profile": "https://github.com/mathisGarberg"
+      },
+      "url": "https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7",
+      "category": "article",
+      "contributor": {
+        "name": "Naruedom Tongkampan",
+        "profile": "https://github.com/dreaminfo"
+      }
+    },
+    {
+      "title": "The Angular CLI at Air France-KLM",
+      "description": "In this article, I will show you what we're doing with the Angular CLI at Air France-KLM, and how the Angular CLI is helping us build better Angular applications.",
+      "author": {
+        "name": "Amadou Sall",
+        "profile": "https://www.amadousall.com/author/amadou/"
+      },
+      "url": "https://www.amadousall.com/the-angular-cli-at-air-france-klm/",
+      "category": "article",
+      "contributor": {
+        "name": "JanMalch",
+        "profile": "https://github.com/JanMalch"
+      }
+    },
+    {
+      "title": "Angular Architecture Patterns and Best Practices (that help to scale)",
+      "description": "Building scalable software with angular best practices.",
+      "author": {
+        "name": "Bartosz Pietrucha",
+        "profile": "https://twitter.com/pietrucha"
+      },
+      "url": "https://angular-academy.com/angular-architecture-best-practices",
+      "category": "article",
+      "contributor": {
+        "name": "Vinny Patel",
+        "profile": "https://github.com/vipatel03"
+      }
+    },
+    {
+      "title": "How to test Observables",
+      "description": "Never again be confused on how to test Observables",
+      "author": {
+        "name": "Kevin Kreuzer",
+        "profile": "https://blog.angularindepth.com/@kevinkreuzer"
+      },
+      "url": "https://blog.angularindepth.com/how-to-test-observables-a00038c7faad",
+      "category": "article",
+      "contributor": {
+        "name": "Dirk",
+        "profile": "https://github.com/ddiebel"
+      }
+    },
+    {
+      "title": "Use Animation in Angular Project",
+      "description": "How to you can use animation in angular project.",
+      "author": {
+        "name": "Jiayi Hu",
+        "profile": "https://github.com/jiayihu"
+      },
+      "url": "https://github.com/jiayihu/ng-animate",
+      "category": "library",
+      "contributor": {
+        "name": "Shubham Arora",
+        "profile": "https://twitter.com/shubham__arora"
+      }
+    },
+    {
+      "title": "Deploy Angular 7 app to firebase",
+      "description": "How to deploy/publish an angular app to firebase",
+      "author": {
+        "name": "Satyaprakash Samantaray",
+        "profile": "https://social.technet.microsoft.com/profile/satyaprakash%20samantaray/"
+      },
+      "url": "https://social.technet.microsoft.com/wiki/contents/articles/52337.angular-7-deploying-app-to-firebase-hosting.aspx",
+      "category": "article",
+      "contributor": {
+        "name": "Shubham Arora",
+        "profile": "https://twitter.com/shubham__arora"
+      }
+    },
+    {
+      "title": "Angular material design for angular project",
+      "description": "In this post you will go through how you can use angular material design for angular app.",
+      "author": {
+        "name": "Sebastian Eschweiler",
+        "profile": "https://medium.com/@s_eschweiler"
+      },
+      "url": "https://medium.com/codingthesmartway-com-blog/angular-material-and-angular-6-material-design-for-angular-6b1a3ee476f0",
+      "category": "article",
+      "contributor": {
+        "name": "Shubham Arora",
+        "profile": "https://twitter.com/shubham__arora"
+      }
+    },
+    {
+      "title": "Learn Angular 8 from Scratch for Beginners - Crash Course",
+      "description": "Good tutorial for beginers covering many topics",
+      "author": {
+        "name": "DesignCourse",
+        "profile": "https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow"
+      },
+      "url": "https://www.youtube.com/watch?v=_TLhUCjY9iA",
+      "category": "course",
+      "contributor": {
+        "name": "Simon Lariz",
+        "profile": "https://github.com/SimonLariz"
+      }
+    },
+    {
+      "title": "Angular Resources - freeCodeCamp",
+      "description": "A collection of helpful Angular resources",
+      "author": {
+        "name": "freeCodeCamp",
+        "profile": "https://guide.freecodecamp.org/angular"
+      },
+      "url": "https://guide.freecodecamp.org/angular/angular-resources",
+      "category": "course",
+      "contributor": {
+        "name": "MakroCow",
+        "profile": "https://github.com/MakroCow"
+      }
+    },
+    {
+      "title": "Angular Resources - ng-book",
+      "description": "The in-depth, complete, and up-to-date book on Angular 8. Become an Angular 8 expert today.",
+      "author": {
+        "name": "Nate Murray, Felipe Coury, Ari Lerner, Carlos Taborda",
+        "profile": "https://www.ng-book.com/2/"
+      },
+      "url": "https://www.ng-book.com/2/",
+      "category": "book",
+      "contributor": {
+        "name": "blazinggun",
+        "profile": "https://github.com/blasttrash"
+      }
+    },
+     {
+      "title": "Angular Interview Questions and Answers",
+      "description": "Angular 4 is a Javascript framework built around the concept of components, and more precisely, with the Web Components standard in mind. It was rewritten from scratch by the Angular team using Typescript",
+      "author": {
+        "name": "Vigo Webs",
+        "profile": "https://medium.com/@vigowebs"
+      },
+      "url": "https://medium.com/@vigowebs/frequently-asked-angular-interview-questions-and-answers-d996be87cc7c",
+      "category": "article",
+      "contributor": {
+        "name": "Anuj kumar shukla",
+        "profile": "https://github.com/anujshuklaas"
+      }
+    },
+    {
+      "title": "Angular Resources -medium",
+      "description": "Why you should choose Angular for your next front-end project",
+      "author": {
+        "name": "Sam Redmond",
+        "profile": "https://blog.usejournal.com/@sredmond"
+      },
+      "url": "https://blog.usejournal.com/why-you-should-choose-angular-for-your-next-front-end-project-d4dffbae8b07",
+      "category": "article",
+      "contributor": {
+        "name": "Alok Kumar Singh",
+        "profile": "https://github.com/aloksingh3112"
+      }
+    },
+    {
+      "title": "3 ways to communicate between Angular components",
+      "description": "This is the topic I’ve seen many new Angular developers to struggle with. I will show you the three most common approaches, with examples that fit different use cases.",
+      "author": {
+        "name": "Miro Koczka",
+        "profile": "https://medium.com/@mirokoczka"
+      },
+      "url": "https://medium.com/@mirokoczka/3-ways-to-communicate-between-angular-components-a1e3f3304ecb",
+      "category": "article",
+      "contributor": {
+        "name": "Jéssica Lopes",
+        "profile": "https://github.com/eudivaloper"
+      }
+    },
+    {
+      "title": "Approach to Clean Architecture in Angular Applications — Theory",
+      "description": "Clean Architecture is a pattern for structuring an application architecture in general. It was originally introduced by Robert Martin, also known as Uncle Bob, who also published a lot of articles and books about writing clean and reusable code.",
+      "author": {
+        "name": "I'm A Giraffe",
+        "profile": "https://medium.com/@thegiraffeclub"
+      },
+      "url": "https://medium.com/@thegiraffeclub/angular-clean-architecture-approach-fcfe32e983a5",
+      "category": "article",
+      "contributor": {
+        "name": "Jéssica Lopes",
+        "profile": "https://github.com/eudivaloper"
+      }
+    },
+    {
+      "title": "awesome-hacktoberfest-2019",
+      "description": "This is very nice. I was helped by this page when I tried Hacktoberfest",
+      "author": {
+        "name": "Otacilio Saraiva Maia Neto",
+        "profile": "OtacilioN"
+      },
+      "url": "https://github.com/OtacilioN/awesome-hacktoberfest-2019",
+      "category": "library",
+      "contributor": {
+        "name": "issea1484",
+        "profile": "https://github.com/issea1484"
+      }
+    },
+    {
+      "title": "Write an Angular and AngularJS E2E test using Protractor",
+      "description": "Write e2e tests using protractor for angular and angularjs",
+      "author": {
+        "name": "Shameer Ahmad",
+        "profile": "https://medium.com/@shameerahmed"
+
 
             },
             "url": "https://medium.com/@shameerahmed/write-an-angular-and-angularjs-e2e-test-using-protractor-a9789834a65e",
@@ -2122,4 +4023,63 @@
             }
         }
     ]
+}
+    },
+    {
+      "title": "Angular 6+ deploy to Apache server by solving 404 Not found error on page refresh",
+      "description": "This page details the solution on using angular without HashLocationStrategy when serving on Apache server using .htaccess",
+      "author": {
+          "name": "Joel Joseph",
+          "profile": "http://joeljoseph.net/author/joel/"
+      },
+      "url": "http://joeljoseph.net/angular-6-deploy-on-apache-server-by-solving-404-not-found-error-on-page-refresh/",
+      "category": "article",
+      "contributor": {
+          "name": "João Castro",
+          "profile": "https://twitter.com/joaocstrob"
+      }
+    },
+    {
+      "title": "Configuring an Angular CLI project with GraphQL",
+      "description": "This article covers in detail the steps to configure GraphQL in a Angular CLI project",
+      "author": {
+        "name": "Chaz Gatian",
+        "profile": "https://twitter.com/Cgatian"
+      },
+      "url": "https://blog.angularindepth.com/configuring-a-angular-cli-project-with-graphql-37217f66d419",
+      "category": "article",
+      "contributor": {
+        "name": "Arunprabu Ganesan",
+        "profile": "https://twitter.com/__arunprabu"
+      }
+    },
+    {
+      "title": "Modern Angular",
+      "description": "This article mentions all the latest enhancements and improvements in Angular development environment, it includes the modern tooling which can be used for setting up Angular in 2020",
+      "author": {
+        "name": "Victor Savkin",
+        "profile": "https://blog.nrwl.io/@vsavkin"
+      },
+      "url": "https://blog.nrwl.io/modern-angular-39b3f360f3d9",
+      "category": "article, recording",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "Build your first Angular app",
+      "description": "This tutorial teaches you Angular through 33 screencasts and ensure that you get the foundation to start buidling apps with Angular.",
+      "author": {
+        "name": "Dan Wahlin",
+        "profile": "https://twitter.com/danwahlin"
+      },
+      "url": "https://scrimba.com/learn/yourfirstangularapp",
+      "category": "course",
+      "contributor": {
+        "name": "Sarthak Mittal",
+        "profile": "https://github.com/Sarthak-Mittal"
+      }
+    }
+  ]
 }
