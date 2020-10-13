@@ -2148,6 +2148,34 @@
         "name": "Sarthak Mittal",
         "profile": "https://github.com/Sarthak-Mittal"
       }
+    },
+    {
+      "title": "Angular for Beginners from Angular University",
+      "description": "This course covers the following topics: Custom components with @Component, Components @Input and @Output, event Emitters, ngFor, ngIf, ngClass, ngStyle, ngSwitch, Built-In Pipes, Async Pipe, Custom Pipes, @Injectable and Custom Services, HTTP Client - GET POST PUT DELETE.",
+      "author": {
+        "name": "Angular University",
+        "profile": " https://twitter.com/AngularUniv"
+      },
+      "url": "https://angular-university.io/course/angular-course",
+      "category": "course",
+      "contributor": {
+        "name": "Chiran Hewawitharana",
+        "profile": "https://github.com/cmadusankahw"
+      }
+    },
+    {
+      "title": "Angular and TypeScript e-books",
+      "description": "Collections of e-books of Angular, TypeScripts and related concepts from Angular university.",
+      "author": {
+        "name": "Angular University",
+        "profile": " https://twitter.com/AngularUniv"
+      },
+      "url": "https://angular-university.io/my-ebooks",
+      "category": "book",
+      "contributor": {
+        "name": "Chiran Hewawitharana",
+        "profile": "https://github.com/cmadusankahw"
+      }
     }
   ]
 }
