@@ -2176,6 +2176,34 @@
         "name": "Chiran Hewawitharana",
         "profile": "https://github.com/cmadusankahw"
       }
+    },
+    {
+      "title": "Build Your First Voice-Driven Web Application",
+      "description": "Learn how to implement speech controls for your Angular app with the Web speech-to-text API and RxJS in this awesome post by Angular GDE",
+      "author": {
+        "name": "Luis Aviles",
+        "profile": "https://twitter.com/luixaviles"
+      },
+      "url": "https://luixaviles.com/2020/07/build-your-first-voice-driven-web-app/",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "Compliant components: Declarative approach in Angular",
+      "description": "Angular is declarative in nature. Learn how to make your code adhere to this approach by eliminating internal manually managed states & optimize performance",
+      "author": {
+        "name": "Alex Inkin",
+        "profile": "https://indepth.dev/author/alex/"
+      },
+      "url": "https://indepth.dev/compliant-components-declarative-approach-in-angular/",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
     }
   ]
 }
