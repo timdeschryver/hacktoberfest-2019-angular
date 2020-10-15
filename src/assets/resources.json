@@ -2178,6 +2178,13 @@
       }
     },
     {
+      "title": "Implementing Angular Schematics using Angular + Tailwind CSS example",
+      "description": "In this article, The author start's with very basic Angular schematic implementation and slowly build the code for this complete angular-tailwindcss-schematics project.",
+      "author": {
+        "name": "Sanjiv Kumar",
+        "profile": "https://indepth.dev/author/sanjiv/"
+      },
+      "url": "https://indepth.dev/implementing-angular-schematics-using-angular-tailwindcss-example/",
       "title": "New possibilities with Angular's push pipe - Part 1",
       "description": "The main idea behind the Angular push pipe is a new way of handling change detection locally instead of the global handling used in async pipe by Angular natively. It is implemented in a way we can get zone-less performance in zone-full applications.",
       "author": {
@@ -2192,6 +2199,41 @@
       }
     },
     {
+      "title": "Configure and build Angular application for different environments",
+      "description": "In this article, The author gives insights on how to use configure and build for production environment and development environment.",
+      "author": {
+        "name": "Balram Chavan",
+        "profile": "https://medium.com/@balramchavan"
+      },
+      "url": "https://medium.com/@balramchavan/configure-and-build-angular-application-for-different-environments-7e94a3c0af23",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "HTTP interceptors in Angular",
+      "description": "In this article, The author give a good explanation about HTTP interceptors in angular and how to use them.",
+      "author": {
+        "name": "Alain Chautard",
+        "profile": "https://blog.angulartraining.com/@angulartraining"
+      },
+      "url": "https://blog.angulartraining.com/http-interceptors-in-angular-61dcf80b6bdd",
+      "category": "article",
+      "contributor": {
+        "name": "Jibin Philipose",
+        "profile": "https://twitter.com/JIBIN_TP"
+      }
+    },
+    {
+      "title": "Angular 10 Directives — Part of Angular Advanced Series",
+      "description": "In this article, The author give a good explanation about angular directives an how to create custom directives.",
+      "author": {
+        "name": "Shrivathsa Gopala Krishna Kumar",
+        "profile": "https://medium.com/@shrivathsagkumar"
+      },
+      "url": "https://medium.com/swlh/angular-10-directives-part-of-angular-advanced-series-e6e4f6491784",
       "title": "New possibilities with Angular’s push pipe - Part 2",
       "description": "The main idea behind the Angular push pipe is a new way of handling change detection locally instead of the global handling used in async pipe by Angular natively. It is implemented in a way we can get zone-less performance in zone-full applications.",
       "author": {
