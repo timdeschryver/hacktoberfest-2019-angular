@@ -2185,6 +2185,13 @@
         "profile": "https://twitter.com/luixaviles"
       },
       "url": "https://luixaviles.com/2020/07/build-your-first-voice-driven-web-app/",
+      "title": "New possibilities with Angular's push pipe - Part 1",
+      "description": "The main idea behind the Angular push pipe is a new way of handling change detection locally instead of the global handling used in async pipe by Angular natively. It is implemented in a way we can get zone-less performance in zone-full applications.",
+      "author": {
+        "name": "Michael Hladky",
+        "profile": "https://indepth.dev/author/michael-hladky/"
+      },
+      "url": "https://indepth.dev/angulars-push-pipe-part-1/",
       "category": "article",
       "contributor": {
         "name": "Jibin Philipose",
@@ -2199,6 +2206,13 @@
         "profile": "https://indepth.dev/author/alex/"
       },
       "url": "https://indepth.dev/compliant-components-declarative-approach-in-angular/",
+      "title": "New possibilities with Angular’s push pipe - Part 2",
+      "description": "The main idea behind the Angular push pipe is a new way of handling change detection locally instead of the global handling used in async pipe by Angular natively. It is implemented in a way we can get zone-less performance in zone-full applications.",
+      "author": {
+        "name": "Michael Hladky",
+        "profile": "https://indepth.dev/author/michael-hladky/"
+      },
+      "url": "https://indepth.dev/angulars-push-pipe-part-2/",
       "category": "article",
       "contributor": {
         "name": "Jibin Philipose",
