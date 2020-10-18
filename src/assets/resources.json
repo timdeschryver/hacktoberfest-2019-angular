@@ -1109,6 +1109,19 @@
       }
     },
     {
+      "title": "Pro Angular 6",
+      "description": "Get the most from Angular, the leading framework for building dynamic JavaScript applications. Understand the MVC pattern and the benefits it can offer.",
+      "author": {
+        "name": "Adam Freeman"
+      },
+      "url": "https://www.apress.com/it/book/9781484236499#otherversion=9781484236482",
+      "category": "article",
+      "contributor": {
+        "name": "Giuseppe Brb",
+        "profile": "https://github.com/giuseppebrb"
+      }
+    },
+    {
       "title": "Performance optimizations in Angular",
       "description": "Angular and RxJS are cool technologies that make it easy to develop web pages. Unfortunately, they also make it easy to build an inefficient page that will bring the browser to its knees. In this talk, a summary of learnings and common pitfalls will be shared.",
       "author": {
