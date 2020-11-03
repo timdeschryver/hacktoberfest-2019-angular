@@ -15,6 +15,20 @@
             }
         },
         {
+            "title": "Build a Desktop Application with Electron and Angular",
+            "description": "In this tutorial we’ll build a cross-platform desktop application with Electron and web technologies such as TypeScript and Angular.",
+            "author": {
+                "name": "Ahmed Bouchefra",
+                "profile": "https://twitter.com/techiediaries"
+            },
+            "url": "https://www.sitepoint.com/build-a-desktop-application-with-electron-and-angular/",
+            "category": "article",
+            "contributor": {
+                "name": "Shuaib Abbasi",
+                "profile": "https://www.linkedin.com/in/shuaib-abbasi-b83aa0155"
+            }
+        },
+        {
             "title": "Angular Service Worker: Dealing With Updates",
             "description": "If you’ve setup a service worker for your app using the @angular/service-worker package, you may be wondering about how to deal with stale versions of your app for end users. This can easily become a problem because new versions of a service worker will only be activated on page reload.",
             "author": {
