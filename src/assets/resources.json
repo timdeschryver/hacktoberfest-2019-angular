@@ -1910,7 +1910,7 @@
             "description": "Write e2e tests using protractor for angular and angularjs",
             "author": {
                 "name": "Shameer Ahmad",
-                "profile": "https://medium.com/@shameerahmed"
+                "profile": "https://medium.com/@shameerahmed",
   "$schema": "./resources-schema.json",
   "resources": [
     {
