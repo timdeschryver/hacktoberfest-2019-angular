@@ -4119,20 +4119,6 @@
       }
     },
     {
-      "title": "Building an Image Gallery with Angular",
-      "description": "Creating a good looking Image Gallery with Angular is an awesome project to work on because it covers some basic understanding of what front end development is and what front end developers do",
-      "author": {
-        "name": "Favour Vivian",
-        "profile": "https://twitter.com/Fey_vik"
-      },
-      "url": "https://codesource.io/building-an-image-gallery-with-angular/",
-      "category": "article",
-      "contributor": {
-        "name": "Shuaib Abbasi",
-        "profile": "https://www.linkedin.com/in/shuaib-abbasi-b83aa0155"
-      }
-    },
-    {
       "title": "Modern Angular",
       "description": "This article mentions all the latest enhancements and improvements in Angular development environment, it includes the modern tooling which can be used for setting up Angular in 2020",
       "author": {
