@@ -2287,6 +2287,20 @@
         "name": "Natalia Banasiewicz",
         "profile": "https://github.com/natkalia"
       }
+    },
+    {
+      "title": "Angular Pagination Example using ngx-pagination",
+      "description": "How to add pagination in Angular application without using a library or framework",
+      "author": {
+        "name": "Freaky Jolly",
+	      "profile": "https://www.freakyjolly.com/"
+      },
+      "url": "https://www.freakyjolly.com/angular-pagination-example-using-ngx-pagination/",
+      "category": "article",
+      "contributor": {
+        "name": "Aleksej",
+        "profile": "https://github.com/Aleksej222"
+      }
     }
   ]
 }
