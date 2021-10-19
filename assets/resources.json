@@ -2301,6 +2301,20 @@
         "name": "Aleksej",
         "profile": "https://github.com/Aleksej222"
       }
-    }
+    },
+   {
+      "title": "Angular Multiselect Dropdown",
+      "description": "Angular multiselect dropdown component for web applications. Easy to integrate and use. It can be bind to any custom data source.",
+      "author": {
+        "name": "patelnilesh",
+        "profile": "https://www.npmjs.com/~patelnilesh"
+      },
+      "url": "https://www.npmjs.com/package/ng-multiselect-dropdown",
+      "category": "library",
+      "contributor": {
+        "name": "Ravi Savaliya",
+        "profile": "https://github.com/savaliyaravi"
+     }
+  }
   ]
 }
