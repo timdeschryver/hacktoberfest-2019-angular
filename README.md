@@ -1,6 +1,6 @@
 # Hacktoberfest 2019 Angular Resources
 
-> https://timdeschryver.github.io/hacktoberfest-2019-angular/
+> <https://timdeschryver.github.io/hacktoberfest-2019-angular/>
 
 Add your favorite [Angular](https://angular.io/) resource from the year!
 This can be a resource that you enjoyed, learned from, or came back to the most frequent.
