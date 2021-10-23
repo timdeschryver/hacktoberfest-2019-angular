@@ -8,7 +8,7 @@ import { resources } from '../assets/resources.json';
 const randomized = resources.slice().sort(() => Math.random() - 0.5)
 
 @Injectable({
- providedIn: 'root'
+  providedIn: 'root'
 })
 export class ResourcesService {
   private routeQuery = this.route.queryParams.pipe(pluck('query'));
