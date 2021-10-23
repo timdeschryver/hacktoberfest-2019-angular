@@ -140,7 +140,7 @@ $theme: mat-dark-theme($primary, $accent);
             }
           }
       }
-        
+
       &:hover {
         transform: translateY(-0.25em) scale(1.04, 1.04);
         box-shadow: 0.3em 0.5em 0.5em -0.4em mat-color($accent, 500);
