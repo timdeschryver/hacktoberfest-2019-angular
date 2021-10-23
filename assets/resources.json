@@ -2302,7 +2302,7 @@
         "profile": "https://github.com/Aleksej222"
       }
     },
-   {
+    {
       "title": "Angular Multiselect Dropdown",
       "description": "Angular multiselect dropdown component for web applications. Easy to integrate and use. It can be bind to any custom data source.",
       "author": {
@@ -2314,7 +2314,20 @@
       "contributor": {
         "name": "Ravi Savaliya",
         "profile": "https://github.com/savaliyaravi"
-     }
-  }
+      }
+    },
+    {
+      "title": "How To Debug RxJs - A Simple Way For Debugging Rxjs Observables",
+      "description": "Here is a very simple and effective way for debugging RxJs code in Angular applications, or in any RxJs application in general.",
+      "author": {
+        "name": "Angular University"
+      },
+      "url": "https://blog.angular-university.io/debug-rxjs/",
+      "category": "article",
+      "contributor": {
+        "name": "jaywar",
+        "profile": "https://github.com/jaywar"
+      }
+    }
   ]
 }
