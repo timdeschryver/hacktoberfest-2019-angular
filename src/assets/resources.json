@@ -2345,6 +2345,19 @@
         "name":"jaywar",
         "profile":"https://github.com/jaywar"
       }
+    },
+    {
+      "title":"Angular Push Notifications: a Complete Step-by-Step Guide",
+      "description":"This is a step-by-step tutorial, so I invite you to code along as we implement Push Notifications in an existing application.",
+      "author":{
+        "name":"Angular University"
+      },
+      "url":"https://blog.angular-university.io/angular-push-notifications/",
+      "category":"article",
+      "contributor":{
+        "name":"jaywar",
+        "profile":"https://github.com/jaywar"
+      }
     }
   ]
 }
